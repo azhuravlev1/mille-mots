@@ -1,0 +1,111 @@
+de | PRE
+je | PRO:per | also-tagged-as=NOM
+et | CON
+le | ART:def | ms=le | fs=la | mp=les | fp=les | also-tagged-as=PRO:per
+à | PRE
+il | PRO:per
+un | ART:ind | ms=un | fs=une | mp=des | fp=des | also-tagged-as=ADJ:num,PRO:ind
+tu | PRO:per | also-tagged-as=ADJ
+vous | PRO:per
+en | PRE | also-tagged-as=ADV,PRO:per
+qui | PRO:int | also-tagged-as=PRO:rel
+on | PRO:per
+pour | PRE | also-tagged-as=NOM
+dans | PRE
+elle | PRO:per
+ça | PRO:dem | also-tagged-as=NOM
+du | ART:def | ms=du | fs=de la | mp=des | fp=des
+mais | CON
+se | PRO:per
+me | PRO:per
+au | ART:def | ms=au | fs=à la | mp=aux | fp=aux
+nous | PRO:per
+ce | PRO:dem | ms=ce | fs=cette | mp=ces | fp=ces | ms2=cet | also-tagged-as=ADJ:dem
+sur | PRE | also-tagged-as=ADJ
+avec | PRE
+y | PRO:per
+que | PRO:int | also-tagged-as=PRO:rel
+lui | PRO:per
+son | ADJ:pos | ms=son | fs=sa | mp=ses | fp=ses | also-tagged-as=NOM
+mon | ADJ:pos | ms=mon | fs=ma | mp=mes | fp=mes
+ils | PRO:per
+comme | CON | also-tagged-as=ADV
+moi | PRO:per | also-tagged-as=NOM
+par | PRE | also-tagged-as=NOM
+te | PRO:per
+où | PRO:int | also-tagged-as=PRO:rel
+ou | CON
+rien | PRO:ind | also-tagged-as=NOM
+quand | CON
+sans | PRE
+toi | PRO:per
+deux | ADJ:num
+votre | ADJ:pos | ms=votre | fs=votre | mp=vos | fp=vos
+ton | ADJ:pos | ms=ton | fs=ta | mp=tes | fp=tes | also-tagged-as=NOM
+notre | ADJ:pos | ms=notre | fs=notre | mp=nos | fp=nos
+chez | PRE
+quelque | ADJ:ind | also-tagged-as=ADV
+après | PRE | also-tagged-as=ADV
+sous | PRE
+cela | PRO:dem
+entre | PRE
+vers | PRE | also-tagged-as=NOM
+dont | PRO:int | also-tagged-as=PRO:rel
+avant | PRE | also-tagged-as=ADJ,ADV,NOM
+oh | ONO
+puis | CON | also-tagged-as=ADV
+donc | CON
+voilà | PRE
+trois | ADJ:num
+ni | CON
+depuis | PRE | also-tagged-as=ADV
+elles | PRO:per
+merci | ONO | also-tagged-as=NOM
+quel | ADJ:int | ms=quel | fs=quelle | mp=quels | fp=quelles
+contre | PRE | also-tagged-as=NOM
+devant | PRE | also-tagged-as=ADV,NOM
+personne | PRO:ind | also-tagged-as=NOM
+parce que | CON
+ah | ONO
+eux | PRO:per
+pendant | PRE | also-tagged-as=ADJ
+quelqu'un | PRO:ind
+chaque | ADJ:ind
+leur | PRO:per | ms=leur | fs=leur | mp=leurs | fp=leurs | also-tagged-as=PRO:pos
+car | CON | also-tagged-as=NOM
+celui | PRO:dem | ms=celui | fs=celle | mp=ceux | fp=celles
+eh | ONO
+derrière | PRE | also-tagged-as=ADV,NOM
+quatre | ADJ:num
+près | PRE | also-tagged-as=ADV
+dès | PRE
+cinq | ADJ:num
+voici | PRE
+aucun | ADJ:ind | ms=aucun | fs=aucune | mp=aucuns | fp=aucunes | also-tagged-as=PRO:ind
+dix | ADJ:num
+hé | ONO
+tiens | ONO | also-tagged-as=PRO:pos
+chacun | PRO:ind
+six | ADJ:num
+plusieurs | ADJ:ind | also-tagged-as=PRO:ind
+lorsque | CON
+sinon | CON
+lui-même | PRO:per
+parmi | PRE
+malgré | PRE
+pardon | ONO | also-tagged-as=NOM
+lequel | PRO:int | ms=lequel | fs=laquelle | mp=lesquels | fp=lesquelles | also-tagged-as=PRO:rel
+mille | ADJ:num | also-tagged-as=NOM
+sauf | PRE | also-tagged-as=ADJ
+selon | PRE
+puisque | CON
+moi-même | PRO:per
+ceci | PRO:dem
+vingt | ADJ:num
+tel | ADJ:ind | ms=tel | fs=telle | mp=tels | fp=telles | also-tagged-as=PRO:ind
+cent | ADJ:num | also-tagged-as=NOM
+grâce | PRE | also-tagged-as=NOM
+hors | PRE
+huit | ADJ:num
+tandis que | CON
+sept | ADJ:num

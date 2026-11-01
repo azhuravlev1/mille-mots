@@ -1,0 +1,150 @@
+être | VER | also-tagged-as=NOM
+avoir | VER | also-tagged-as=NOM
+faire | VER
+aller | VER | also-tagged-as=NOM
+dire | VER | also-tagged-as=NOM
+pouvoir | VER | also-tagged-as=NOM
+vouloir | VER
+voir | VER
+savoir | VER | also-tagged-as=NOM
+devoir | VER | also-tagged-as=NOM
+venir | VER
+prendre | VER
+parler | VER | also-tagged-as=NOM
+suivre | VER
+falloir | VER
+passer | VER
+croire | VER
+aimer | VER
+penser | VER
+trouver | VER
+regarder | VER
+laisser | VER
+donner | VER
+mettre | VER
+attendre | VER
+arriver | VER
+demander | VER
+rester | VER
+appeler | VER
+partir | VER
+connaître | VER
+sortir | VER | also-tagged-as=NOM
+comprendre | VER
+arrêter | VER
+entendre | VER
+mourir | VER
+sentir | VER
+tenir | VER
+chercher | VER
+revenir | VER
+tuer | VER
+rendre | VER
+finir | VER
+devenir | VER | also-tagged-as=NOM
+vivre | VER | also-tagged-as=NOM
+essayer | VER
+perdre | VER
+jouer | VER
+ouvrir | VER
+commencer | VER
+tomber | VER
+entrer | VER
+aider | VER
+rentrer | VER
+sembler | VER
+tirer | VER
+porter | VER | also-tagged-as=NOM
+écouter | VER
+oublier | VER
+manger | VER | also-tagged-as=NOM
+plaire | VER
+répondre | VER
+asseoir | VER
+retrouver | VER
+marcher | VER
+travailler | VER
+monter | VER
+changer | VER
+dormir | VER
+écrire | VER
+apprendre | VER
+poser | VER
+boire | VER
+lever | VER | also-tagged-as=NOM
+lire | VER | also-tagged-as=NOM
+montrer | VER
+servir | VER
+garder | VER
+quitter | VER
+occuper | VER
+tourner | VER
+foutre | VER | also-tagged-as=NOM
+paraître | VER
+payer | VER
+continuer | VER
+envoyer | VER
+descendre | VER
+retourner | VER
+souvenir | VER | also-tagged-as=NOM
+jeter | VER
+raconter | VER
+rappeler | VER
+gagner | VER
+reprendre | VER
+excuser | VER
+rire | VER | also-tagged-as=NOM
+toucher | VER | also-tagged-as=NOM
+manquer | VER
+acheter | VER
+espérer | VER
+fermer | VER
+imaginer | VER
+expliquer | VER
+importer | VER
+compter | VER
+rencontrer | VER
+décider | VER
+prier | VER
+recevoir | VER
+agir | VER
+pousser | VER
+valoir | VER
+courir | VER
+offrir | VER
+suffire | VER
+cacher | VER
+battre | VER
+coucher | VER | also-tagged-as=NOM
+emmener | VER
+reconnaître | VER
+apporter | VER
+bouger | VER
+permettre | VER
+crier | VER
+pleurer | VER
+disparaître | VER
+remettre | VER
+sauver | VER
+préparer | VER
+frapper | VER
+voler | VER
+découvrir | VER
+sourire | VER | also-tagged-as=NOM
+conduire | VER
+approcher | VER
+préférer | VER
+désoler | VER
+accepter | VER
+ressembler | VER
+choisir | VER
+revoir | VER | also-tagged-as=NOM
+réveiller | VER
+présenter | VER
+vendre | VER
+répéter | VER
+refuser | VER
+couper | VER
+taire | VER
+empêcher | VER
+chanter | VER

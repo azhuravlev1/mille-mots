@@ -1,0 +1,139 @@
+gouvernement | NOM | gender=m | pl=gouvernements
+client | NOM | gender=m | pl=clients | fem=cliente
+été | NOM | gender=m | pl=étés
+con | NOM | gender=m | pl=cons | fem=conne | also-tagged-as=ADJ,PRO:per
+départ | NOM | gender=m | pl=départs
+courant | NOM | gender=m | pl=courants | also-tagged-as=ADJ
+oiseau | NOM | gender=m | pl=oiseaux
+moyen | NOM | gender=m | pl=moyens | also-tagged-as=ADJ
+ventre | NOM | gender=m | pl=ventres
+contraire | NOM | gender=m | pl=contraires | also-tagged-as=ADJ
+hôpital | NOM | gender=m | pl=hôpitaux
+classe | NOM | gender=f | pl=classes
+honte | NOM | gender=f | pl=hontes
+avenir | NOM | gender=m | pl=avenirs
+bête | NOM | gender=f | pl=bêtes | also-tagged-as=ADJ
+bonsoir | NOM | gender=m | pl=bonsoirs
+loi | NOM | gender=f | pl=lois
+genou | NOM | gender=m | pl=genoux
+escalier | NOM | gender=m | pl=escaliers
+présence | NOM | gender=f | pl=présences
+cigarette | NOM | gender=f | pl=cigarettes
+effort | NOM | gender=m | pl=efforts
+larme | NOM | gender=f | pl=larmes
+soirée | NOM | gender=f | pl=soirées
+million | NOM | gender=m | pl=millions
+siècle | NOM | gender=m | pl=siècles
+lendemain | NOM | gender=m | pl=lendemains
+intérêt | NOM | gender=m | pl=intérêts
+quartier | NOM | gender=m | pl=quartiers
+passé | NOM | gender=m | pl=passés | also-tagged-as=ADJ
+liberté | NOM | gender=f | pl=libertés
+camarade | NOM | pl=camarades
+droite | NOM | gender=f | pl=droites
+cadeau | NOM | gender=m | pl=cadeaux
+erreur | NOM | gender=f | pl=erreurs
+appartement | NOM | gender=m | pl=appartements
+appel | NOM | gender=m | pl=appels
+mètre | NOM | gender=m | pl=mètres
+poste | NOM | pl=postes
+retard | NOM | gender=m | pl=retards
+pain | NOM | gender=m | pl=pains
+preuve | NOM | gender=f | pl=preuves
+hasard | NOM | gender=m | pl=hasards
+grand-père | NOM | gender=m | pl=grands-pères
+mémoire | NOM | pl=mémoires
+gosse | NOM | pl=gosses
+conseil | NOM | gender=m | pl=conseils
+compagnie | NOM | gender=f | pl=compagnies
+objet | NOM | gender=m | pl=objets
+colère | NOM | gender=f | pl=colères
+pluie | NOM | gender=f | pl=pluies
+feuille | NOM | gender=f | pl=feuilles
+grand-mère | NOM | gender=f | pl=grand-mères
+douleur | NOM | gender=f | pl=douleurs
+occasion | NOM | gender=f | pl=occasions
+entrée | NOM | gender=f | pl=entrées
+clé | NOM | gender=f | pl=clés
+île | NOM | gender=f | pl=îles
+rôle | NOM | gender=m | pl=rôles
+espoir | NOM | gender=m | pl=espoirs
+beauté | NOM | gender=f | pl=beautés
+dimanche | NOM | gender=m | pl=dimanches
+mesure | NOM | gender=f | pl=mesures
+choix | NOM | gender=m
+fil | NOM | gender=m | pl=fils
+équipe | NOM | gender=f | pl=équipes
+art | NOM | gender=m | pl=arts
+morceau | NOM | gender=m | pl=morceaux
+cousin | NOM | gender=m | pl=cousins | fem=cousine
+champ | NOM | gender=m | pl=champs
+animal | NOM | gender=m | pl=animaux | also-tagged-as=ADJ
+phrase | NOM | gender=f | pl=phrases
+professeur | NOM | gender=f | pl=professeurs
+désir | NOM | gender=m | pl=désirs
+bouteille | NOM | gender=f | pl=bouteilles
+surprise | NOM | gender=f | pl=surprises
+message | NOM | gender=m | pl=messages
+cou | NOM | gender=m | pl=cous
+sommeil | NOM | gender=m | pl=sommeils
+calme | NOM | gender=m | pl=calmes | also-tagged-as=ADJ
+campagne | NOM | gender=f | pl=campagnes
+chaise | NOM | gender=f | pl=chaises
+glace | NOM | gender=f | pl=glaces
+bain | NOM | gender=m | pl=bains
+conversation | NOM | gender=f | pl=conversations
+agent | NOM | gender=m | pl=agents | fem=agente
+dîner | NOM | gender=m | pl=dîners | also-tagged-as=VER
+action | NOM | gender=f | pl=actions
+nature | NOM | gender=f | pl=natures | also-tagged-as=ADJ
+chaleur | NOM | gender=f | pl=chaleurs
+page | NOM | pl=pages
+joue | NOM | gender=f | pl=joues
+moitié | NOM | gender=f | pl=moitiés | also-tagged-as=ADV
+course | NOM | gender=f | pl=courses
+herbe | NOM | gender=f | pl=herbes
+direction | NOM | gender=f | pl=directions
+accident | NOM | gender=m | pl=accidents
+machine | NOM | gender=f | pl=machines
+victime | NOM | gender=f | pl=victimes
+sécurité | NOM | gender=f | pl=sécurités
+vêtement | NOM | gender=m | pl=vêtements
+avance | NOM | gender=f | pl=avances
+fer | NOM | gender=m | pl=fers | fem=fère
+dollar | NOM | gender=m | pl=dollars
+colonel | NOM | gender=m | pl=colonels | fem=colonelle
+bande | NOM | gender=f | pl=bandes
+vacance | NOM | gender=f | pl=vacances
+avocat | NOM | gender=m | pl=avocats | fem=avocate
+malheur | NOM | gender=m | pl=malheurs
+crime | NOM | gender=m | pl=crimes
+tas | NOM | gender=m
+forêt | NOM | gender=f | pl=forêts
+diable | NOM | gender=m | pl=diables | also-tagged-as=ONO
+côte | NOM | gender=f | pl=côtes
+billet | NOM | gender=m | pl=billets
+pont | NOM | gender=m | pl=ponts
+arrière | NOM | gender=m | pl=arrières | also-tagged-as=ADJ,ADV
+détail | NOM | gender=m | pl=détails
+rendez-vous | NOM | gender=m
+montagne | NOM | gender=f | pl=montagnes
+étage | NOM | gender=m | pl=étages
+chapeau | NOM | gender=m | pl=chapeaux
+cinéma | NOM | gender=m | pl=cinémas
+centre | NOM | gender=m | pl=centres
+santé | NOM | gender=f | pl=santés
+courage | NOM | gender=m | pl=courages
+toit | NOM | gender=m | pl=toits
+allemand | NOM | gender=m | pl=allemands | fem=allemande | also-tagged-as=ADJ
+salon | NOM | gender=m | pl=salons
+trace | NOM | gender=f | pl=traces
+note | NOM | gender=f | pl=notes
+soin | NOM | gender=m | pl=soins
+foule | NOM | gender=f | pl=foules
+tableau | NOM | gender=m | pl=tableaux
+projet | NOM | gender=m | pl=projets
+métier | NOM | gender=m | pl=métiers
+but | NOM | gender=m | pl=buts
+chair | NOM | gender=f | pl=chairs | also-tagged-as=ADJ
+hiver | NOM | gender=m | pl=hivers

@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+shots/
+*.log
+.DS_Store
+
+# Lexique 3.83 download (25 MB, CC BY-SA): get it from http://www.lexique.org
+data/Lexique383.tsv
+data/Manuel_Lexique.3.pdf
+data/README-Lexique.txt
+data/RELEASE NOTES-Lexique.txt

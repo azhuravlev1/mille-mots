@@ -1,0 +1,169 @@
+tout | ADJ | ms=tout | fs=toute | mp=tous | fp=toutes | also-tagged-as=ADJ:ind,ADV,NOM,PRO:ind
+petit | ADJ | ms=petit | fs=petite | mp=petits | fp=petites | also-tagged-as=ADV,NOM
+bon | ADJ | ms=bon | fs=bonne | mp=bons | fp=bonnes | also-tagged-as=ADV,NOM,ONO
+grand | ADJ | ms=grand | fs=grande | mp=grands | fp=grandes | also-tagged-as=ADV,NOM
+seul | ADJ | ms=seul | fs=seule | mp=seuls | fp=seules | also-tagged-as=NOM
+autre | ADJ | ms=autre | fs=autre | mp=autres | fp=autres | also-tagged-as=NOM,PRO:ind
+sûr | ADJ | ms=sûr | fs=sûre | mp=sûrs | fp=sûres
+beau | ADJ | ms=beau | fs=belle | mp=beaux | fp=belles | also-tagged-as=ADV,NOM
+vrai | ADJ | ms=vrai | fs=vraie | mp=vrais | fp=vraies | also-tagged-as=NOM
+premier | ADJ | ms=premier | fs=première | mp=premiers | fp=premières | also-tagged-as=NOM
+jeune | ADJ | ms=jeune | fs=jeune | mp=jeunes | fp=jeunes | also-tagged-as=NOM
+dernier | ADJ | ms=dernier | fs=dernière | mp=derniers | fp=dernières | also-tagged-as=NOM
+juste | ADJ | ms=juste | fs=juste | mp=justes | fp=justes | also-tagged-as=ADV,NOM
+vieux | ADJ | ms=vieux | fs=vieille | mp=vieux | fp=vieilles | also-tagged-as=NOM
+noir | ADJ | ms=noir | fs=noire | mp=noirs | fp=noires | also-tagged-as=NOM
+gros | ADJ | ms=gros | fs=grosse | mp=gros | fp=grosses | also-tagged-as=NOM
+long | ADJ | ms=long | fs=longue | mp=longs | fp=longues | also-tagged-as=NOM
+plein | ADJ | ms=plein | fs=pleine | mp=pleins | fp=pleines | also-tagged-as=NOM,PRE
+blanc | ADJ | ms=blanc | fs=blanche | mp=blancs | fp=blanches | also-tagged-as=NOM
+fou | ADJ | ms=fou | fs=folle | mp=fous | fp=folles | also-tagged-as=NOM
+mauvais | ADJ | ms=mauvais | fs=mauvaise | mp=mauvais | fp=mauvaises | also-tagged-as=NOM
+heureux | ADJ | ms=heureux | fs=heureuse | mp=heureux | fp=heureuses | also-tagged-as=NOM
+prêt | ADJ | ms=prêt | fs=prête | mp=prêts | fp=prêtes | also-tagged-as=NOM
+possible | ADJ | ms=possible | fs=possible | mp=possibles | fp=possibles | also-tagged-as=NOM
+rouge | ADJ | ms=rouge | fs=rouge | mp=rouges | fp=rouges | also-tagged-as=NOM
+propre | ADJ | ms=propre | fs=propre | mp=propres | fp=propres | also-tagged-as=NOM
+pauvre | ADJ | ms=pauvre | fs=pauvre | mp=pauvres | fp=pauvres | also-tagged-as=NOM
+joli | ADJ | ms=joli | fs=jolie | mp=jolis | fp=jolies
+français | ADJ | ms=français | fs=française | mp=français | fp=françaises | also-tagged-as=NOM
+cher | ADJ | ms=cher | fs=chère | mp=chers | fp=chères | also-tagged-as=ADV,NOM
+dur | ADJ | ms=dur | fs=dure | mp=durs | fp=dures | also-tagged-as=NOM
+important | ADJ | ms=important | fs=importante | mp=importants | fp=importantes | also-tagged-as=NOM
+meilleur | ADJ | ms=meilleur | fs=meilleure | mp=meilleurs | fp=meilleures | also-tagged-as=NOM
+libre | ADJ | ms=libre | fs=libre | mp=libres | fp=libres
+désolé | ADJ | ms=désolé | fs=désolée | mp=désolés | fp=désolées
+froid | ADJ | ms=froid | fs=froide | mp=froids | fp=froides | also-tagged-as=NOM
+simple | ADJ | ms=simple | fs=simple | mp=simples | fp=simples | also-tagged-as=NOM
+certain | ADJ | ms=certain | fs=certaine | mp=certains | fp=certaines | also-tagged-as=ADJ:ind
+pareil | ADJ | ms=pareil | fs=pareille | mp=pareils | fp=pareilles | also-tagged-as=ADV,NOM
+clair | ADJ | ms=clair | fs=claire | mp=clairs | fp=claires | also-tagged-as=NOM
+bleu | ADJ | ms=bleu | fs=bleue | mp=bleus | fp=bleues | also-tagged-as=NOM
+bas | ADJ | ms=bas | fs=basse | mp=bas | fp=basses | also-tagged-as=ADV,NOM
+difficile | ADJ | ms=difficile | fs=difficile | mp=difficiles | fp=difficiles
+content | ADJ | ms=content | fs=contente | mp=contents | fp=contentes | also-tagged-as=NOM
+haut | ADJ | ms=haut | fs=haute | mp=hauts | fp=hautes | also-tagged-as=ADV,NOM
+facile | ADJ | ms=facile | fs=facile | mp=faciles | fp=faciles
+gentil | ADJ | ms=gentil | fs=gentille | mp=gentils | fp=gentilles | also-tagged-as=NOM
+sale | ADJ | ms=sale | fs=sale | mp=sales | fp=sales
+drôle | ADJ | ms=drôle | fs=drôle | mp=drôles | fp=drôles | also-tagged-as=NOM
+grave | ADJ | ms=grave | fs=grave | mp=graves | fp=graves | also-tagged-as=NOM
+doux | ADJ | ms=doux | fs=douce | mp=doux | fp=douces | also-tagged-as=ADV,NOM
+malade | ADJ | ms=malade | fs=malade | mp=malades | fp=malades | also-tagged-as=NOM
+faux | ADJ | ms=faux | fs=fausse | mp=faux | fp=fausses | also-tagged-as=ADV,NOM
+ancien | ADJ | ms=ancien | fs=ancienne | mp=anciens | fp=anciennes | also-tagged-as=NOM
+différent | ADJ | ms=différent | fs=différente | mp=différents | fp=différentes
+entier | ADJ | ms=entier | fs=entière | mp=entiers | fp=entières | also-tagged-as=NOM
+impossible | ADJ | ms=impossible | fs=impossible | mp=impossibles | fp=impossibles | also-tagged-as=NOM
+prochain | ADJ | ms=prochain | fs=prochaine | mp=prochains | fp=prochaines | also-tagged-as=NOM
+humain | ADJ | ms=humain | fs=humaine | mp=humains | fp=humaines | also-tagged-as=NOM
+nu | ADJ | ms=nu | fs=nue | mp=nus | fp=nues | also-tagged-as=NOM
+vivant | ADJ | ms=vivant | fs=vivante | mp=vivants | fp=vivantes | also-tagged-as=NOM
+tranquille | ADJ | ms=tranquille | fs=tranquille | mp=tranquilles | fp=tranquilles
+triste | ADJ | ms=triste | fs=triste | mp=tristes | fp=tristes
+vide | ADJ | ms=vide | fs=vide | mp=vides | fp=vides | also-tagged-as=NOM
+vert | ADJ | ms=vert | fs=verte | mp=verts | fp=vertes | also-tagged-as=NOM
+chaud | ADJ | ms=chaud | fs=chaude | mp=chauds | fp=chaudes | also-tagged-as=ADV,NOM
+normal | ADJ | ms=normal | fs=normale | mp=normaux | fp=normales | also-tagged-as=NOM
+étrange | ADJ | ms=étrange | fs=étrange | mp=étranges | fp=étranges | also-tagged-as=NOM
+léger | ADJ | ms=léger | fs=légère | mp=légers | fp=légères
+sec | ADJ | ms=sec | fs=sèche | mp=secs | fp=sèches
+bizarre | ADJ | ms=bizarre | fs=bizarre | mp=bizarres | fp=bizarres
+moindre | ADJ | ms=moindre | fs=moindre | mp=moindres | fp=moindres
+sérieux | ADJ | ms=sérieux | fs=sérieuse | mp=sérieux | fp=sérieuses | also-tagged-as=NOM
+terrible | ADJ | ms=terrible | fs=terrible | mp=terribles | fp=terribles
+lourd | ADJ | ms=lourd | fs=lourde | mp=lourds | fp=lourdes | also-tagged-as=ADV,NOM
+gris | ADJ | ms=gris | fs=grise | mp=gris | fp=grises | also-tagged-as=NOM
+neuf | ADJ | ms=neuf | fs=neuve | mp=neufs | fp=neuves | also-tagged-as=ADJ:num
+ouvert | ADJ | ms=ouvert | fs=ouverte | mp=ouverts | fp=ouvertes
+énorme | ADJ | ms=énorme | fs=énorme | mp=énormes | fp=énormes
+amoureux | ADJ | ms=amoureux | fs=amoureuse | mp=amoureux | fp=amoureuses | also-tagged-as=NOM
+capable | ADJ | ms=capable | fs=capable | mp=capables | fp=capables
+super | ADJ | ms=super | fs=super | mp=supers | fp=supers | also-tagged-as=NOM
+frais | ADJ | ms=frais | fs=fraîche | mp=frais | fp=fraîches | also-tagged-as=NOM
+sombre | ADJ | ms=sombre | fs=sombre | mp=sombres | fp=sombres
+pire | ADJ | ms=pire | fs=pire | mp=pires | fp=pires | also-tagged-as=NOM
+court | ADJ | ms=court | fs=courte | mp=courts | fp=courtes | also-tagged-as=ADV,NOM
+dangereux | ADJ | ms=dangereux | fs=dangereuse | mp=dangereux | fp=dangereuses
+pur | ADJ | ms=pur | fs=pure | mp=purs | fp=pures
+profond | ADJ | ms=profond | fs=profonde | mp=profonds | fp=profondes
+génial | ADJ | ms=génial | fs=géniale | mp=géniaux | fp=géniales
+inutile | ADJ | ms=inutile | fs=inutile | mp=inutiles | fp=inutiles | also-tagged-as=NOM
+second | ADJ | ms=second | fs=seconde | mp=seconds | fp=secondes | also-tagged-as=NOM
+militaire | ADJ | ms=militaire | fs=militaire | mp=militaires | fp=militaires | also-tagged-as=NOM
+riche | ADJ | ms=riche | fs=riche | mp=riches | fp=riches | also-tagged-as=NOM
+américain | ADJ | ms=américain | fs=américaine | mp=américains | fp=américaines | also-tagged-as=NOM
+ne | ADV | also-tagged-as=NOM
+pas | ADV | also-tagged-as=NOM
+plus | ADV | also-tagged-as=NOM
+bien | ADV | also-tagged-as=ADJ,NOM
+non | ADV | also-tagged-as=NOM
+oui | ADV
+là | ADV | also-tagged-as=ONO
+si | ADV | also-tagged-as=CON
+ici | ADV
+alors | ADV
+aussi | ADV
+encore | ADV
+très | ADV
+jamais | ADV
+même | ADV | also-tagged-as=ADJ,PRO:ind
+toujours | ADV
+peu | NOM | also-tagged-as=ADV
+trop | ADV
+peut-être | ADV
+pourquoi | ADV | also-tagged-as=CON
+maintenant | ADV
+déjà | ADV | also-tagged-as=ONO
+vraiment | ADV
+moins | ADV | also-tagged-as=NOM
+comment | ADV | also-tagged-as=CON,ONO
+beaucoup | ADV
+mieux | ADV | also-tagged-as=NOM
+vite | ADV
+assez | ADV
+tant | ADV
+mal | ADV | also-tagged-as=ADJ,NOM
+enfin | ADV
+loin | ADV
+tard | ADV | also-tagged-as=NOM
+seulement | ADV
+ainsi | ADV
+presque | ADV
+longtemps | ADV
+demain | ADV | also-tagged-as=NOM
+aujourd'hui | ADV
+combien | ADV
+plutôt | ADV
+ailleurs | ADV
+pourtant | ADV
+autour | ADV
+parfois | ADV
+surtout | ADV
+souvent | ADV
+ensemble | ADV | also-tagged-as=NOM
+autant | ADV
+fort | ADV | also-tagged-as=ADJ,NOM
+là-bas | ADV
+bientôt | ADV
+tellement | ADV
+d'abord | ADV
+partout | ADV
+hier | ADV
+ensuite | ADV
+dehors | ADV | also-tagged-as=NOM,ONO
+tôt | ADV
+debout | ADV
+exactement | ADV
+doucement | ADV
+soudain | ADV | also-tagged-as=ADJ
+au-dessus | ADV
+simplement | ADV
+sûrement | ADV
+aussitôt | ADV
+complètement | ADV
+lentement | ADV
+dessus | ADV | also-tagged-as=NOM
+cependant | ADV | also-tagged-as=CON
+absolument | ADV
+justement | ADV

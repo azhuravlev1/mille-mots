@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>1000 French words — patterns &amp; forms</title>
+<style>/*STYLE*/</style>
+</head>
+<body class="mode-print">
+<header class="topbar">
+  <div class="topbar-inner">
+    <a class="brand" href="#top">Mille mots</a>
+    <nav class="nav" id="nav"></nav>
+    <div class="top-actions">
+      <button class="print-btn" id="printBtn" title="Print / save as PDF">Print</button>
+      <div class="mode-switch" id="modeSwitch" data-mode="print" role="tablist" aria-label="View mode">
+        <span class="mode-slider" aria-hidden="true"></span>
+        <button role="tab" data-mode="print">Print</button>
+        <button role="tab" data-mode="learn">Learn</button>
+      </div>
+    </div>
+  </div>
+  <div class="toolbar" id="toolbar">
+    <input id="search" type="search" placeholder="Search French or English…" autocomplete="off">
+    <label class="tgl"><input type="checkbox" id="quiz"> Quiz: hide translations</label>
+    <label class="tgl"><input type="checkbox" id="hideKnown"> Hide words I know</label>
+    <label class="tgl">Sort
+      <select id="sort"><option value="rank">by frequency</option><option value="alpha">A → Z</option></select>
+    </label>
+    <span class="filter-pill" id="filterPill" hidden></span>
+    <span class="known-count" id="knownCount"></span>
+  </div>
+</header>
+<main id="top">
+  <div class="sheet" id="app"></div>
+</main>
+<script id="data" type="application/json">/*DATA*/</script>
+<script>/*APP*/</script>
+</body>
+</html>

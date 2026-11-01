@@ -1,0 +1,140 @@
+chose | NOM | gender=f | pl=choses
+homme | NOM | gender=m | pl=hommes
+jour | NOM | gender=m | pl=jours
+temps | NOM | gender=m
+femme | NOM | gender=f | pl=femmes
+fois | NOM | gender=f
+vie | NOM | gender=f | pl=vies
+main | NOM | gender=f | pl=mains
+oeil | NOM | gender=m | pl=yeux
+heure | NOM | gender=f | pl=heures
+père | NOM | gender=m | pl=pères
+monde | NOM | gender=m | pl=mondes
+an | NOM | gender=m | pl=ans
+enfant | NOM | gender=m | pl=enfants
+mère | NOM | gender=f | pl=mères
+fille | NOM | gender=f | pl=filles
+tête | NOM | gender=f | pl=têtes
+nuit | NOM | gender=f | pl=nuits
+coup | NOM | gender=m | pl=coups
+dieu | NOM | gender=m | pl=dieux
+maison | NOM | gender=f | pl=maisons
+air | NOM | gender=m | pl=airs
+soir | NOM | gender=m | pl=soirs
+moment | NOM | gender=m | pl=moments
+ami | NOM | gender=m | pl=amis | fem=amie | also-tagged-as=ADJ
+monsieur | NOM | gender=m | pl=messieurs
+besoin | NOM | gender=m | pl=besoins
+gens | NOM
+nom | NOM | gender=m | pl=noms
+porte | NOM | gender=f | pl=portes
+mort | NOM | gender=f | pl=morts | also-tagged-as=ADJ
+accord | NOM | gender=m | pl=accords
+peur | NOM | gender=f | pl=peurs
+amour | NOM | gender=m | pl=amours
+côté | NOM | gender=m | pl=côtés
+mot | NOM | gender=m | pl=mots
+raison | NOM | gender=f | pl=raisons
+place | NOM | gender=f | pl=places
+fait | NOM | gender=m | pl=faits | also-tagged-as=ADJ
+eau | NOM | gender=f | pl=eaux
+terre | NOM | gender=f | pl=terres
+voix | NOM | gender=f
+question | NOM | gender=f | pl=questions
+corps | NOM | gender=m
+fils | NOM | gender=m
+rue | NOM | gender=f | pl=rues
+histoire | NOM | gender=f | pl=histoires
+idée | NOM | gender=f | pl=idées
+voiture | NOM | gender=f | pl=voitures
+argent | NOM | gender=m | pl=argents | also-tagged-as=ADJ
+visage | NOM | gender=m | pl=visages
+chambre | NOM | gender=f | pl=chambres
+pied | NOM | gender=m | pl=pieds
+année | NOM | gender=f | pl=années
+maman | NOM | gender=f | pl=mamans
+matin | NOM | gender=m | pl=matins
+famille | NOM | gender=f | pl=familles
+travail | NOM | gender=m | pl=travaux
+ville | NOM | gender=f | pl=villes
+affaire | NOM | gender=f | pl=affaires
+coeur | NOM | gender=m | pl=coeurs
+bras | NOM | gender=m
+part | NOM | gender=f | pl=parts
+bonjour | NOM | gender=m | pl=bonjours
+mois | NOM | gender=m
+problème | NOM | gender=m | pl=problèmes
+frère | NOM | gender=m | pl=frères
+peine | NOM | gender=f | pl=peines
+guerre | NOM | gender=f | pl=guerres
+suite | NOM | gender=f | pl=suites
+point | NOM | gender=m | pl=points | also-tagged-as=ADV
+train | NOM | gender=m | pl=trains
+minute | NOM | gender=f | pl=minutes
+instant | NOM | gender=m | pl=instants | also-tagged-as=ADJ
+fin | NOM | pl=fins | also-tagged-as=ADJ
+bout | NOM | gender=m | pl=bouts
+lit | NOM | gender=m | pl=lits
+nouveau | NOM | gender=m | pl=nouveaux | fem=nouvelle | also-tagged-as=ADJ
+type | NOM | gender=m | pl=types
+garçon | NOM | gender=m | pl=garçons
+sang | NOM | gender=m | pl=sangs
+madame | NOM | gender=f | pl=mesdames
+façon | NOM | gender=f | pl=façons
+tour | NOM | pl=tours
+table | NOM | gender=f | pl=tables
+cas | NOM | gender=m
+chance | NOM | gender=f | pl=chances
+force | NOM | gender=f | pl=forces | also-tagged-as=ADJ:ind
+semaine | NOM | gender=f | pl=semaines
+fond | NOM | gender=m
+livre | NOM | pl=livres
+regard | NOM | gender=m | pl=regards
+envie | NOM | gender=f | pl=envies
+feu | NOM | gender=m | pl=feux | also-tagged-as=ADJ
+truc | NOM | gender=m | pl=trucs
+doute | NOM | gender=m | pl=doutes
+soleil | NOM | gender=m | pl=soleils
+route | NOM | gender=f | pl=routes
+ordre | NOM | gender=m | pl=ordres
+lieu | NOM | gender=m | pl=lieux
+ciel | NOM | gender=m | pl=ciels
+pays | NOM | gender=m
+silence | NOM | gender=m | pl=silences
+pièce | NOM | gender=f | pl=pièces
+sorte | NOM | gender=f | pl=sortes
+plaisir | NOM | gender=m | pl=plaisirs
+cause | NOM | gender=f | pl=causes
+bois | NOM | gender=m
+lettre | NOM | gender=f | pl=lettres
+chef | NOM | pl=chefs
+lumière | NOM | gender=f | pl=lumières
+chien | NOM | gender=m | pl=chiens | fem=chienne
+mur | NOM | gender=m | pl=murs
+verre | NOM | gender=m | pl=verres
+partie | NOM | gender=f | pl=parties
+mec | NOM | gender=m | pl=mecs
+face | NOM | gender=f | pl=faces
+cheveu | NOM | gender=m | pl=cheveux
+mari | NOM | gender=m | pl=maris
+reste | NOM | gender=m | pl=restes
+genre | NOM | gender=m | pl=genres
+bruit | NOM | gender=m | pl=bruits
+bouche | NOM | gender=f | pl=bouches
+esprit | NOM | gender=m | pl=esprits
+droit | NOM | gender=m | pl=droits | also-tagged-as=ADJ,ADV
+fenêtre | NOM | gender=f | pl=fenêtres
+âge | NOM | gender=m | pl=âges
+compte | NOM | gender=m | pl=comptes
+mer | NOM | gender=f | pl=mers
+état | NOM | gender=m | pl=états
+jeu | NOM | gender=m | pl=jeux
+général | NOM | gender=m | pl=généraux | fem=générale | also-tagged-as=ADJ
+police | NOM | gender=f | pl=polices
+chemin | NOM | gender=m | pl=chemins
+endroit | NOM | gender=m | pl=endroits
+journée | NOM | gender=f | pl=journées
+école | NOM | gender=f | pl=écoles
+gars | NOM | gender=m
+putain | NOM | gender=f | pl=putains
+soeur | NOM | gender=f | pl=soeurs

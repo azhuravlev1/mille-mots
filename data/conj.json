@@ -1,0 +1,13848 @@
+{
+"être": {
+"t": {
+"present": [
+"suis",
+"es",
+"est",
+"sommes",
+"êtes",
+"sont"
+],
+"imparfait": [
+"étais",
+"étais",
+"était",
+"étions",
+"étiez",
+"étaient"
+],
+"futur": [
+"serai",
+"seras",
+"sera",
+"serons",
+"serez",
+"seront"
+],
+"conditionnel": [
+"serais",
+"serais",
+"serait",
+"serions",
+"seriez",
+"seraient"
+],
+"subjonctif": [
+"sois",
+"sois",
+"soit",
+"soyons",
+"soyez",
+"soient"
+]
+},
+"aux": "avoir",
+"pp": "été"
+},
+"avoir": {
+"t": {
+"present": [
+"ai",
+"as",
+"a",
+"avons",
+"avez",
+"ont"
+],
+"imparfait": [
+"avais",
+"avais",
+"avait",
+"avions",
+"aviez",
+"avaient"
+],
+"futur": [
+"aurai",
+"auras",
+"aura",
+"aurons",
+"aurez",
+"auront"
+],
+"conditionnel": [
+"aurais",
+"aurais",
+"aurait",
+"aurions",
+"auriez",
+"auraient"
+],
+"subjonctif": [
+"aie",
+"aies",
+"ait",
+"ayons",
+"ayez",
+"aient"
+]
+},
+"aux": "avoir",
+"pp": "eu"
+},
+"faire": {
+"t": {
+"present": [
+"fais",
+"fais",
+"fait",
+"faisons",
+"faites",
+"font"
+],
+"imparfait": [
+"faisais",
+"faisais",
+"faisait",
+"faisions",
+"faisiez",
+"faisaient"
+],
+"futur": [
+"ferai",
+"feras",
+"fera",
+"ferons",
+"ferez",
+"feront"
+],
+"conditionnel": [
+"ferais",
+"ferais",
+"ferait",
+"ferions",
+"feriez",
+"feraient"
+],
+"subjonctif": [
+"fasse",
+"fasses",
+"fasse",
+"fassions",
+"fassiez",
+"fassent"
+]
+},
+"aux": "avoir",
+"pp": "fait"
+},
+"aller": {
+"t": {
+"present": [
+"vais",
+"vas",
+"va",
+"allons",
+"allez",
+"vont"
+],
+"imparfait": [
+"allais",
+"allais",
+"allait",
+"allions",
+"alliez",
+"allaient"
+],
+"futur": [
+"irai",
+"iras",
+"ira",
+"irons",
+"irez",
+"iront"
+],
+"conditionnel": [
+"irais",
+"irais",
+"irait",
+"irions",
+"iriez",
+"iraient"
+],
+"subjonctif": [
+"aille",
+"ailles",
+"aille",
+"allions",
+"alliez",
+"aillent"
+]
+},
+"aux": "être",
+"pp": "allé"
+},
+"dire": {
+"t": {
+"present": [
+"dis",
+"dis",
+"dit",
+"disons",
+"dites",
+"disent"
+],
+"imparfait": [
+"disais",
+"disais",
+"disait",
+"disions",
+"disiez",
+"disaient"
+],
+"futur": [
+"dirai",
+"diras",
+"dira",
+"dirons",
+"direz",
+"diront"
+],
+"conditionnel": [
+"dirais",
+"dirais",
+"dirait",
+"dirions",
+"diriez",
+"diraient"
+],
+"subjonctif": [
+"dise",
+"dises",
+"dise",
+"disions",
+"disiez",
+"disent"
+]
+},
+"aux": "avoir",
+"pp": "dit"
+},
+"pouvoir": {
+"t": {
+"present": [
+"peux",
+"peux",
+"peut",
+"pouvons",
+"pouvez",
+"peuvent"
+],
+"imparfait": [
+"pouvais",
+"pouvais",
+"pouvait",
+"pouvions",
+"pouviez",
+"pouvaient"
+],
+"futur": [
+"pourrai",
+"pourras",
+"pourra",
+"pourrons",
+"pourrez",
+"pourront"
+],
+"conditionnel": [
+"pourrais",
+"pourrais",
+"pourrait",
+"pourrions",
+"pourriez",
+"pourraient"
+],
+"subjonctif": [
+"puisse",
+"puisses",
+"puisse",
+"puissions",
+"puissiez",
+"puissent"
+]
+},
+"aux": "avoir",
+"pp": "pu"
+},
+"vouloir": {
+"t": {
+"present": [
+"veux",
+"veux",
+"veut",
+"voulons",
+"voulez",
+"veulent"
+],
+"imparfait": [
+"voulais",
+"voulais",
+"voulait",
+"voulions",
+"vouliez",
+"voulaient"
+],
+"futur": [
+"voudrai",
+"voudras",
+"voudra",
+"voudrons",
+"voudrez",
+"voudront"
+],
+"conditionnel": [
+"voudrais",
+"voudrais",
+"voudrait",
+"voudrions",
+"voudriez",
+"voudraient"
+],
+"subjonctif": [
+"veuille",
+"veuilles",
+"veuille",
+"voulions",
+"vouliez",
+"veuillent"
+]
+},
+"aux": "avoir",
+"pp": "voulu"
+},
+"voir": {
+"t": {
+"present": [
+"vois",
+"vois",
+"voit",
+"voyons",
+"voyez",
+"voient"
+],
+"imparfait": [
+"voyais",
+"voyais",
+"voyait",
+"voyions",
+"voyiez",
+"voyaient"
+],
+"futur": [
+"verrai",
+"verras",
+"verra",
+"verrons",
+"verrez",
+"verront"
+],
+"conditionnel": [
+"verrais",
+"verrais",
+"verrait",
+"verrions",
+"verriez",
+"verraient"
+],
+"subjonctif": [
+"voie",
+"voies",
+"voie",
+"voyions",
+"voyiez",
+"voient"
+]
+},
+"aux": "avoir",
+"pp": "vu"
+},
+"savoir": {
+"t": {
+"present": [
+"sais",
+"sais",
+"sait",
+"savons",
+"savez",
+"savent"
+],
+"imparfait": [
+"savais",
+"savais",
+"savait",
+"savions",
+"saviez",
+"savaient"
+],
+"futur": [
+"saurai",
+"sauras",
+"saura",
+"saurons",
+"saurez",
+"sauront"
+],
+"conditionnel": [
+"saurais",
+"saurais",
+"saurait",
+"saurions",
+"sauriez",
+"sauraient"
+],
+"subjonctif": [
+"sache",
+"saches",
+"sache",
+"sachions",
+"sachiez",
+"sachent"
+]
+},
+"aux": "avoir",
+"pp": "su"
+},
+"devoir": {
+"t": {
+"present": [
+"dois",
+"dois",
+"doit",
+"devons",
+"devez",
+"doivent"
+],
+"imparfait": [
+"devais",
+"devais",
+"devait",
+"devions",
+"deviez",
+"devaient"
+],
+"futur": [
+"devrai",
+"devras",
+"devra",
+"devrons",
+"devrez",
+"devront"
+],
+"conditionnel": [
+"devrais",
+"devrais",
+"devrait",
+"devrions",
+"devriez",
+"devraient"
+],
+"subjonctif": [
+"doive",
+"doives",
+"doive",
+"devions",
+"deviez",
+"doivent"
+]
+},
+"aux": "avoir",
+"pp": "dû"
+},
+"venir": {
+"t": {
+"present": [
+"viens",
+"viens",
+"vient",
+"venons",
+"venez",
+"viennent"
+],
+"imparfait": [
+"venais",
+"venais",
+"venait",
+"venions",
+"veniez",
+"venaient"
+],
+"futur": [
+"viendrai",
+"viendras",
+"viendra",
+"viendrons",
+"viendrez",
+"viendront"
+],
+"conditionnel": [
+"viendrais",
+"viendrais",
+"viendrait",
+"viendrions",
+"viendriez",
+"viendraient"
+],
+"subjonctif": [
+"vienne",
+"viennes",
+"vienne",
+"venions",
+"veniez",
+"viennent"
+]
+},
+"aux": "être",
+"pp": "venu"
+},
+"prendre": {
+"t": {
+"present": [
+"prends",
+"prends",
+"prend",
+"prenons",
+"prenez",
+"prennent"
+],
+"imparfait": [
+"prenais",
+"prenais",
+"prenait",
+"prenions",
+"preniez",
+"prenaient"
+],
+"futur": [
+"prendrai",
+"prendras",
+"prendra",
+"prendrons",
+"prendrez",
+"prendront"
+],
+"conditionnel": [
+"prendrais",
+"prendrais",
+"prendrait",
+"prendrions",
+"prendriez",
+"prendraient"
+],
+"subjonctif": [
+"prenne",
+"prennes",
+"prenne",
+"prenions",
+"preniez",
+"prennent"
+]
+},
+"aux": "avoir",
+"pp": "pris"
+},
+"parler": {
+"t": {
+"present": [
+"parle",
+"parles",
+"parle",
+"parlons",
+"parlez",
+"parlent"
+],
+"imparfait": [
+"parlais",
+"parlais",
+"parlait",
+"parlions",
+"parliez",
+"parlaient"
+],
+"futur": [
+"parlerai",
+"parleras",
+"parlera",
+"parlerons",
+"parlerez",
+"parleront"
+],
+"conditionnel": [
+"parlerais",
+"parlerais",
+"parlerait",
+"parlerions",
+"parleriez",
+"parleraient"
+],
+"subjonctif": [
+"parle",
+"parles",
+"parle",
+"parlions",
+"parliez",
+"parlent"
+]
+},
+"aux": "avoir",
+"pp": "parlé"
+},
+"suivre": {
+"t": {
+"present": [
+"suis",
+"suis",
+"suit",
+"suivons",
+"suivez",
+"suivent"
+],
+"imparfait": [
+"suivais",
+"suivais",
+"suivait",
+"suivions",
+"suiviez",
+"suivaient"
+],
+"futur": [
+"suivrai",
+"suivras",
+"suivra",
+"suivrons",
+"suivrez",
+"suivront"
+],
+"conditionnel": [
+"suivrais",
+"suivrais",
+"suivrait",
+"suivrions",
+"suivriez",
+"suivraient"
+],
+"subjonctif": [
+"suive",
+"suives",
+"suive",
+"suivions",
+"suiviez",
+"suivent"
+]
+},
+"aux": "avoir",
+"pp": "suivi"
+},
+"falloir": {
+"t": {
+"present": [
+null,
+null,
+"faut",
+null,
+null,
+null
+],
+"imparfait": [
+null,
+null,
+"fallait",
+null,
+null,
+null
+],
+"futur": [
+null,
+null,
+"faudra",
+null,
+null,
+null
+],
+"conditionnel": [
+null,
+null,
+"faudrait",
+null,
+null,
+null
+],
+"subjonctif": [
+null,
+null,
+"faille",
+null,
+null,
+null
+]
+},
+"aux": "avoir",
+"pp": "fallu"
+},
+"passer": {
+"t": {
+"present": [
+"passe",
+"passes",
+"passe",
+"passons",
+"passez",
+"passent"
+],
+"imparfait": [
+"passais",
+"passais",
+"passait",
+"passions",
+"passiez",
+"passaient"
+],
+"futur": [
+"passerai",
+"passeras",
+"passera",
+"passerons",
+"passerez",
+"passeront"
+],
+"conditionnel": [
+"passerais",
+"passerais",
+"passerait",
+"passerions",
+"passeriez",
+"passeraient"
+],
+"subjonctif": [
+"passe",
+"passes",
+"passe",
+"passions",
+"passiez",
+"passent"
+]
+},
+"aux": "être",
+"pp": "passé"
+},
+"croire": {
+"t": {
+"present": [
+"crois",
+"crois",
+"croit",
+"croyons",
+"croyez",
+"croient"
+],
+"imparfait": [
+"croyais",
+"croyais",
+"croyait",
+"croyions",
+"croyiez",
+"croyaient"
+],
+"futur": [
+"croirai",
+"croiras",
+"croira",
+"croirons",
+"croirez",
+"croiront"
+],
+"conditionnel": [
+"croirais",
+"croirais",
+"croirait",
+"croirions",
+"croiriez",
+"croiraient"
+],
+"subjonctif": [
+"croie",
+"croies",
+"croie",
+"croyions",
+"croyiez",
+"croient"
+]
+},
+"aux": "avoir",
+"pp": "cru"
+},
+"aimer": {
+"t": {
+"present": [
+"aime",
+"aimes",
+"aime",
+"aimons",
+"aimez",
+"aiment"
+],
+"imparfait": [
+"aimais",
+"aimais",
+"aimait",
+"aimions",
+"aimiez",
+"aimaient"
+],
+"futur": [
+"aimerai",
+"aimeras",
+"aimera",
+"aimerons",
+"aimerez",
+"aimeront"
+],
+"conditionnel": [
+"aimerais",
+"aimerais",
+"aimerait",
+"aimerions",
+"aimeriez",
+"aimeraient"
+],
+"subjonctif": [
+"aime",
+"aimes",
+"aime",
+"aimions",
+"aimiez",
+"aiment"
+]
+},
+"aux": "avoir",
+"pp": "aimé"
+},
+"penser": {
+"t": {
+"present": [
+"pense",
+"penses",
+"pense",
+"pensons",
+"pensez",
+"pensent"
+],
+"imparfait": [
+"pensais",
+"pensais",
+"pensait",
+"pensions",
+"pensiez",
+"pensaient"
+],
+"futur": [
+"penserai",
+"penseras",
+"pensera",
+"penserons",
+"penserez",
+"penseront"
+],
+"conditionnel": [
+"penserais",
+"penserais",
+"penserait",
+"penserions",
+"penseriez",
+"penseraient"
+],
+"subjonctif": [
+"pense",
+"penses",
+"pense",
+"pensions",
+"pensiez",
+"pensent"
+]
+},
+"aux": "avoir",
+"pp": "pensé"
+},
+"trouver": {
+"t": {
+"present": [
+"trouve",
+"trouves",
+"trouve",
+"trouvons",
+"trouvez",
+"trouvent"
+],
+"imparfait": [
+"trouvais",
+"trouvais",
+"trouvait",
+"trouvions",
+"trouviez",
+"trouvaient"
+],
+"futur": [
+"trouverai",
+"trouveras",
+"trouvera",
+"trouverons",
+"trouverez",
+"trouveront"
+],
+"conditionnel": [
+"trouverais",
+"trouverais",
+"trouverait",
+"trouverions",
+"trouveriez",
+"trouveraient"
+],
+"subjonctif": [
+"trouve",
+"trouves",
+"trouve",
+"trouvions",
+"trouviez",
+"trouvent"
+]
+},
+"aux": "avoir",
+"pp": "trouvé"
+},
+"regarder": {
+"t": {
+"present": [
+"regarde",
+"regardes",
+"regarde",
+"regardons",
+"regardez",
+"regardent"
+],
+"imparfait": [
+"regardais",
+"regardais",
+"regardait",
+"regardions",
+"regardiez",
+"regardaient"
+],
+"futur": [
+"regarderai",
+"regarderas",
+"regardera",
+"regarderons",
+"regarderez",
+"regarderont"
+],
+"conditionnel": [
+"regarderais",
+"regarderais",
+"regarderait",
+"regarderions",
+"regarderiez",
+"regarderaient"
+],
+"subjonctif": [
+"regarde",
+"regardes",
+"regarde",
+"regardions",
+"regardiez",
+"regardent"
+]
+},
+"aux": "avoir",
+"pp": "regardé"
+},
+"laisser": {
+"t": {
+"present": [
+"laisse",
+"laisses",
+"laisse",
+"laissons",
+"laissez",
+"laissent"
+],
+"imparfait": [
+"laissais",
+"laissais",
+"laissait",
+"laissions",
+"laissiez",
+"laissaient"
+],
+"futur": [
+"laisserai",
+"laisseras",
+"laissera",
+"laisserons",
+"laisserez",
+"laisseront"
+],
+"conditionnel": [
+"laisserais",
+"laisserais",
+"laisserait",
+"laisserions",
+"laisseriez",
+"laisseraient"
+],
+"subjonctif": [
+"laisse",
+"laisses",
+"laisse",
+"laissions",
+"laissiez",
+"laissent"
+]
+},
+"aux": "avoir",
+"pp": "laissé"
+},
+"donner": {
+"t": {
+"present": [
+"donne",
+"donnes",
+"donne",
+"donnons",
+"donnez",
+"donnent"
+],
+"imparfait": [
+"donnais",
+"donnais",
+"donnait",
+"donnions",
+"donniez",
+"donnaient"
+],
+"futur": [
+"donnerai",
+"donneras",
+"donnera",
+"donnerons",
+"donnerez",
+"donneront"
+],
+"conditionnel": [
+"donnerais",
+"donnerais",
+"donnerait",
+"donnerions",
+"donneriez",
+"donneraient"
+],
+"subjonctif": [
+"donne",
+"donnes",
+"donne",
+"donnions",
+"donniez",
+"donnent"
+]
+},
+"aux": "avoir",
+"pp": "donné"
+},
+"mettre": {
+"t": {
+"present": [
+"mets",
+"mets",
+"met",
+"mettons",
+"mettez",
+"mettent"
+],
+"imparfait": [
+"mettais",
+"mettais",
+"mettait",
+"mettions",
+"mettiez",
+"mettaient"
+],
+"futur": [
+"mettrai",
+"mettras",
+"mettra",
+"mettrons",
+"mettrez",
+"mettront"
+],
+"conditionnel": [
+"mettrais",
+"mettrais",
+"mettrait",
+"mettrions",
+"mettriez",
+"mettraient"
+],
+"subjonctif": [
+"mette",
+"mettes",
+"mette",
+"mettions",
+"mettiez",
+"mettent"
+]
+},
+"aux": "avoir",
+"pp": "mis"
+},
+"attendre": {
+"t": {
+"present": [
+"attends",
+"attends",
+"attend",
+"attendons",
+"attendez",
+"attendent"
+],
+"imparfait": [
+"attendais",
+"attendais",
+"attendait",
+"attendions",
+"attendiez",
+"attendaient"
+],
+"futur": [
+"attendrai",
+"attendras",
+"attendra",
+"attendrons",
+"attendrez",
+"attendront"
+],
+"conditionnel": [
+"attendrais",
+"attendrais",
+"attendrait",
+"attendrions",
+"attendriez",
+"attendraient"
+],
+"subjonctif": [
+"attende",
+"attendes",
+"attende",
+"attendions",
+"attendiez",
+"attendent"
+]
+},
+"aux": "avoir",
+"pp": "attendu"
+},
+"arriver": {
+"t": {
+"present": [
+"arrive",
+"arrives",
+"arrive",
+"arrivons",
+"arrivez",
+"arrivent"
+],
+"imparfait": [
+"arrivais",
+"arrivais",
+"arrivait",
+"arrivions",
+"arriviez",
+"arrivaient"
+],
+"futur": [
+"arriverai",
+"arriveras",
+"arrivera",
+"arriverons",
+"arriverez",
+"arriveront"
+],
+"conditionnel": [
+"arriverais",
+"arriverais",
+"arriverait",
+"arriverions",
+"arriveriez",
+"arriveraient"
+],
+"subjonctif": [
+"arrive",
+"arrives",
+"arrive",
+"arrivions",
+"arriviez",
+"arrivent"
+]
+},
+"aux": "être",
+"pp": "arrivé"
+},
+"demander": {
+"t": {
+"present": [
+"demande",
+"demandes",
+"demande",
+"demandons",
+"demandez",
+"demandent"
+],
+"imparfait": [
+"demandais",
+"demandais",
+"demandait",
+"demandions",
+"demandiez",
+"demandaient"
+],
+"futur": [
+"demanderai",
+"demanderas",
+"demandera",
+"demanderons",
+"demanderez",
+"demanderont"
+],
+"conditionnel": [
+"demanderais",
+"demanderais",
+"demanderait",
+"demanderions",
+"demanderiez",
+"demanderaient"
+],
+"subjonctif": [
+"demande",
+"demandes",
+"demande",
+"demandions",
+"demandiez",
+"demandent"
+]
+},
+"aux": "avoir",
+"pp": "demandé"
+},
+"rester": {
+"t": {
+"present": [
+"reste",
+"restes",
+"reste",
+"restons",
+"restez",
+"restent"
+],
+"imparfait": [
+"restais",
+"restais",
+"restait",
+"restions",
+"restiez",
+"restaient"
+],
+"futur": [
+"resterai",
+"resteras",
+"restera",
+"resterons",
+"resterez",
+"resteront"
+],
+"conditionnel": [
+"resterais",
+"resterais",
+"resterait",
+"resterions",
+"resteriez",
+"resteraient"
+],
+"subjonctif": [
+"reste",
+"restes",
+"reste",
+"restions",
+"restiez",
+"restent"
+]
+},
+"aux": "être",
+"pp": "resté"
+},
+"appeler": {
+"t": {
+"present": [
+"appelle",
+"appelles",
+"appelle",
+"appelons",
+"appelez",
+"appellent"
+],
+"imparfait": [
+"appelais",
+"appelais",
+"appelait",
+"appelions",
+"appeliez",
+"appelaient"
+],
+"futur": [
+"appellerai",
+"appelleras",
+"appellera",
+"appellerons",
+"appellerez",
+"appelleront"
+],
+"conditionnel": [
+"appellerais",
+"appellerais",
+"appellerait",
+"appellerions",
+"appelleriez",
+"appelleraient"
+],
+"subjonctif": [
+"appelle",
+"appelles",
+"appelle",
+"appelions",
+"appeliez",
+"appellent"
+]
+},
+"aux": "avoir",
+"pp": "appelé"
+},
+"partir": {
+"t": {
+"present": [
+"pars",
+"pars",
+"part",
+"partons",
+"partez",
+"partent"
+],
+"imparfait": [
+"partais",
+"partais",
+"partait",
+"partions",
+"partiez",
+"partaient"
+],
+"futur": [
+"partirai",
+"partiras",
+"partira",
+"partirons",
+"partirez",
+"partiront"
+],
+"conditionnel": [
+"partirais",
+"partirais",
+"partirait",
+"partirions",
+"partiriez",
+"partiraient"
+],
+"subjonctif": [
+"parte",
+"partes",
+"parte",
+"partions",
+"partiez",
+"partent"
+]
+},
+"aux": "être",
+"pp": "parti"
+},
+"connaître": {
+"t": {
+"present": [
+"connais",
+"connais",
+"connaît",
+"connaissons",
+"connaissez",
+"connaissent"
+],
+"imparfait": [
+"connaissais",
+"connaissais",
+"connaissait",
+"connaissions",
+"connaissiez",
+"connaissaient"
+],
+"futur": [
+"connaîtrai",
+"connaîtras",
+"connaîtra",
+"connaîtrons",
+"connaîtrez",
+"connaîtront"
+],
+"conditionnel": [
+"connaîtrais",
+"connaîtrais",
+"connaîtrait",
+"connaîtrions",
+"connaîtriez",
+"connaîtraient"
+],
+"subjonctif": [
+"connaisse",
+"connaisses",
+"connaisse",
+"connaissions",
+"connaissiez",
+"connaissent"
+]
+},
+"aux": "avoir",
+"pp": "connu"
+},
+"sortir": {
+"t": {
+"present": [
+"sors",
+"sors",
+"sort",
+"sortons",
+"sortez",
+"sortent"
+],
+"imparfait": [
+"sortais",
+"sortais",
+"sortait",
+"sortions",
+"sortiez",
+"sortaient"
+],
+"futur": [
+"sortirai",
+"sortiras",
+"sortira",
+"sortirons",
+"sortirez",
+"sortiront"
+],
+"conditionnel": [
+"sortirais",
+"sortirais",
+"sortirait",
+"sortirions",
+"sortiriez",
+"sortiraient"
+],
+"subjonctif": [
+"sorte",
+"sortes",
+"sorte",
+"sortions",
+"sortiez",
+"sortent"
+]
+},
+"aux": "être",
+"pp": "sorti"
+},
+"comprendre": {
+"t": {
+"present": [
+"comprends",
+"comprends",
+"comprend",
+"comprenons",
+"comprenez",
+"comprennent"
+],
+"imparfait": [
+"comprenais",
+"comprenais",
+"comprenait",
+"comprenions",
+"compreniez",
+"comprenaient"
+],
+"futur": [
+"comprendrai",
+"comprendras",
+"comprendra",
+"comprendrons",
+"comprendrez",
+"comprendront"
+],
+"conditionnel": [
+"comprendrais",
+"comprendrais",
+"comprendrait",
+"comprendrions",
+"comprendriez",
+"comprendraient"
+],
+"subjonctif": [
+"comprenne",
+"comprennes",
+"comprenne",
+"comprenions",
+"compreniez",
+"comprennent"
+]
+},
+"aux": "avoir",
+"pp": "compris"
+},
+"arrêter": {
+"t": {
+"present": [
+"arrête",
+"arrêtes",
+"arrête",
+"arrêtons",
+"arrêtez",
+"arrêtent"
+],
+"imparfait": [
+"arrêtais",
+"arrêtais",
+"arrêtait",
+"arrêtions",
+"arrêtiez",
+"arrêtaient"
+],
+"futur": [
+"arrêterai",
+"arrêteras",
+"arrêtera",
+"arrêterons",
+"arrêterez",
+"arrêteront"
+],
+"conditionnel": [
+"arrêterais",
+"arrêterais",
+"arrêterait",
+"arrêterions",
+"arrêteriez",
+"arrêteraient"
+],
+"subjonctif": [
+"arrête",
+"arrêtes",
+"arrête",
+"arrêtions",
+"arrêtiez",
+"arrêtent"
+]
+},
+"aux": "avoir",
+"pp": "arrêté"
+},
+"entendre": {
+"t": {
+"present": [
+"entends",
+"entends",
+"entend",
+"entendons",
+"entendez",
+"entendent"
+],
+"imparfait": [
+"entendais",
+"entendais",
+"entendait",
+"entendions",
+"entendiez",
+"entendaient"
+],
+"futur": [
+"entendrai",
+"entendras",
+"entendra",
+"entendrons",
+"entendrez",
+"entendront"
+],
+"conditionnel": [
+"entendrais",
+"entendrais",
+"entendrait",
+"entendrions",
+"entendriez",
+"entendraient"
+],
+"subjonctif": [
+"entende",
+"entendes",
+"entende",
+"entendions",
+"entendiez",
+"entendent"
+]
+},
+"aux": "avoir",
+"pp": "entendu"
+},
+"mourir": {
+"t": {
+"present": [
+"meurs",
+"meurs",
+"meurt",
+"mourons",
+"mourez",
+"meurent"
+],
+"imparfait": [
+"mourais",
+"mourais",
+"mourait",
+"mourions",
+"mouriez",
+"mouraient"
+],
+"futur": [
+"mourrai",
+"mourras",
+"mourra",
+"mourrons",
+"mourrez",
+"mourront"
+],
+"conditionnel": [
+"mourrais",
+"mourrais",
+"mourrait",
+"mourrions",
+"mourriez",
+"mourraient"
+],
+"subjonctif": [
+"meure",
+"meures",
+"meure",
+"mourions",
+"mouriez",
+"meurent"
+]
+},
+"aux": "être",
+"pp": "mort"
+},
+"sentir": {
+"t": {
+"present": [
+"sens",
+"sens",
+"sent",
+"sentons",
+"sentez",
+"sentent"
+],
+"imparfait": [
+"sentais",
+"sentais",
+"sentait",
+"sentions",
+"sentiez",
+"sentaient"
+],
+"futur": [
+"sentirai",
+"sentiras",
+"sentira",
+"sentirons",
+"sentirez",
+"sentiront"
+],
+"conditionnel": [
+"sentirais",
+"sentirais",
+"sentirait",
+"sentirions",
+"sentiriez",
+"sentiraient"
+],
+"subjonctif": [
+"sente",
+"sentes",
+"sente",
+"sentions",
+"sentiez",
+"sentent"
+]
+},
+"aux": "avoir",
+"pp": "senti"
+},
+"tenir": {
+"t": {
+"present": [
+"tiens",
+"tiens",
+"tient",
+"tenons",
+"tenez",
+"tiennent"
+],
+"imparfait": [
+"tenais",
+"tenais",
+"tenait",
+"tenions",
+"teniez",
+"tenaient"
+],
+"futur": [
+"tiendrai",
+"tiendras",
+"tiendra",
+"tiendrons",
+"tiendrez",
+"tiendront"
+],
+"conditionnel": [
+"tiendrais",
+"tiendrais",
+"tiendrait",
+"tiendrions",
+"tiendriez",
+"tiendraient"
+],
+"subjonctif": [
+"tienne",
+"tiennes",
+"tienne",
+"tenions",
+"teniez",
+"tiennent"
+]
+},
+"aux": "avoir",
+"pp": "tenu"
+},
+"chercher": {
+"t": {
+"present": [
+"cherche",
+"cherches",
+"cherche",
+"cherchons",
+"cherchez",
+"cherchent"
+],
+"imparfait": [
+"cherchais",
+"cherchais",
+"cherchait",
+"cherchions",
+"cherchiez",
+"cherchaient"
+],
+"futur": [
+"chercherai",
+"chercheras",
+"cherchera",
+"chercherons",
+"chercherez",
+"chercheront"
+],
+"conditionnel": [
+"chercherais",
+"chercherais",
+"chercherait",
+"chercherions",
+"chercheriez",
+"chercheraient"
+],
+"subjonctif": [
+"cherche",
+"cherches",
+"cherche",
+"cherchions",
+"cherchiez",
+"cherchent"
+]
+},
+"aux": "avoir",
+"pp": "cherché"
+},
+"revenir": {
+"t": {
+"present": [
+"reviens",
+"reviens",
+"revient",
+"revenons",
+"revenez",
+"reviennent"
+],
+"imparfait": [
+"revenais",
+"revenais",
+"revenait",
+"revenions",
+"reveniez",
+"revenaient"
+],
+"futur": [
+"reviendrai",
+"reviendras",
+"reviendra",
+"reviendrons",
+"reviendrez",
+"reviendront"
+],
+"conditionnel": [
+"reviendrais",
+"reviendrais",
+"reviendrait",
+"reviendrions",
+"reviendriez",
+"reviendraient"
+],
+"subjonctif": [
+"revienne",
+"reviennes",
+"revienne",
+"revenions",
+"reveniez",
+"reviennent"
+]
+},
+"aux": "être",
+"pp": "revenu"
+},
+"tuer": {
+"t": {
+"present": [
+"tue",
+"tues",
+"tue",
+"tuons",
+"tuez",
+"tuent"
+],
+"imparfait": [
+"tuais",
+"tuais",
+"tuait",
+"tuions",
+"tuiez",
+"tuaient"
+],
+"futur": [
+"tuerai",
+"tueras",
+"tuera",
+"tuerons",
+"tuerez",
+"tueront"
+],
+"conditionnel": [
+"tuerais",
+"tuerais",
+"tuerait",
+"tuerions",
+"tueriez",
+"tueraient"
+],
+"subjonctif": [
+"tue",
+"tues",
+"tue",
+"tuions",
+"tuiez",
+"tuent"
+]
+},
+"aux": "avoir",
+"pp": "tué"
+},
+"rendre": {
+"t": {
+"present": [
+"rends",
+"rends",
+"rend",
+"rendons",
+"rendez",
+"rendent"
+],
+"imparfait": [
+"rendais",
+"rendais",
+"rendait",
+"rendions",
+"rendiez",
+"rendaient"
+],
+"futur": [
+"rendrai",
+"rendras",
+"rendra",
+"rendrons",
+"rendrez",
+"rendront"
+],
+"conditionnel": [
+"rendrais",
+"rendrais",
+"rendrait",
+"rendrions",
+"rendriez",
+"rendraient"
+],
+"subjonctif": [
+"rende",
+"rendes",
+"rende",
+"rendions",
+"rendiez",
+"rendent"
+]
+},
+"aux": "avoir",
+"pp": "rendu"
+},
+"finir": {
+"t": {
+"present": [
+"finis",
+"finis",
+"finit",
+"finissons",
+"finissez",
+"finissent"
+],
+"imparfait": [
+"finissais",
+"finissais",
+"finissait",
+"finissions",
+"finissiez",
+"finissaient"
+],
+"futur": [
+"finirai",
+"finiras",
+"finira",
+"finirons",
+"finirez",
+"finiront"
+],
+"conditionnel": [
+"finirais",
+"finirais",
+"finirait",
+"finirions",
+"finiriez",
+"finiraient"
+],
+"subjonctif": [
+"finisse",
+"finisses",
+"finisse",
+"finissions",
+"finissiez",
+"finissent"
+]
+},
+"aux": "avoir",
+"pp": "fini"
+},
+"devenir": {
+"t": {
+"present": [
+"deviens",
+"deviens",
+"devient",
+"devenons",
+"devenez",
+"deviennent"
+],
+"imparfait": [
+"devenais",
+"devenais",
+"devenait",
+"devenions",
+"deveniez",
+"devenaient"
+],
+"futur": [
+"deviendrai",
+"deviendras",
+"deviendra",
+"deviendrons",
+"deviendrez",
+"deviendront"
+],
+"conditionnel": [
+"deviendrais",
+"deviendrais",
+"deviendrait",
+"deviendrions",
+"deviendriez",
+"deviendraient"
+],
+"subjonctif": [
+"devienne",
+"deviennes",
+"devienne",
+"devenions",
+"deveniez",
+"deviennent"
+]
+},
+"aux": "être",
+"pp": "devenu"
+},
+"vivre": {
+"t": {
+"present": [
+"vis",
+"vis",
+"vit",
+"vivons",
+"vivez",
+"vivent"
+],
+"imparfait": [
+"vivais",
+"vivais",
+"vivait",
+"vivions",
+"viviez",
+"vivaient"
+],
+"futur": [
+"vivrai",
+"vivras",
+"vivra",
+"vivrons",
+"vivrez",
+"vivront"
+],
+"conditionnel": [
+"vivrais",
+"vivrais",
+"vivrait",
+"vivrions",
+"vivriez",
+"vivraient"
+],
+"subjonctif": [
+"vive",
+"vives",
+"vive",
+"vivions",
+"viviez",
+"vivent"
+]
+},
+"aux": "avoir",
+"pp": "vécu"
+},
+"essayer": {
+"t": {
+"present": [
+"essaie",
+"essaies",
+"essaie",
+"essayons",
+"essayez",
+"essaient"
+],
+"imparfait": [
+"essayais",
+"essayais",
+"essayait",
+"essayions",
+"essayiez",
+"essayaient"
+],
+"futur": [
+"essaierai",
+"essaieras",
+"essaiera",
+"essaierons",
+"essaierez",
+"essaieront"
+],
+"conditionnel": [
+"essaierais",
+"essaierais",
+"essaierait",
+"essaierions",
+"essaieriez",
+"essaieraient"
+],
+"subjonctif": [
+"essaie",
+"essaies",
+"essaie",
+"essayions",
+"essayiez",
+"essaient"
+]
+},
+"aux": "avoir",
+"pp": "essayé"
+},
+"perdre": {
+"t": {
+"present": [
+"perds",
+"perds",
+"perd",
+"perdons",
+"perdez",
+"perdent"
+],
+"imparfait": [
+"perdais",
+"perdais",
+"perdait",
+"perdions",
+"perdiez",
+"perdaient"
+],
+"futur": [
+"perdrai",
+"perdras",
+"perdra",
+"perdrons",
+"perdrez",
+"perdront"
+],
+"conditionnel": [
+"perdrais",
+"perdrais",
+"perdrait",
+"perdrions",
+"perdriez",
+"perdraient"
+],
+"subjonctif": [
+"perde",
+"perdes",
+"perde",
+"perdions",
+"perdiez",
+"perdent"
+]
+},
+"aux": "avoir",
+"pp": "perdu"
+},
+"jouer": {
+"t": {
+"present": [
+"joue",
+"joues",
+"joue",
+"jouons",
+"jouez",
+"jouent"
+],
+"imparfait": [
+"jouais",
+"jouais",
+"jouait",
+"jouions",
+"jouiez",
+"jouaient"
+],
+"futur": [
+"jouerai",
+"joueras",
+"jouera",
+"jouerons",
+"jouerez",
+"joueront"
+],
+"conditionnel": [
+"jouerais",
+"jouerais",
+"jouerait",
+"jouerions",
+"joueriez",
+"joueraient"
+],
+"subjonctif": [
+"joue",
+"joues",
+"joue",
+"jouions",
+"jouiez",
+"jouent"
+]
+},
+"aux": "avoir",
+"pp": "joué"
+},
+"ouvrir": {
+"t": {
+"present": [
+"ouvre",
+"ouvres",
+"ouvre",
+"ouvrons",
+"ouvrez",
+"ouvrent"
+],
+"imparfait": [
+"ouvrais",
+"ouvrais",
+"ouvrait",
+"ouvrions",
+"ouvriez",
+"ouvraient"
+],
+"futur": [
+"ouvrirai",
+"ouvriras",
+"ouvrira",
+"ouvrirons",
+"ouvrirez",
+"ouvriront"
+],
+"conditionnel": [
+"ouvrirais",
+"ouvrirais",
+"ouvrirait",
+"ouvririons",
+"ouvririez",
+"ouvriraient"
+],
+"subjonctif": [
+"ouvre",
+"ouvres",
+"ouvre",
+"ouvrions",
+"ouvriez",
+"ouvrent"
+]
+},
+"aux": "avoir",
+"pp": "ouvert"
+},
+"commencer": {
+"t": {
+"present": [
+"commence",
+"commences",
+"commence",
+"commençons",
+"commencez",
+"commencent"
+],
+"imparfait": [
+"commençais",
+"commençais",
+"commençait",
+"commencions",
+"commenciez",
+"commençaient"
+],
+"futur": [
+"commencerai",
+"commenceras",
+"commencera",
+"commencerons",
+"commencerez",
+"commenceront"
+],
+"conditionnel": [
+"commencerais",
+"commencerais",
+"commencerait",
+"commencerions",
+"commenceriez",
+"commenceraient"
+],
+"subjonctif": [
+"commence",
+"commences",
+"commence",
+"commencions",
+"commenciez",
+"commencent"
+]
+},
+"aux": "avoir",
+"pp": "commencé"
+},
+"tomber": {
+"t": {
+"present": [
+"tombe",
+"tombes",
+"tombe",
+"tombons",
+"tombez",
+"tombent"
+],
+"imparfait": [
+"tombais",
+"tombais",
+"tombait",
+"tombions",
+"tombiez",
+"tombaient"
+],
+"futur": [
+"tomberai",
+"tomberas",
+"tombera",
+"tomberons",
+"tomberez",
+"tomberont"
+],
+"conditionnel": [
+"tomberais",
+"tomberais",
+"tomberait",
+"tomberions",
+"tomberiez",
+"tomberaient"
+],
+"subjonctif": [
+"tombe",
+"tombes",
+"tombe",
+"tombions",
+"tombiez",
+"tombent"
+]
+},
+"aux": "être",
+"pp": "tombé"
+},
+"entrer": {
+"t": {
+"present": [
+"entre",
+"entres",
+"entre",
+"entrons",
+"entrez",
+"entrent"
+],
+"imparfait": [
+"entrais",
+"entrais",
+"entrait",
+"entrions",
+"entriez",
+"entraient"
+],
+"futur": [
+"entrerai",
+"entreras",
+"entrera",
+"entrerons",
+"entrerez",
+"entreront"
+],
+"conditionnel": [
+"entrerais",
+"entrerais",
+"entrerait",
+"entrerions",
+"entreriez",
+"entreraient"
+],
+"subjonctif": [
+"entre",
+"entres",
+"entre",
+"entrions",
+"entriez",
+"entrent"
+]
+},
+"aux": "être",
+"pp": "entré"
+},
+"aider": {
+"t": {
+"present": [
+"aide",
+"aides",
+"aide",
+"aidons",
+"aidez",
+"aident"
+],
+"imparfait": [
+"aidais",
+"aidais",
+"aidait",
+"aidions",
+"aidiez",
+"aidaient"
+],
+"futur": [
+"aiderai",
+"aideras",
+"aidera",
+"aiderons",
+"aiderez",
+"aideront"
+],
+"conditionnel": [
+"aiderais",
+"aiderais",
+"aiderait",
+"aiderions",
+"aideriez",
+"aideraient"
+],
+"subjonctif": [
+"aide",
+"aides",
+"aide",
+"aidions",
+"aidiez",
+"aident"
+]
+},
+"aux": "avoir",
+"pp": "aidé"
+},
+"rentrer": {
+"t": {
+"present": [
+"rentre",
+"rentres",
+"rentre",
+"rentrons",
+"rentrez",
+"rentrent"
+],
+"imparfait": [
+"rentrais",
+"rentrais",
+"rentrait",
+"rentrions",
+"rentriez",
+"rentraient"
+],
+"futur": [
+"rentrerai",
+"rentreras",
+"rentrera",
+"rentrerons",
+"rentrerez",
+"rentreront"
+],
+"conditionnel": [
+"rentrerais",
+"rentrerais",
+"rentrerait",
+"rentrerions",
+"rentreriez",
+"rentreraient"
+],
+"subjonctif": [
+"rentre",
+"rentres",
+"rentre",
+"rentrions",
+"rentriez",
+"rentrent"
+]
+},
+"aux": "être",
+"pp": "rentré"
+},
+"sembler": {
+"t": {
+"present": [
+"semble",
+"sembles",
+"semble",
+"semblons",
+"semblez",
+"semblent"
+],
+"imparfait": [
+"semblais",
+"semblais",
+"semblait",
+"semblions",
+"sembliez",
+"semblaient"
+],
+"futur": [
+"semblerai",
+"sembleras",
+"semblera",
+"semblerons",
+"semblerez",
+"sembleront"
+],
+"conditionnel": [
+"semblerais",
+"semblerais",
+"semblerait",
+"semblerions",
+"sembleriez",
+"sembleraient"
+],
+"subjonctif": [
+"semble",
+"sembles",
+"semble",
+"semblions",
+"sembliez",
+"semblent"
+]
+},
+"aux": "avoir",
+"pp": "semblé"
+},
+"tirer": {
+"t": {
+"present": [
+"tire",
+"tires",
+"tire",
+"tirons",
+"tirez",
+"tirent"
+],
+"imparfait": [
+"tirais",
+"tirais",
+"tirait",
+"tirions",
+"tiriez",
+"tiraient"
+],
+"futur": [
+"tirerai",
+"tireras",
+"tirera",
+"tirerons",
+"tirerez",
+"tireront"
+],
+"conditionnel": [
+"tirerais",
+"tirerais",
+"tirerait",
+"tirerions",
+"tireriez",
+"tireraient"
+],
+"subjonctif": [
+"tire",
+"tires",
+"tire",
+"tirions",
+"tiriez",
+"tirent"
+]
+},
+"aux": "avoir",
+"pp": "tiré"
+},
+"porter": {
+"t": {
+"present": [
+"porte",
+"portes",
+"porte",
+"portons",
+"portez",
+"portent"
+],
+"imparfait": [
+"portais",
+"portais",
+"portait",
+"portions",
+"portiez",
+"portaient"
+],
+"futur": [
+"porterai",
+"porteras",
+"portera",
+"porterons",
+"porterez",
+"porteront"
+],
+"conditionnel": [
+"porterais",
+"porterais",
+"porterait",
+"porterions",
+"porteriez",
+"porteraient"
+],
+"subjonctif": [
+"porte",
+"portes",
+"porte",
+"portions",
+"portiez",
+"portent"
+]
+},
+"aux": "avoir",
+"pp": "porté"
+},
+"écouter": {
+"t": {
+"present": [
+"écoute",
+"écoutes",
+"écoute",
+"écoutons",
+"écoutez",
+"écoutent"
+],
+"imparfait": [
+"écoutais",
+"écoutais",
+"écoutait",
+"écoutions",
+"écoutiez",
+"écoutaient"
+],
+"futur": [
+"écouterai",
+"écouteras",
+"écoutera",
+"écouterons",
+"écouterez",
+"écouteront"
+],
+"conditionnel": [
+"écouterais",
+"écouterais",
+"écouterait",
+"écouterions",
+"écouteriez",
+"écouteraient"
+],
+"subjonctif": [
+"écoute",
+"écoutes",
+"écoute",
+"écoutions",
+"écoutiez",
+"écoutent"
+]
+},
+"aux": "avoir",
+"pp": "écouté"
+},
+"oublier": {
+"t": {
+"present": [
+"oublie",
+"oublies",
+"oublie",
+"oublions",
+"oubliez",
+"oublient"
+],
+"imparfait": [
+"oubliais",
+"oubliais",
+"oubliait",
+"oubliions",
+"oubliiez",
+"oubliaient"
+],
+"futur": [
+"oublierai",
+"oublieras",
+"oubliera",
+"oublierons",
+"oublierez",
+"oublieront"
+],
+"conditionnel": [
+"oublierais",
+"oublierais",
+"oublierait",
+"oublierions",
+"oublieriez",
+"oublieraient"
+],
+"subjonctif": [
+"oublie",
+"oublies",
+"oublie",
+"oubliions",
+"oubliiez",
+"oublient"
+]
+},
+"aux": "avoir",
+"pp": "oublié"
+},
+"manger": {
+"t": {
+"present": [
+"mange",
+"manges",
+"mange",
+"mangeons",
+"mangez",
+"mangent"
+],
+"imparfait": [
+"mangeais",
+"mangeais",
+"mangeait",
+"mangions",
+"mangiez",
+"mangeaient"
+],
+"futur": [
+"mangerai",
+"mangeras",
+"mangera",
+"mangerons",
+"mangerez",
+"mangeront"
+],
+"conditionnel": [
+"mangerais",
+"mangerais",
+"mangerait",
+"mangerions",
+"mangeriez",
+"mangeraient"
+],
+"subjonctif": [
+"mange",
+"manges",
+"mange",
+"mangions",
+"mangiez",
+"mangent"
+]
+},
+"aux": "avoir",
+"pp": "mangé"
+},
+"plaire": {
+"t": {
+"present": [
+"plais",
+"plais",
+"plaît",
+"plaisons",
+"plaisez",
+"plaisent"
+],
+"imparfait": [
+"plaisais",
+"plaisais",
+"plaisait",
+"plaisions",
+"plaisiez",
+"plaisaient"
+],
+"futur": [
+"plairai",
+"plairas",
+"plaira",
+"plairons",
+"plairez",
+"plairont"
+],
+"conditionnel": [
+"plairais",
+"plairais",
+"plairait",
+"plairions",
+"plairiez",
+"plairaient"
+],
+"subjonctif": [
+"plaise",
+"plaises",
+"plaise",
+"plaisions",
+"plaisiez",
+"plaisent"
+]
+},
+"aux": "avoir",
+"pp": "plu"
+},
+"répondre": {
+"t": {
+"present": [
+"réponds",
+"réponds",
+"répond",
+"répondons",
+"répondez",
+"répondent"
+],
+"imparfait": [
+"répondais",
+"répondais",
+"répondait",
+"répondions",
+"répondiez",
+"répondaient"
+],
+"futur": [
+"répondrai",
+"répondras",
+"répondra",
+"répondrons",
+"répondrez",
+"répondront"
+],
+"conditionnel": [
+"répondrais",
+"répondrais",
+"répondrait",
+"répondrions",
+"répondriez",
+"répondraient"
+],
+"subjonctif": [
+"réponde",
+"répondes",
+"réponde",
+"répondions",
+"répondiez",
+"répondent"
+]
+},
+"aux": "avoir",
+"pp": "répondu"
+},
+"asseoir": {
+"t": {
+"present": [
+"assieds",
+"assieds",
+"assied",
+"asseyons",
+"asseyez",
+"asseyent"
+],
+"imparfait": [
+"asseyais",
+"asseyais",
+"asseyait",
+"asseyions",
+"asseyiez",
+"asseyaient"
+],
+"futur": [
+"assiérai",
+"assiéras",
+"assiéra",
+"assiérons",
+"assiérez",
+"assiéront"
+],
+"conditionnel": [
+"assiérais",
+"assiérais",
+"assiérait",
+"assiérions",
+"assiériez",
+"assiéraient"
+],
+"subjonctif": [
+"asseye",
+"asseyes",
+"asseye",
+"asseyions",
+"asseyiez",
+"asseyent"
+]
+},
+"aux": "avoir",
+"pp": "assis"
+},
+"retrouver": {
+"t": {
+"present": [
+"retrouve",
+"retrouves",
+"retrouve",
+"retrouvons",
+"retrouvez",
+"retrouvent"
+],
+"imparfait": [
+"retrouvais",
+"retrouvais",
+"retrouvait",
+"retrouvions",
+"retrouviez",
+"retrouvaient"
+],
+"futur": [
+"retrouverai",
+"retrouveras",
+"retrouvera",
+"retrouverons",
+"retrouverez",
+"retrouveront"
+],
+"conditionnel": [
+"retrouverais",
+"retrouverais",
+"retrouverait",
+"retrouverions",
+"retrouveriez",
+"retrouveraient"
+],
+"subjonctif": [
+"retrouve",
+"retrouves",
+"retrouve",
+"retrouvions",
+"retrouviez",
+"retrouvent"
+]
+},
+"aux": "avoir",
+"pp": "retrouvé"
+},
+"marcher": {
+"t": {
+"present": [
+"marche",
+"marches",
+"marche",
+"marchons",
+"marchez",
+"marchent"
+],
+"imparfait": [
+"marchais",
+"marchais",
+"marchait",
+"marchions",
+"marchiez",
+"marchaient"
+],
+"futur": [
+"marcherai",
+"marcheras",
+"marchera",
+"marcherons",
+"marcherez",
+"marcheront"
+],
+"conditionnel": [
+"marcherais",
+"marcherais",
+"marcherait",
+"marcherions",
+"marcheriez",
+"marcheraient"
+],
+"subjonctif": [
+"marche",
+"marches",
+"marche",
+"marchions",
+"marchiez",
+"marchent"
+]
+},
+"aux": "avoir",
+"pp": "marché"
+},
+"travailler": {
+"t": {
+"present": [
+"travaille",
+"travailles",
+"travaille",
+"travaillons",
+"travaillez",
+"travaillent"
+],
+"imparfait": [
+"travaillais",
+"travaillais",
+"travaillait",
+"travaillions",
+"travailliez",
+"travaillaient"
+],
+"futur": [
+"travaillerai",
+"travailleras",
+"travaillera",
+"travaillerons",
+"travaillerez",
+"travailleront"
+],
+"conditionnel": [
+"travaillerais",
+"travaillerais",
+"travaillerait",
+"travaillerions",
+"travailleriez",
+"travailleraient"
+],
+"subjonctif": [
+"travaille",
+"travailles",
+"travaille",
+"travaillions",
+"travailliez",
+"travaillent"
+]
+},
+"aux": "avoir",
+"pp": "travaillé"
+},
+"monter": {
+"t": {
+"present": [
+"monte",
+"montes",
+"monte",
+"montons",
+"montez",
+"montent"
+],
+"imparfait": [
+"montais",
+"montais",
+"montait",
+"montions",
+"montiez",
+"montaient"
+],
+"futur": [
+"monterai",
+"monteras",
+"montera",
+"monterons",
+"monterez",
+"monteront"
+],
+"conditionnel": [
+"monterais",
+"monterais",
+"monterait",
+"monterions",
+"monteriez",
+"monteraient"
+],
+"subjonctif": [
+"monte",
+"montes",
+"monte",
+"montions",
+"montiez",
+"montent"
+]
+},
+"aux": "être",
+"pp": "monté"
+},
+"changer": {
+"t": {
+"present": [
+"change",
+"changes",
+"change",
+"changeons",
+"changez",
+"changent"
+],
+"imparfait": [
+"changeais",
+"changeais",
+"changeait",
+"changions",
+"changiez",
+"changeaient"
+],
+"futur": [
+"changerai",
+"changeras",
+"changera",
+"changerons",
+"changerez",
+"changeront"
+],
+"conditionnel": [
+"changerais",
+"changerais",
+"changerait",
+"changerions",
+"changeriez",
+"changeraient"
+],
+"subjonctif": [
+"change",
+"changes",
+"change",
+"changions",
+"changiez",
+"changent"
+]
+},
+"aux": "avoir",
+"pp": "changé"
+},
+"dormir": {
+"t": {
+"present": [
+"dors",
+"dors",
+"dort",
+"dormons",
+"dormez",
+"dorment"
+],
+"imparfait": [
+"dormais",
+"dormais",
+"dormait",
+"dormions",
+"dormiez",
+"dormaient"
+],
+"futur": [
+"dormirai",
+"dormiras",
+"dormira",
+"dormirons",
+"dormirez",
+"dormiront"
+],
+"conditionnel": [
+"dormirais",
+"dormirais",
+"dormirait",
+"dormirions",
+"dormiriez",
+"dormiraient"
+],
+"subjonctif": [
+"dorme",
+"dormes",
+"dorme",
+"dormions",
+"dormiez",
+"dorment"
+]
+},
+"aux": "avoir",
+"pp": "dormi"
+},
+"écrire": {
+"t": {
+"present": [
+"écris",
+"écris",
+"écrit",
+"écrivons",
+"écrivez",
+"écrivent"
+],
+"imparfait": [
+"écrivais",
+"écrivais",
+"écrivait",
+"écrivions",
+"écriviez",
+"écrivaient"
+],
+"futur": [
+"écrirai",
+"écriras",
+"écrira",
+"écrirons",
+"écrirez",
+"écriront"
+],
+"conditionnel": [
+"écrirais",
+"écrirais",
+"écrirait",
+"écririons",
+"écririez",
+"écriraient"
+],
+"subjonctif": [
+"écrive",
+"écrives",
+"écrive",
+"écrivions",
+"écriviez",
+"écrivent"
+]
+},
+"aux": "avoir",
+"pp": "écrit"
+},
+"apprendre": {
+"t": {
+"present": [
+"apprends",
+"apprends",
+"apprend",
+"apprenons",
+"apprenez",
+"apprennent"
+],
+"imparfait": [
+"apprenais",
+"apprenais",
+"apprenait",
+"apprenions",
+"appreniez",
+"apprenaient"
+],
+"futur": [
+"apprendrai",
+"apprendras",
+"apprendra",
+"apprendrons",
+"apprendrez",
+"apprendront"
+],
+"conditionnel": [
+"apprendrais",
+"apprendrais",
+"apprendrait",
+"apprendrions",
+"apprendriez",
+"apprendraient"
+],
+"subjonctif": [
+"apprenne",
+"apprennes",
+"apprenne",
+"apprenions",
+"appreniez",
+"apprennent"
+]
+},
+"aux": "avoir",
+"pp": "appris"
+},
+"poser": {
+"t": {
+"present": [
+"pose",
+"poses",
+"pose",
+"posons",
+"posez",
+"posent"
+],
+"imparfait": [
+"posais",
+"posais",
+"posait",
+"posions",
+"posiez",
+"posaient"
+],
+"futur": [
+"poserai",
+"poseras",
+"posera",
+"poserons",
+"poserez",
+"poseront"
+],
+"conditionnel": [
+"poserais",
+"poserais",
+"poserait",
+"poserions",
+"poseriez",
+"poseraient"
+],
+"subjonctif": [
+"pose",
+"poses",
+"pose",
+"posions",
+"posiez",
+"posent"
+]
+},
+"aux": "avoir",
+"pp": "posé"
+},
+"boire": {
+"t": {
+"present": [
+"bois",
+"bois",
+"boit",
+"buvons",
+"buvez",
+"boivent"
+],
+"imparfait": [
+"buvais",
+"buvais",
+"buvait",
+"buvions",
+"buviez",
+"buvaient"
+],
+"futur": [
+"boirai",
+"boiras",
+"boira",
+"boirons",
+"boirez",
+"boiront"
+],
+"conditionnel": [
+"boirais",
+"boirais",
+"boirait",
+"boirions",
+"boiriez",
+"boiraient"
+],
+"subjonctif": [
+"boive",
+"boives",
+"boive",
+"buvions",
+"buviez",
+"boivent"
+]
+},
+"aux": "avoir",
+"pp": "bu"
+},
+"lever": {
+"t": {
+"present": [
+"lève",
+"lèves",
+"lève",
+"levons",
+"levez",
+"lèvent"
+],
+"imparfait": [
+"levais",
+"levais",
+"levait",
+"levions",
+"leviez",
+"levaient"
+],
+"futur": [
+"lèverai",
+"lèveras",
+"lèvera",
+"lèverons",
+"lèverez",
+"lèveront"
+],
+"conditionnel": [
+"lèverais",
+"lèverais",
+"lèverait",
+"lèverions",
+"lèveriez",
+"lèveraient"
+],
+"subjonctif": [
+"lève",
+"lèves",
+"lève",
+"levions",
+"leviez",
+"lèvent"
+]
+},
+"aux": "avoir",
+"pp": "levé"
+},
+"lire": {
+"t": {
+"present": [
+"lis",
+"lis",
+"lit",
+"lisons",
+"lisez",
+"lisent"
+],
+"imparfait": [
+"lisais",
+"lisais",
+"lisait",
+"lisions",
+"lisiez",
+"lisaient"
+],
+"futur": [
+"lirai",
+"liras",
+"lira",
+"lirons",
+"lirez",
+"liront"
+],
+"conditionnel": [
+"lirais",
+"lirais",
+"lirait",
+"lirions",
+"liriez",
+"liraient"
+],
+"subjonctif": [
+"lise",
+"lises",
+"lise",
+"lisions",
+"lisiez",
+"lisent"
+]
+},
+"aux": "avoir",
+"pp": "lu"
+},
+"montrer": {
+"t": {
+"present": [
+"montre",
+"montres",
+"montre",
+"montrons",
+"montrez",
+"montrent"
+],
+"imparfait": [
+"montrais",
+"montrais",
+"montrait",
+"montrions",
+"montriez",
+"montraient"
+],
+"futur": [
+"montrerai",
+"montreras",
+"montrera",
+"montrerons",
+"montrerez",
+"montreront"
+],
+"conditionnel": [
+"montrerais",
+"montrerais",
+"montrerait",
+"montrerions",
+"montreriez",
+"montreraient"
+],
+"subjonctif": [
+"montre",
+"montres",
+"montre",
+"montrions",
+"montriez",
+"montrent"
+]
+},
+"aux": "avoir",
+"pp": "montré"
+},
+"servir": {
+"t": {
+"present": [
+"sers",
+"sers",
+"sert",
+"servons",
+"servez",
+"servent"
+],
+"imparfait": [
+"servais",
+"servais",
+"servait",
+"servions",
+"serviez",
+"servaient"
+],
+"futur": [
+"servirai",
+"serviras",
+"servira",
+"servirons",
+"servirez",
+"serviront"
+],
+"conditionnel": [
+"servirais",
+"servirais",
+"servirait",
+"servirions",
+"serviriez",
+"serviraient"
+],
+"subjonctif": [
+"serve",
+"serves",
+"serve",
+"servions",
+"serviez",
+"servent"
+]
+},
+"aux": "avoir",
+"pp": "servi"
+},
+"garder": {
+"t": {
+"present": [
+"garde",
+"gardes",
+"garde",
+"gardons",
+"gardez",
+"gardent"
+],
+"imparfait": [
+"gardais",
+"gardais",
+"gardait",
+"gardions",
+"gardiez",
+"gardaient"
+],
+"futur": [
+"garderai",
+"garderas",
+"gardera",
+"garderons",
+"garderez",
+"garderont"
+],
+"conditionnel": [
+"garderais",
+"garderais",
+"garderait",
+"garderions",
+"garderiez",
+"garderaient"
+],
+"subjonctif": [
+"garde",
+"gardes",
+"garde",
+"gardions",
+"gardiez",
+"gardent"
+]
+},
+"aux": "avoir",
+"pp": "gardé"
+},
+"quitter": {
+"t": {
+"present": [
+"quitte",
+"quittes",
+"quitte",
+"quittons",
+"quittez",
+"quittent"
+],
+"imparfait": [
+"quittais",
+"quittais",
+"quittait",
+"quittions",
+"quittiez",
+"quittaient"
+],
+"futur": [
+"quitterai",
+"quitteras",
+"quittera",
+"quitterons",
+"quitterez",
+"quitteront"
+],
+"conditionnel": [
+"quitterais",
+"quitterais",
+"quitterait",
+"quitterions",
+"quitteriez",
+"quitteraient"
+],
+"subjonctif": [
+"quitte",
+"quittes",
+"quitte",
+"quittions",
+"quittiez",
+"quittent"
+]
+},
+"aux": "avoir",
+"pp": "quitté"
+},
+"occuper": {
+"t": {
+"present": [
+"occupe",
+"occupes",
+"occupe",
+"occupons",
+"occupez",
+"occupent"
+],
+"imparfait": [
+"occupais",
+"occupais",
+"occupait",
+"occupions",
+"occupiez",
+"occupaient"
+],
+"futur": [
+"occuperai",
+"occuperas",
+"occupera",
+"occuperons",
+"occuperez",
+"occuperont"
+],
+"conditionnel": [
+"occuperais",
+"occuperais",
+"occuperait",
+"occuperions",
+"occuperiez",
+"occuperaient"
+],
+"subjonctif": [
+"occupe",
+"occupes",
+"occupe",
+"occupions",
+"occupiez",
+"occupent"
+]
+},
+"aux": "avoir",
+"pp": "occupé"
+},
+"tourner": {
+"t": {
+"present": [
+"tourne",
+"tournes",
+"tourne",
+"tournons",
+"tournez",
+"tournent"
+],
+"imparfait": [
+"tournais",
+"tournais",
+"tournait",
+"tournions",
+"tourniez",
+"tournaient"
+],
+"futur": [
+"tournerai",
+"tourneras",
+"tournera",
+"tournerons",
+"tournerez",
+"tourneront"
+],
+"conditionnel": [
+"tournerais",
+"tournerais",
+"tournerait",
+"tournerions",
+"tourneriez",
+"tourneraient"
+],
+"subjonctif": [
+"tourne",
+"tournes",
+"tourne",
+"tournions",
+"tourniez",
+"tournent"
+]
+},
+"aux": "avoir",
+"pp": "tourné"
+},
+"foutre": {
+"t": {
+"present": [
+"fous",
+"fous",
+"fout",
+"foutons",
+"foutez",
+"foutent"
+],
+"imparfait": [
+"foutais",
+"foutais",
+"foutait",
+"foutions",
+"foutiez",
+"foutaient"
+],
+"futur": [
+"foutrai",
+"foutras",
+"foutra",
+"foutrons",
+"foutrez",
+"foutront"
+],
+"conditionnel": [
+"foutrais",
+"foutrais",
+"foutrait",
+"foutrions",
+"foutriez",
+"foutraient"
+],
+"subjonctif": [
+"foute",
+"foutes",
+"foute",
+"foutions",
+"foutiez",
+"foutent"
+]
+},
+"aux": "avoir",
+"pp": "foutu"
+},
+"paraître": {
+"t": {
+"present": [
+"parais",
+"parais",
+"paraît",
+"paraissons",
+"paraissez",
+"paraissent"
+],
+"imparfait": [
+"paraissais",
+"paraissais",
+"paraissait",
+"paraissions",
+"paraissiez",
+"paraissaient"
+],
+"futur": [
+"paraîtrai",
+"paraîtras",
+"paraîtra",
+"paraîtrons",
+"paraîtrez",
+"paraîtront"
+],
+"conditionnel": [
+"paraîtrais",
+"paraîtrais",
+"paraîtrait",
+"paraîtrions",
+"paraîtriez",
+"paraîtraient"
+],
+"subjonctif": [
+"paraisse",
+"paraisses",
+"paraisse",
+"paraissions",
+"paraissiez",
+"paraissent"
+]
+},
+"aux": "avoir",
+"pp": "paru"
+},
+"payer": {
+"t": {
+"present": [
+"paie",
+"paies",
+"paie",
+"payons",
+"payez",
+"paient"
+],
+"imparfait": [
+"payais",
+"payais",
+"payait",
+"payions",
+"payiez",
+"payaient"
+],
+"futur": [
+"paierai",
+"paieras",
+"paiera",
+"paierons",
+"paierez",
+"paieront"
+],
+"conditionnel": [
+"paierais",
+"paierais",
+"paierait",
+"paierions",
+"paieriez",
+"paieraient"
+],
+"subjonctif": [
+"paie",
+"paies",
+"paie",
+"payions",
+"payiez",
+"paient"
+]
+},
+"aux": "avoir",
+"pp": "payé"
+},
+"continuer": {
+"t": {
+"present": [
+"continue",
+"continues",
+"continue",
+"continuons",
+"continuez",
+"continuent"
+],
+"imparfait": [
+"continuais",
+"continuais",
+"continuait",
+"continuions",
+"continuiez",
+"continuaient"
+],
+"futur": [
+"continuerai",
+"continueras",
+"continuera",
+"continuerons",
+"continuerez",
+"continueront"
+],
+"conditionnel": [
+"continuerais",
+"continuerais",
+"continuerait",
+"continuerions",
+"continueriez",
+"continueraient"
+],
+"subjonctif": [
+"continue",
+"continues",
+"continue",
+"continuions",
+"continuiez",
+"continuent"
+]
+},
+"aux": "avoir",
+"pp": "continué"
+},
+"envoyer": {
+"t": {
+"present": [
+"envoie",
+"envoies",
+"envoie",
+"envoyons",
+"envoyez",
+"envoient"
+],
+"imparfait": [
+"envoyais",
+"envoyais",
+"envoyait",
+"envoyions",
+"envoyiez",
+"envoyaient"
+],
+"futur": [
+"enverrai",
+"enverras",
+"enverra",
+"enverrons",
+"enverrez",
+"enverront"
+],
+"conditionnel": [
+"enverrais",
+"enverrais",
+"enverrait",
+"enverrions",
+"enverriez",
+"enverraient"
+],
+"subjonctif": [
+"envoie",
+"envoies",
+"envoie",
+"envoyions",
+"envoyiez",
+"envoient"
+]
+},
+"aux": "avoir",
+"pp": "envoyé"
+},
+"descendre": {
+"t": {
+"present": [
+"descends",
+"descends",
+"descend",
+"descendons",
+"descendez",
+"descendent"
+],
+"imparfait": [
+"descendais",
+"descendais",
+"descendait",
+"descendions",
+"descendiez",
+"descendaient"
+],
+"futur": [
+"descendrai",
+"descendras",
+"descendra",
+"descendrons",
+"descendrez",
+"descendront"
+],
+"conditionnel": [
+"descendrais",
+"descendrais",
+"descendrait",
+"descendrions",
+"descendriez",
+"descendraient"
+],
+"subjonctif": [
+"descende",
+"descendes",
+"descende",
+"descendions",
+"descendiez",
+"descendent"
+]
+},
+"aux": "être",
+"pp": "descendu"
+},
+"retourner": {
+"t": {
+"present": [
+"retourne",
+"retournes",
+"retourne",
+"retournons",
+"retournez",
+"retournent"
+],
+"imparfait": [
+"retournais",
+"retournais",
+"retournait",
+"retournions",
+"retourniez",
+"retournaient"
+],
+"futur": [
+"retournerai",
+"retourneras",
+"retournera",
+"retournerons",
+"retournerez",
+"retourneront"
+],
+"conditionnel": [
+"retournerais",
+"retournerais",
+"retournerait",
+"retournerions",
+"retourneriez",
+"retourneraient"
+],
+"subjonctif": [
+"retourne",
+"retournes",
+"retourne",
+"retournions",
+"retourniez",
+"retournent"
+]
+},
+"aux": "être",
+"pp": "retourné"
+},
+"souvenir": {
+"t": {
+"present": [
+"souviens",
+"souviens",
+"souvient",
+"souvenons",
+"souvenez",
+"souviennent"
+],
+"imparfait": [
+"souvenais",
+"souvenais",
+"souvenait",
+"souvenions",
+"souveniez",
+"souvenaient"
+],
+"futur": [
+"souviendrai",
+"souviendras",
+"souviendra",
+"souviendrons",
+"souviendrez",
+"souviendront"
+],
+"conditionnel": [
+"souviendrais",
+"souviendrais",
+"souviendrait",
+"souviendrions",
+"souviendriez",
+"souviendraient"
+],
+"subjonctif": [
+"souvienne",
+"souviennes",
+"souvienne",
+"souvenions",
+"souveniez",
+"souviennent"
+]
+},
+"aux": "avoir",
+"pp": "souvenu"
+},
+"jeter": {
+"t": {
+"present": [
+"jette",
+"jettes",
+"jette",
+"jetons",
+"jetez",
+"jettent"
+],
+"imparfait": [
+"jetais",
+"jetais",
+"jetait",
+"jetions",
+"jetiez",
+"jetaient"
+],
+"futur": [
+"jetterai",
+"jetteras",
+"jettera",
+"jetterons",
+"jetterez",
+"jetteront"
+],
+"conditionnel": [
+"jetterais",
+"jetterais",
+"jetterait",
+"jetterions",
+"jetteriez",
+"jetteraient"
+],
+"subjonctif": [
+"jette",
+"jettes",
+"jette",
+"jetions",
+"jetiez",
+"jettent"
+]
+},
+"aux": "avoir",
+"pp": "jeté"
+},
+"raconter": {
+"t": {
+"present": [
+"raconte",
+"racontes",
+"raconte",
+"racontons",
+"racontez",
+"racontent"
+],
+"imparfait": [
+"racontais",
+"racontais",
+"racontait",
+"racontions",
+"racontiez",
+"racontaient"
+],
+"futur": [
+"raconterai",
+"raconteras",
+"racontera",
+"raconterons",
+"raconterez",
+"raconteront"
+],
+"conditionnel": [
+"raconterais",
+"raconterais",
+"raconterait",
+"raconterions",
+"raconteriez",
+"raconteraient"
+],
+"subjonctif": [
+"raconte",
+"racontes",
+"raconte",
+"racontions",
+"racontiez",
+"racontent"
+]
+},
+"aux": "avoir",
+"pp": "raconté"
+},
+"rappeler": {
+"t": {
+"present": [
+"rappelle",
+"rappelles",
+"rappelle",
+"rappelons",
+"rappelez",
+"rappellent"
+],
+"imparfait": [
+"rappelais",
+"rappelais",
+"rappelait",
+"rappelions",
+"rappeliez",
+"rappelaient"
+],
+"futur": [
+"rappellerai",
+"rappelleras",
+"rappellera",
+"rappellerons",
+"rappellerez",
+"rappelleront"
+],
+"conditionnel": [
+"rappellerais",
+"rappellerais",
+"rappellerait",
+"rappellerions",
+"rappelleriez",
+"rappelleraient"
+],
+"subjonctif": [
+"rappelle",
+"rappelles",
+"rappelle",
+"rappelions",
+"rappeliez",
+"rappellent"
+]
+},
+"aux": "avoir",
+"pp": "rappelé"
+},
+"gagner": {
+"t": {
+"present": [
+"gagne",
+"gagnes",
+"gagne",
+"gagnons",
+"gagnez",
+"gagnent"
+],
+"imparfait": [
+"gagnais",
+"gagnais",
+"gagnait",
+"gagnions",
+"gagniez",
+"gagnaient"
+],
+"futur": [
+"gagnerai",
+"gagneras",
+"gagnera",
+"gagnerons",
+"gagnerez",
+"gagneront"
+],
+"conditionnel": [
+"gagnerais",
+"gagnerais",
+"gagnerait",
+"gagnerions",
+"gagneriez",
+"gagneraient"
+],
+"subjonctif": [
+"gagne",
+"gagnes",
+"gagne",
+"gagnions",
+"gagniez",
+"gagnent"
+]
+},
+"aux": "avoir",
+"pp": "gagné"
+},
+"reprendre": {
+"t": {
+"present": [
+"reprends",
+"reprends",
+"reprend",
+"reprenons",
+"reprenez",
+"reprennent"
+],
+"imparfait": [
+"reprenais",
+"reprenais",
+"reprenait",
+"reprenions",
+"repreniez",
+"reprenaient"
+],
+"futur": [
+"reprendrai",
+"reprendras",
+"reprendra",
+"reprendrons",
+"reprendrez",
+"reprendront"
+],
+"conditionnel": [
+"reprendrais",
+"reprendrais",
+"reprendrait",
+"reprendrions",
+"reprendriez",
+"reprendraient"
+],
+"subjonctif": [
+"reprenne",
+"reprennes",
+"reprenne",
+"reprenions",
+"repreniez",
+"reprennent"
+]
+},
+"aux": "avoir",
+"pp": "repris"
+},
+"excuser": {
+"t": {
+"present": [
+"excuse",
+"excuses",
+"excuse",
+"excusons",
+"excusez",
+"excusent"
+],
+"imparfait": [
+"excusais",
+"excusais",
+"excusait",
+"excusions",
+"excusiez",
+"excusaient"
+],
+"futur": [
+"excuserai",
+"excuseras",
+"excusera",
+"excuserons",
+"excuserez",
+"excuseront"
+],
+"conditionnel": [
+"excuserais",
+"excuserais",
+"excuserait",
+"excuserions",
+"excuseriez",
+"excuseraient"
+],
+"subjonctif": [
+"excuse",
+"excuses",
+"excuse",
+"excusions",
+"excusiez",
+"excusent"
+]
+},
+"aux": "avoir",
+"pp": "excusé"
+},
+"rire": {
+"t": {
+"present": [
+"ris",
+"ris",
+"rit",
+"rions",
+"riez",
+"rient"
+],
+"imparfait": [
+"riais",
+"riais",
+"riait",
+"riions",
+"riiez",
+"riaient"
+],
+"futur": [
+"rirai",
+"riras",
+"rira",
+"rirons",
+"rirez",
+"riront"
+],
+"conditionnel": [
+"rirais",
+"rirais",
+"rirait",
+"ririons",
+"ririez",
+"riraient"
+],
+"subjonctif": [
+"rie",
+"ries",
+"rie",
+"riions",
+"riiez",
+"rient"
+]
+},
+"aux": "avoir",
+"pp": "ri"
+},
+"toucher": {
+"t": {
+"present": [
+"touche",
+"touches",
+"touche",
+"touchons",
+"touchez",
+"touchent"
+],
+"imparfait": [
+"touchais",
+"touchais",
+"touchait",
+"touchions",
+"touchiez",
+"touchaient"
+],
+"futur": [
+"toucherai",
+"toucheras",
+"touchera",
+"toucherons",
+"toucherez",
+"toucheront"
+],
+"conditionnel": [
+"toucherais",
+"toucherais",
+"toucherait",
+"toucherions",
+"toucheriez",
+"toucheraient"
+],
+"subjonctif": [
+"touche",
+"touches",
+"touche",
+"touchions",
+"touchiez",
+"touchent"
+]
+},
+"aux": "avoir",
+"pp": "touché"
+},
+"manquer": {
+"t": {
+"present": [
+"manque",
+"manques",
+"manque",
+"manquons",
+"manquez",
+"manquent"
+],
+"imparfait": [
+"manquais",
+"manquais",
+"manquait",
+"manquions",
+"manquiez",
+"manquaient"
+],
+"futur": [
+"manquerai",
+"manqueras",
+"manquera",
+"manquerons",
+"manquerez",
+"manqueront"
+],
+"conditionnel": [
+"manquerais",
+"manquerais",
+"manquerait",
+"manquerions",
+"manqueriez",
+"manqueraient"
+],
+"subjonctif": [
+"manque",
+"manques",
+"manque",
+"manquions",
+"manquiez",
+"manquent"
+]
+},
+"aux": "avoir",
+"pp": "manqué"
+},
+"acheter": {
+"t": {
+"present": [
+"achète",
+"achètes",
+"achète",
+"achetons",
+"achetez",
+"achètent"
+],
+"imparfait": [
+"achetais",
+"achetais",
+"achetait",
+"achetions",
+"achetiez",
+"achetaient"
+],
+"futur": [
+"achèterai",
+"achèteras",
+"achètera",
+"achèterons",
+"achèterez",
+"achèteront"
+],
+"conditionnel": [
+"achèterais",
+"achèterais",
+"achèterait",
+"achèterions",
+"achèteriez",
+"achèteraient"
+],
+"subjonctif": [
+"achète",
+"achètes",
+"achète",
+"achetions",
+"achetiez",
+"achètent"
+]
+},
+"aux": "avoir",
+"pp": "acheté"
+},
+"espérer": {
+"t": {
+"present": [
+"espère",
+"espères",
+"espère",
+"espérons",
+"espérez",
+"espèrent"
+],
+"imparfait": [
+"espérais",
+"espérais",
+"espérait",
+"espérions",
+"espériez",
+"espéraient"
+],
+"futur": [
+"espérerai",
+"espéreras",
+"espérera",
+"espérerons",
+"espérerez",
+"espéreront"
+],
+"conditionnel": [
+"espérerais",
+"espérerais",
+"espérerait",
+"espérerions",
+"espéreriez",
+"espéreraient"
+],
+"subjonctif": [
+"espère",
+"espères",
+"espère",
+"espérions",
+"espériez",
+"espèrent"
+]
+},
+"aux": "avoir",
+"pp": "espéré"
+},
+"fermer": {
+"t": {
+"present": [
+"ferme",
+"fermes",
+"ferme",
+"fermons",
+"fermez",
+"ferment"
+],
+"imparfait": [
+"fermais",
+"fermais",
+"fermait",
+"fermions",
+"fermiez",
+"fermaient"
+],
+"futur": [
+"fermerai",
+"fermeras",
+"fermera",
+"fermerons",
+"fermerez",
+"fermeront"
+],
+"conditionnel": [
+"fermerais",
+"fermerais",
+"fermerait",
+"fermerions",
+"fermeriez",
+"fermeraient"
+],
+"subjonctif": [
+"ferme",
+"fermes",
+"ferme",
+"fermions",
+"fermiez",
+"ferment"
+]
+},
+"aux": "avoir",
+"pp": "fermé"
+},
+"imaginer": {
+"t": {
+"present": [
+"imagine",
+"imagines",
+"imagine",
+"imaginons",
+"imaginez",
+"imaginent"
+],
+"imparfait": [
+"imaginais",
+"imaginais",
+"imaginait",
+"imaginions",
+"imaginiez",
+"imaginaient"
+],
+"futur": [
+"imaginerai",
+"imagineras",
+"imaginera",
+"imaginerons",
+"imaginerez",
+"imagineront"
+],
+"conditionnel": [
+"imaginerais",
+"imaginerais",
+"imaginerait",
+"imaginerions",
+"imagineriez",
+"imagineraient"
+],
+"subjonctif": [
+"imagine",
+"imagines",
+"imagine",
+"imaginions",
+"imaginiez",
+"imaginent"
+]
+},
+"aux": "avoir",
+"pp": "imaginé"
+},
+"expliquer": {
+"t": {
+"present": [
+"explique",
+"expliques",
+"explique",
+"expliquons",
+"expliquez",
+"expliquent"
+],
+"imparfait": [
+"expliquais",
+"expliquais",
+"expliquait",
+"expliquions",
+"expliquiez",
+"expliquaient"
+],
+"futur": [
+"expliquerai",
+"expliqueras",
+"expliquera",
+"expliquerons",
+"expliquerez",
+"expliqueront"
+],
+"conditionnel": [
+"expliquerais",
+"expliquerais",
+"expliquerait",
+"expliquerions",
+"expliqueriez",
+"expliqueraient"
+],
+"subjonctif": [
+"explique",
+"expliques",
+"explique",
+"expliquions",
+"expliquiez",
+"expliquent"
+]
+},
+"aux": "avoir",
+"pp": "expliqué"
+},
+"importer": {
+"t": {
+"present": [
+"importe",
+"importes",
+"importe",
+"importons",
+"importez",
+"importent"
+],
+"imparfait": [
+"importais",
+"importais",
+"importait",
+"importions",
+"importiez",
+"importaient"
+],
+"futur": [
+"importerai",
+"importeras",
+"importera",
+"importerons",
+"importerez",
+"importeront"
+],
+"conditionnel": [
+"importerais",
+"importerais",
+"importerait",
+"importerions",
+"importeriez",
+"importeraient"
+],
+"subjonctif": [
+"importe",
+"importes",
+"importe",
+"importions",
+"importiez",
+"importent"
+]
+},
+"aux": "avoir",
+"pp": "importé"
+},
+"compter": {
+"t": {
+"present": [
+"compte",
+"comptes",
+"compte",
+"comptons",
+"comptez",
+"comptent"
+],
+"imparfait": [
+"comptais",
+"comptais",
+"comptait",
+"comptions",
+"comptiez",
+"comptaient"
+],
+"futur": [
+"compterai",
+"compteras",
+"comptera",
+"compterons",
+"compterez",
+"compteront"
+],
+"conditionnel": [
+"compterais",
+"compterais",
+"compterait",
+"compterions",
+"compteriez",
+"compteraient"
+],
+"subjonctif": [
+"compte",
+"comptes",
+"compte",
+"comptions",
+"comptiez",
+"comptent"
+]
+},
+"aux": "avoir",
+"pp": "compté"
+},
+"rencontrer": {
+"t": {
+"present": [
+"rencontre",
+"rencontres",
+"rencontre",
+"rencontrons",
+"rencontrez",
+"rencontrent"
+],
+"imparfait": [
+"rencontrais",
+"rencontrais",
+"rencontrait",
+"rencontrions",
+"rencontriez",
+"rencontraient"
+],
+"futur": [
+"rencontrerai",
+"rencontreras",
+"rencontrera",
+"rencontrerons",
+"rencontrerez",
+"rencontreront"
+],
+"conditionnel": [
+"rencontrerais",
+"rencontrerais",
+"rencontrerait",
+"rencontrerions",
+"rencontreriez",
+"rencontreraient"
+],
+"subjonctif": [
+"rencontre",
+"rencontres",
+"rencontre",
+"rencontrions",
+"rencontriez",
+"rencontrent"
+]
+},
+"aux": "avoir",
+"pp": "rencontré"
+},
+"décider": {
+"t": {
+"present": [
+"décide",
+"décides",
+"décide",
+"décidons",
+"décidez",
+"décident"
+],
+"imparfait": [
+"décidais",
+"décidais",
+"décidait",
+"décidions",
+"décidiez",
+"décidaient"
+],
+"futur": [
+"déciderai",
+"décideras",
+"décidera",
+"déciderons",
+"déciderez",
+"décideront"
+],
+"conditionnel": [
+"déciderais",
+"déciderais",
+"déciderait",
+"déciderions",
+"décideriez",
+"décideraient"
+],
+"subjonctif": [
+"décide",
+"décides",
+"décide",
+"décidions",
+"décidiez",
+"décident"
+]
+},
+"aux": "avoir",
+"pp": "décidé"
+},
+"prier": {
+"t": {
+"present": [
+"prie",
+"pries",
+"prie",
+"prions",
+"priez",
+"prient"
+],
+"imparfait": [
+"priais",
+"priais",
+"priait",
+"priions",
+"priiez",
+"priaient"
+],
+"futur": [
+"prierai",
+"prieras",
+"priera",
+"prierons",
+"prierez",
+"prieront"
+],
+"conditionnel": [
+"prierais",
+"prierais",
+"prierait",
+"prierions",
+"prieriez",
+"prieraient"
+],
+"subjonctif": [
+"prie",
+"pries",
+"prie",
+"priions",
+"priiez",
+"prient"
+]
+},
+"aux": "avoir",
+"pp": "prié"
+},
+"recevoir": {
+"t": {
+"present": [
+"reçois",
+"reçois",
+"reçoit",
+"recevons",
+"recevez",
+"reçoivent"
+],
+"imparfait": [
+"recevais",
+"recevais",
+"recevait",
+"recevions",
+"receviez",
+"recevaient"
+],
+"futur": [
+"recevrai",
+"recevras",
+"recevra",
+"recevrons",
+"recevrez",
+"recevront"
+],
+"conditionnel": [
+"recevrais",
+"recevrais",
+"recevrait",
+"recevrions",
+"recevriez",
+"recevraient"
+],
+"subjonctif": [
+"reçoive",
+"reçoives",
+"reçoive",
+"recevions",
+"receviez",
+"reçoivent"
+]
+},
+"aux": "avoir",
+"pp": "reçu"
+},
+"agir": {
+"t": {
+"present": [
+"agis",
+"agis",
+"agit",
+"agissons",
+"agissez",
+"agissent"
+],
+"imparfait": [
+"agissais",
+"agissais",
+"agissait",
+"agissions",
+"agissiez",
+"agissaient"
+],
+"futur": [
+"agirai",
+"agiras",
+"agira",
+"agirons",
+"agirez",
+"agiront"
+],
+"conditionnel": [
+"agirais",
+"agirais",
+"agirait",
+"agirions",
+"agiriez",
+"agiraient"
+],
+"subjonctif": [
+"agisse",
+"agisses",
+"agisse",
+"agissions",
+"agissiez",
+"agissent"
+]
+},
+"aux": "avoir",
+"pp": "agi"
+},
+"pousser": {
+"t": {
+"present": [
+"pousse",
+"pousses",
+"pousse",
+"poussons",
+"poussez",
+"poussent"
+],
+"imparfait": [
+"poussais",
+"poussais",
+"poussait",
+"poussions",
+"poussiez",
+"poussaient"
+],
+"futur": [
+"pousserai",
+"pousseras",
+"poussera",
+"pousserons",
+"pousserez",
+"pousseront"
+],
+"conditionnel": [
+"pousserais",
+"pousserais",
+"pousserait",
+"pousserions",
+"pousseriez",
+"pousseraient"
+],
+"subjonctif": [
+"pousse",
+"pousses",
+"pousse",
+"poussions",
+"poussiez",
+"poussent"
+]
+},
+"aux": "avoir",
+"pp": "poussé"
+},
+"valoir": {
+"t": {
+"present": [
+"vaux",
+"vaux",
+"vaut",
+"valons",
+"valez",
+"valent"
+],
+"imparfait": [
+"valais",
+"valais",
+"valait",
+"valions",
+"valiez",
+"valaient"
+],
+"futur": [
+"vaudrai",
+"vaudras",
+"vaudra",
+"vaudrons",
+"vaudrez",
+"vaudront"
+],
+"conditionnel": [
+"vaudrais",
+"vaudrais",
+"vaudrait",
+"vaudrions",
+"vaudriez",
+"vaudraient"
+],
+"subjonctif": [
+"vaille",
+"vailles",
+"vaille",
+"valions",
+"valiez",
+"vaillent"
+]
+},
+"aux": "avoir",
+"pp": "valu"
+},
+"courir": {
+"t": {
+"present": [
+"cours",
+"cours",
+"court",
+"courons",
+"courez",
+"courent"
+],
+"imparfait": [
+"courais",
+"courais",
+"courait",
+"courions",
+"couriez",
+"couraient"
+],
+"futur": [
+"courrai",
+"courras",
+"courra",
+"courrons",
+"courrez",
+"courront"
+],
+"conditionnel": [
+"courrais",
+"courrais",
+"courrait",
+"courrions",
+"courriez",
+"courraient"
+],
+"subjonctif": [
+"coure",
+"coures",
+"coure",
+"courions",
+"couriez",
+"courent"
+]
+},
+"aux": "avoir",
+"pp": "couru"
+},
+"offrir": {
+"t": {
+"present": [
+"offre",
+"offres",
+"offre",
+"offrons",
+"offrez",
+"offrent"
+],
+"imparfait": [
+"offrais",
+"offrais",
+"offrait",
+"offrions",
+"offriez",
+"offraient"
+],
+"futur": [
+"offrirai",
+"offriras",
+"offrira",
+"offrirons",
+"offrirez",
+"offriront"
+],
+"conditionnel": [
+"offrirais",
+"offrirais",
+"offrirait",
+"offririons",
+"offririez",
+"offriraient"
+],
+"subjonctif": [
+"offre",
+"offres",
+"offre",
+"offrions",
+"offriez",
+"offrent"
+]
+},
+"aux": "avoir",
+"pp": "offert"
+},
+"suffire": {
+"t": {
+"present": [
+"suffis",
+"suffis",
+"suffit",
+"suffisons",
+"suffisez",
+"suffisent"
+],
+"imparfait": [
+"suffisais",
+"suffisais",
+"suffisait",
+"suffisions",
+"suffisiez",
+"suffisaient"
+],
+"futur": [
+"suffirai",
+"suffiras",
+"suffira",
+"suffirons",
+"suffirez",
+"suffiront"
+],
+"conditionnel": [
+"suffirais",
+"suffirais",
+"suffirait",
+"suffirions",
+"suffiriez",
+"suffiraient"
+],
+"subjonctif": [
+"suffise",
+"suffises",
+"suffise",
+"suffisions",
+"suffisiez",
+"suffisent"
+]
+},
+"aux": "avoir",
+"pp": "suffi"
+},
+"cacher": {
+"t": {
+"present": [
+"cache",
+"caches",
+"cache",
+"cachons",
+"cachez",
+"cachent"
+],
+"imparfait": [
+"cachais",
+"cachais",
+"cachait",
+"cachions",
+"cachiez",
+"cachaient"
+],
+"futur": [
+"cacherai",
+"cacheras",
+"cachera",
+"cacherons",
+"cacherez",
+"cacheront"
+],
+"conditionnel": [
+"cacherais",
+"cacherais",
+"cacherait",
+"cacherions",
+"cacheriez",
+"cacheraient"
+],
+"subjonctif": [
+"cache",
+"caches",
+"cache",
+"cachions",
+"cachiez",
+"cachent"
+]
+},
+"aux": "avoir",
+"pp": "caché"
+},
+"battre": {
+"t": {
+"present": [
+"bats",
+"bats",
+"bat",
+"battons",
+"battez",
+"battent"
+],
+"imparfait": [
+"battais",
+"battais",
+"battait",
+"battions",
+"battiez",
+"battaient"
+],
+"futur": [
+"battrai",
+"battras",
+"battra",
+"battrons",
+"battrez",
+"battront"
+],
+"conditionnel": [
+"battrais",
+"battrais",
+"battrait",
+"battrions",
+"battriez",
+"battraient"
+],
+"subjonctif": [
+"batte",
+"battes",
+"batte",
+"battions",
+"battiez",
+"battent"
+]
+},
+"aux": "avoir",
+"pp": "battu"
+},
+"coucher": {
+"t": {
+"present": [
+"couche",
+"couches",
+"couche",
+"couchons",
+"couchez",
+"couchent"
+],
+"imparfait": [
+"couchais",
+"couchais",
+"couchait",
+"couchions",
+"couchiez",
+"couchaient"
+],
+"futur": [
+"coucherai",
+"coucheras",
+"couchera",
+"coucherons",
+"coucherez",
+"coucheront"
+],
+"conditionnel": [
+"coucherais",
+"coucherais",
+"coucherait",
+"coucherions",
+"coucheriez",
+"coucheraient"
+],
+"subjonctif": [
+"couche",
+"couches",
+"couche",
+"couchions",
+"couchiez",
+"couchent"
+]
+},
+"aux": "avoir",
+"pp": "couché"
+},
+"emmener": {
+"t": {
+"present": [
+"emmène",
+"emmènes",
+"emmène",
+"emmenons",
+"emmenez",
+"emmènent"
+],
+"imparfait": [
+"emmenais",
+"emmenais",
+"emmenait",
+"emmenions",
+"emmeniez",
+"emmenaient"
+],
+"futur": [
+"emmènerai",
+"emmèneras",
+"emmènera",
+"emmènerons",
+"emmènerez",
+"emmèneront"
+],
+"conditionnel": [
+"emmènerais",
+"emmènerais",
+"emmènerait",
+"emmènerions",
+"emmèneriez",
+"emmèneraient"
+],
+"subjonctif": [
+"emmène",
+"emmènes",
+"emmène",
+"emmenions",
+"emmeniez",
+"emmènent"
+]
+},
+"aux": "avoir",
+"pp": "emmené"
+},
+"reconnaître": {
+"t": {
+"present": [
+"reconnais",
+"reconnais",
+"reconnaît",
+"reconnaissons",
+"reconnaissez",
+"reconnaissent"
+],
+"imparfait": [
+"reconnaissais",
+"reconnaissais",
+"reconnaissait",
+"reconnaissions",
+"reconnaissiez",
+"reconnaissaient"
+],
+"futur": [
+"reconnaîtrai",
+"reconnaîtras",
+"reconnaîtra",
+"reconnaîtrons",
+"reconnaîtrez",
+"reconnaîtront"
+],
+"conditionnel": [
+"reconnaîtrais",
+"reconnaîtrais",
+"reconnaîtrait",
+"reconnaîtrions",
+"reconnaîtriez",
+"reconnaîtraient"
+],
+"subjonctif": [
+"reconnaisse",
+"reconnaisses",
+"reconnaisse",
+"reconnaissions",
+"reconnaissiez",
+"reconnaissent"
+]
+},
+"aux": "avoir",
+"pp": "reconnu"
+},
+"apporter": {
+"t": {
+"present": [
+"apporte",
+"apportes",
+"apporte",
+"apportons",
+"apportez",
+"apportent"
+],
+"imparfait": [
+"apportais",
+"apportais",
+"apportait",
+"apportions",
+"apportiez",
+"apportaient"
+],
+"futur": [
+"apporterai",
+"apporteras",
+"apportera",
+"apporterons",
+"apporterez",
+"apporteront"
+],
+"conditionnel": [
+"apporterais",
+"apporterais",
+"apporterait",
+"apporterions",
+"apporteriez",
+"apporteraient"
+],
+"subjonctif": [
+"apporte",
+"apportes",
+"apporte",
+"apportions",
+"apportiez",
+"apportent"
+]
+},
+"aux": "avoir",
+"pp": "apporté"
+},
+"bouger": {
+"t": {
+"present": [
+"bouge",
+"bouges",
+"bouge",
+"bougeons",
+"bougez",
+"bougent"
+],
+"imparfait": [
+"bougeais",
+"bougeais",
+"bougeait",
+"bougions",
+"bougiez",
+"bougeaient"
+],
+"futur": [
+"bougerai",
+"bougeras",
+"bougera",
+"bougerons",
+"bougerez",
+"bougeront"
+],
+"conditionnel": [
+"bougerais",
+"bougerais",
+"bougerait",
+"bougerions",
+"bougeriez",
+"bougeraient"
+],
+"subjonctif": [
+"bouge",
+"bouges",
+"bouge",
+"bougions",
+"bougiez",
+"bougent"
+]
+},
+"aux": "avoir",
+"pp": "bougé"
+},
+"permettre": {
+"t": {
+"present": [
+"permets",
+"permets",
+"permet",
+"permettons",
+"permettez",
+"permettent"
+],
+"imparfait": [
+"permettais",
+"permettais",
+"permettait",
+"permettions",
+"permettiez",
+"permettaient"
+],
+"futur": [
+"permettrai",
+"permettras",
+"permettra",
+"permettrons",
+"permettrez",
+"permettront"
+],
+"conditionnel": [
+"permettrais",
+"permettrais",
+"permettrait",
+"permettrions",
+"permettriez",
+"permettraient"
+],
+"subjonctif": [
+"permette",
+"permettes",
+"permette",
+"permettions",
+"permettiez",
+"permettent"
+]
+},
+"aux": "avoir",
+"pp": "permis"
+},
+"crier": {
+"t": {
+"present": [
+"crie",
+"cries",
+"crie",
+"crions",
+"criez",
+"crient"
+],
+"imparfait": [
+"criais",
+"criais",
+"criait",
+"criions",
+"criiez",
+"criaient"
+],
+"futur": [
+"crierai",
+"crieras",
+"criera",
+"crierons",
+"crierez",
+"crieront"
+],
+"conditionnel": [
+"crierais",
+"crierais",
+"crierait",
+"crierions",
+"crieriez",
+"crieraient"
+],
+"subjonctif": [
+"crie",
+"cries",
+"crie",
+"criions",
+"criiez",
+"crient"
+]
+},
+"aux": "avoir",
+"pp": "crié"
+},
+"pleurer": {
+"t": {
+"present": [
+"pleure",
+"pleures",
+"pleure",
+"pleurons",
+"pleurez",
+"pleurent"
+],
+"imparfait": [
+"pleurais",
+"pleurais",
+"pleurait",
+"pleurions",
+"pleuriez",
+"pleuraient"
+],
+"futur": [
+"pleurerai",
+"pleureras",
+"pleurera",
+"pleurerons",
+"pleurerez",
+"pleureront"
+],
+"conditionnel": [
+"pleurerais",
+"pleurerais",
+"pleurerait",
+"pleurerions",
+"pleureriez",
+"pleureraient"
+],
+"subjonctif": [
+"pleure",
+"pleures",
+"pleure",
+"pleurions",
+"pleuriez",
+"pleurent"
+]
+},
+"aux": "avoir",
+"pp": "pleuré"
+},
+"disparaître": {
+"t": {
+"present": [
+"disparais",
+"disparais",
+"disparaît",
+"disparaissons",
+"disparaissez",
+"disparaissent"
+],
+"imparfait": [
+"disparaissais",
+"disparaissais",
+"disparaissait",
+"disparaissions",
+"disparaissiez",
+"disparaissaient"
+],
+"futur": [
+"disparaîtrai",
+"disparaîtras",
+"disparaîtra",
+"disparaîtrons",
+"disparaîtrez",
+"disparaîtront"
+],
+"conditionnel": [
+"disparaîtrais",
+"disparaîtrais",
+"disparaîtrait",
+"disparaîtrions",
+"disparaîtriez",
+"disparaîtraient"
+],
+"subjonctif": [
+"disparaisse",
+"disparaisses",
+"disparaisse",
+"disparaissions",
+"disparaissiez",
+"disparaissent"
+]
+},
+"aux": "avoir",
+"pp": "disparu"
+},
+"remettre": {
+"t": {
+"present": [
+"remets",
+"remets",
+"remet",
+"remettons",
+"remettez",
+"remettent"
+],
+"imparfait": [
+"remettais",
+"remettais",
+"remettait",
+"remettions",
+"remettiez",
+"remettaient"
+],
+"futur": [
+"remettrai",
+"remettras",
+"remettra",
+"remettrons",
+"remettrez",
+"remettront"
+],
+"conditionnel": [
+"remettrais",
+"remettrais",
+"remettrait",
+"remettrions",
+"remettriez",
+"remettraient"
+],
+"subjonctif": [
+"remette",
+"remettes",
+"remette",
+"remettions",
+"remettiez",
+"remettent"
+]
+},
+"aux": "avoir",
+"pp": "remis"
+},
+"sauver": {
+"t": {
+"present": [
+"sauve",
+"sauves",
+"sauve",
+"sauvons",
+"sauvez",
+"sauvent"
+],
+"imparfait": [
+"sauvais",
+"sauvais",
+"sauvait",
+"sauvions",
+"sauviez",
+"sauvaient"
+],
+"futur": [
+"sauverai",
+"sauveras",
+"sauvera",
+"sauverons",
+"sauverez",
+"sauveront"
+],
+"conditionnel": [
+"sauverais",
+"sauverais",
+"sauverait",
+"sauverions",
+"sauveriez",
+"sauveraient"
+],
+"subjonctif": [
+"sauve",
+"sauves",
+"sauve",
+"sauvions",
+"sauviez",
+"sauvent"
+]
+},
+"aux": "avoir",
+"pp": "sauvé"
+},
+"préparer": {
+"t": {
+"present": [
+"prépare",
+"prépares",
+"prépare",
+"préparons",
+"préparez",
+"préparent"
+],
+"imparfait": [
+"préparais",
+"préparais",
+"préparait",
+"préparions",
+"prépariez",
+"préparaient"
+],
+"futur": [
+"préparerai",
+"prépareras",
+"préparera",
+"préparerons",
+"préparerez",
+"prépareront"
+],
+"conditionnel": [
+"préparerais",
+"préparerais",
+"préparerait",
+"préparerions",
+"prépareriez",
+"prépareraient"
+],
+"subjonctif": [
+"prépare",
+"prépares",
+"prépare",
+"préparions",
+"prépariez",
+"préparent"
+]
+},
+"aux": "avoir",
+"pp": "préparé"
+},
+"frapper": {
+"t": {
+"present": [
+"frappe",
+"frappes",
+"frappe",
+"frappons",
+"frappez",
+"frappent"
+],
+"imparfait": [
+"frappais",
+"frappais",
+"frappait",
+"frappions",
+"frappiez",
+"frappaient"
+],
+"futur": [
+"frapperai",
+"frapperas",
+"frappera",
+"frapperons",
+"frapperez",
+"frapperont"
+],
+"conditionnel": [
+"frapperais",
+"frapperais",
+"frapperait",
+"frapperions",
+"frapperiez",
+"frapperaient"
+],
+"subjonctif": [
+"frappe",
+"frappes",
+"frappe",
+"frappions",
+"frappiez",
+"frappent"
+]
+},
+"aux": "avoir",
+"pp": "frappé"
+},
+"voler": {
+"t": {
+"present": [
+"vole",
+"voles",
+"vole",
+"volons",
+"volez",
+"volent"
+],
+"imparfait": [
+"volais",
+"volais",
+"volait",
+"volions",
+"voliez",
+"volaient"
+],
+"futur": [
+"volerai",
+"voleras",
+"volera",
+"volerons",
+"volerez",
+"voleront"
+],
+"conditionnel": [
+"volerais",
+"volerais",
+"volerait",
+"volerions",
+"voleriez",
+"voleraient"
+],
+"subjonctif": [
+"vole",
+"voles",
+"vole",
+"volions",
+"voliez",
+"volent"
+]
+},
+"aux": "avoir",
+"pp": "volé"
+},
+"découvrir": {
+"t": {
+"present": [
+"découvre",
+"découvres",
+"découvre",
+"découvrons",
+"découvrez",
+"découvrent"
+],
+"imparfait": [
+"découvrais",
+"découvrais",
+"découvrait",
+"découvrions",
+"découvriez",
+"découvraient"
+],
+"futur": [
+"découvrirai",
+"découvriras",
+"découvrira",
+"découvrirons",
+"découvrirez",
+"découvriront"
+],
+"conditionnel": [
+"découvrirais",
+"découvrirais",
+"découvrirait",
+"découvririons",
+"découvririez",
+"découvriraient"
+],
+"subjonctif": [
+"découvre",
+"découvres",
+"découvre",
+"découvrions",
+"découvriez",
+"découvrent"
+]
+},
+"aux": "avoir",
+"pp": "découvert"
+},
+"sourire": {
+"t": {
+"present": [
+"souris",
+"souris",
+"sourit",
+"sourions",
+"souriez",
+"sourient"
+],
+"imparfait": [
+"souriais",
+"souriais",
+"souriait",
+"souriions",
+"souriiez",
+"souriaient"
+],
+"futur": [
+"sourirai",
+"souriras",
+"sourira",
+"sourirons",
+"sourirez",
+"souriront"
+],
+"conditionnel": [
+"sourirais",
+"sourirais",
+"sourirait",
+"souririons",
+"souririez",
+"souriraient"
+],
+"subjonctif": [
+"sourie",
+"souries",
+"sourie",
+"souriions",
+"souriiez",
+"sourient"
+]
+},
+"aux": "avoir",
+"pp": "souri"
+},
+"conduire": {
+"t": {
+"present": [
+"conduis",
+"conduis",
+"conduit",
+"conduisons",
+"conduisez",
+"conduisent"
+],
+"imparfait": [
+"conduisais",
+"conduisais",
+"conduisait",
+"conduisions",
+"conduisiez",
+"conduisaient"
+],
+"futur": [
+"conduirai",
+"conduiras",
+"conduira",
+"conduirons",
+"conduirez",
+"conduiront"
+],
+"conditionnel": [
+"conduirais",
+"conduirais",
+"conduirait",
+"conduirions",
+"conduiriez",
+"conduiraient"
+],
+"subjonctif": [
+"conduise",
+"conduises",
+"conduise",
+"conduisions",
+"conduisiez",
+"conduisent"
+]
+},
+"aux": "avoir",
+"pp": "conduit"
+},
+"approcher": {
+"t": {
+"present": [
+"approche",
+"approches",
+"approche",
+"approchons",
+"approchez",
+"approchent"
+],
+"imparfait": [
+"approchais",
+"approchais",
+"approchait",
+"approchions",
+"approchiez",
+"approchaient"
+],
+"futur": [
+"approcherai",
+"approcheras",
+"approchera",
+"approcherons",
+"approcherez",
+"approcheront"
+],
+"conditionnel": [
+"approcherais",
+"approcherais",
+"approcherait",
+"approcherions",
+"approcheriez",
+"approcheraient"
+],
+"subjonctif": [
+"approche",
+"approches",
+"approche",
+"approchions",
+"approchiez",
+"approchent"
+]
+},
+"aux": "avoir",
+"pp": "approché"
+},
+"préférer": {
+"t": {
+"present": [
+"préfère",
+"préfères",
+"préfère",
+"préférons",
+"préférez",
+"préfèrent"
+],
+"imparfait": [
+"préférais",
+"préférais",
+"préférait",
+"préférions",
+"préfériez",
+"préféraient"
+],
+"futur": [
+"préférerai",
+"préféreras",
+"préférera",
+"préférerons",
+"préférerez",
+"préféreront"
+],
+"conditionnel": [
+"préférerais",
+"préférerais",
+"préférerait",
+"préférerions",
+"préféreriez",
+"préféreraient"
+],
+"subjonctif": [
+"préfère",
+"préfères",
+"préfère",
+"préférions",
+"préfériez",
+"préfèrent"
+]
+},
+"aux": "avoir",
+"pp": "préféré"
+},
+"désoler": {
+"t": {
+"present": [
+"désole",
+"désoles",
+"désole",
+"désolons",
+"désolez",
+"désolent"
+],
+"imparfait": [
+"désolais",
+"désolais",
+"désolait",
+"désolions",
+"désoliez",
+"désolaient"
+],
+"futur": [
+"désolerai",
+"désoleras",
+"désolera",
+"désolerons",
+"désolerez",
+"désoleront"
+],
+"conditionnel": [
+"désolerais",
+"désolerais",
+"désolerait",
+"désolerions",
+"désoleriez",
+"désoleraient"
+],
+"subjonctif": [
+"désole",
+"désoles",
+"désole",
+"désolions",
+"désoliez",
+"désolent"
+]
+},
+"aux": "avoir",
+"pp": "désolé"
+},
+"accepter": {
+"t": {
+"present": [
+"accepte",
+"acceptes",
+"accepte",
+"acceptons",
+"acceptez",
+"acceptent"
+],
+"imparfait": [
+"acceptais",
+"acceptais",
+"acceptait",
+"acceptions",
+"acceptiez",
+"acceptaient"
+],
+"futur": [
+"accepterai",
+"accepteras",
+"acceptera",
+"accepterons",
+"accepterez",
+"accepteront"
+],
+"conditionnel": [
+"accepterais",
+"accepterais",
+"accepterait",
+"accepterions",
+"accepteriez",
+"accepteraient"
+],
+"subjonctif": [
+"accepte",
+"acceptes",
+"accepte",
+"acceptions",
+"acceptiez",
+"acceptent"
+]
+},
+"aux": "avoir",
+"pp": "accepté"
+},
+"ressembler": {
+"t": {
+"present": [
+"ressemble",
+"ressembles",
+"ressemble",
+"ressemblons",
+"ressemblez",
+"ressemblent"
+],
+"imparfait": [
+"ressemblais",
+"ressemblais",
+"ressemblait",
+"ressemblions",
+"ressembliez",
+"ressemblaient"
+],
+"futur": [
+"ressemblerai",
+"ressembleras",
+"ressemblera",
+"ressemblerons",
+"ressemblerez",
+"ressembleront"
+],
+"conditionnel": [
+"ressemblerais",
+"ressemblerais",
+"ressemblerait",
+"ressemblerions",
+"ressembleriez",
+"ressembleraient"
+],
+"subjonctif": [
+"ressemble",
+"ressembles",
+"ressemble",
+"ressemblions",
+"ressembliez",
+"ressemblent"
+]
+},
+"aux": "avoir",
+"pp": "ressemblé"
+},
+"choisir": {
+"t": {
+"present": [
+"choisis",
+"choisis",
+"choisit",
+"choisissons",
+"choisissez",
+"choisissent"
+],
+"imparfait": [
+"choisissais",
+"choisissais",
+"choisissait",
+"choisissions",
+"choisissiez",
+"choisissaient"
+],
+"futur": [
+"choisirai",
+"choisiras",
+"choisira",
+"choisirons",
+"choisirez",
+"choisiront"
+],
+"conditionnel": [
+"choisirais",
+"choisirais",
+"choisirait",
+"choisirions",
+"choisiriez",
+"choisiraient"
+],
+"subjonctif": [
+"choisisse",
+"choisisses",
+"choisisse",
+"choisissions",
+"choisissiez",
+"choisissent"
+]
+},
+"aux": "avoir",
+"pp": "choisi"
+},
+"revoir": {
+"t": {
+"present": [
+"revois",
+"revois",
+"revoit",
+"revoyons",
+"revoyez",
+"revoient"
+],
+"imparfait": [
+"revoyais",
+"revoyais",
+"revoyait",
+"revoyions",
+"revoyiez",
+"revoyaient"
+],
+"futur": [
+"reverrai",
+"reverras",
+"reverra",
+"reverrons",
+"reverrez",
+"reverront"
+],
+"conditionnel": [
+"reverrais",
+"reverrais",
+"reverrait",
+"reverrions",
+"reverriez",
+"reverraient"
+],
+"subjonctif": [
+"revoie",
+"revoies",
+"revoie",
+"revoyions",
+"revoyiez",
+"revoient"
+]
+},
+"aux": "avoir",
+"pp": "revu"
+},
+"réveiller": {
+"t": {
+"present": [
+"réveille",
+"réveilles",
+"réveille",
+"réveillons",
+"réveillez",
+"réveillent"
+],
+"imparfait": [
+"réveillais",
+"réveillais",
+"réveillait",
+"réveillions",
+"réveilliez",
+"réveillaient"
+],
+"futur": [
+"réveillerai",
+"réveilleras",
+"réveillera",
+"réveillerons",
+"réveillerez",
+"réveilleront"
+],
+"conditionnel": [
+"réveillerais",
+"réveillerais",
+"réveillerait",
+"réveillerions",
+"réveilleriez",
+"réveilleraient"
+],
+"subjonctif": [
+"réveille",
+"réveilles",
+"réveille",
+"réveillions",
+"réveilliez",
+"réveillent"
+]
+},
+"aux": "avoir",
+"pp": "réveillé"
+},
+"présenter": {
+"t": {
+"present": [
+"présente",
+"présentes",
+"présente",
+"présentons",
+"présentez",
+"présentent"
+],
+"imparfait": [
+"présentais",
+"présentais",
+"présentait",
+"présentions",
+"présentiez",
+"présentaient"
+],
+"futur": [
+"présenterai",
+"présenteras",
+"présentera",
+"présenterons",
+"présenterez",
+"présenteront"
+],
+"conditionnel": [
+"présenterais",
+"présenterais",
+"présenterait",
+"présenterions",
+"présenteriez",
+"présenteraient"
+],
+"subjonctif": [
+"présente",
+"présentes",
+"présente",
+"présentions",
+"présentiez",
+"présentent"
+]
+},
+"aux": "avoir",
+"pp": "présenté"
+},
+"vendre": {
+"t": {
+"present": [
+"vends",
+"vends",
+"vend",
+"vendons",
+"vendez",
+"vendent"
+],
+"imparfait": [
+"vendais",
+"vendais",
+"vendait",
+"vendions",
+"vendiez",
+"vendaient"
+],
+"futur": [
+"vendrai",
+"vendras",
+"vendra",
+"vendrons",
+"vendrez",
+"vendront"
+],
+"conditionnel": [
+"vendrais",
+"vendrais",
+"vendrait",
+"vendrions",
+"vendriez",
+"vendraient"
+],
+"subjonctif": [
+"vende",
+"vendes",
+"vende",
+"vendions",
+"vendiez",
+"vendent"
+]
+},
+"aux": "avoir",
+"pp": "vendu"
+},
+"répéter": {
+"t": {
+"present": [
+"répète",
+"répètes",
+"répète",
+"répétons",
+"répétez",
+"répètent"
+],
+"imparfait": [
+"répétais",
+"répétais",
+"répétait",
+"répétions",
+"répétiez",
+"répétaient"
+],
+"futur": [
+"répéterai",
+"répéteras",
+"répétera",
+"répéterons",
+"répéterez",
+"répéteront"
+],
+"conditionnel": [
+"répéterais",
+"répéterais",
+"répéterait",
+"répéterions",
+"répéteriez",
+"répéteraient"
+],
+"subjonctif": [
+"répète",
+"répètes",
+"répète",
+"répétions",
+"répétiez",
+"répètent"
+]
+},
+"aux": "avoir",
+"pp": "répété"
+},
+"refuser": {
+"t": {
+"present": [
+"refuse",
+"refuses",
+"refuse",
+"refusons",
+"refusez",
+"refusent"
+],
+"imparfait": [
+"refusais",
+"refusais",
+"refusait",
+"refusions",
+"refusiez",
+"refusaient"
+],
+"futur": [
+"refuserai",
+"refuseras",
+"refusera",
+"refuserons",
+"refuserez",
+"refuseront"
+],
+"conditionnel": [
+"refuserais",
+"refuserais",
+"refuserait",
+"refuserions",
+"refuseriez",
+"refuseraient"
+],
+"subjonctif": [
+"refuse",
+"refuses",
+"refuse",
+"refusions",
+"refusiez",
+"refusent"
+]
+},
+"aux": "avoir",
+"pp": "refusé"
+},
+"couper": {
+"t": {
+"present": [
+"coupe",
+"coupes",
+"coupe",
+"coupons",
+"coupez",
+"coupent"
+],
+"imparfait": [
+"coupais",
+"coupais",
+"coupait",
+"coupions",
+"coupiez",
+"coupaient"
+],
+"futur": [
+"couperai",
+"couperas",
+"coupera",
+"couperons",
+"couperez",
+"couperont"
+],
+"conditionnel": [
+"couperais",
+"couperais",
+"couperait",
+"couperions",
+"couperiez",
+"couperaient"
+],
+"subjonctif": [
+"coupe",
+"coupes",
+"coupe",
+"coupions",
+"coupiez",
+"coupent"
+]
+},
+"aux": "avoir",
+"pp": "coupé"
+},
+"taire": {
+"t": {
+"present": [
+"tais",
+"tais",
+"tait",
+"taisons",
+"taisez",
+"taisent"
+],
+"imparfait": [
+"taisais",
+"taisais",
+"taisait",
+"taisions",
+"taisiez",
+"taisaient"
+],
+"futur": [
+"tairai",
+"tairas",
+"taira",
+"tairons",
+"tairez",
+"tairont"
+],
+"conditionnel": [
+"tairais",
+"tairais",
+"tairait",
+"tairions",
+"tairiez",
+"tairaient"
+],
+"subjonctif": [
+"taise",
+"taises",
+"taise",
+"taisions",
+"taisiez",
+"taisent"
+]
+},
+"aux": "avoir",
+"pp": "tu"
+},
+"empêcher": {
+"t": {
+"present": [
+"empêche",
+"empêches",
+"empêche",
+"empêchons",
+"empêchez",
+"empêchent"
+],
+"imparfait": [
+"empêchais",
+"empêchais",
+"empêchait",
+"empêchions",
+"empêchiez",
+"empêchaient"
+],
+"futur": [
+"empêcherai",
+"empêcheras",
+"empêchera",
+"empêcherons",
+"empêcherez",
+"empêcheront"
+],
+"conditionnel": [
+"empêcherais",
+"empêcherais",
+"empêcherait",
+"empêcherions",
+"empêcheriez",
+"empêcheraient"
+],
+"subjonctif": [
+"empêche",
+"empêches",
+"empêche",
+"empêchions",
+"empêchiez",
+"empêchent"
+]
+},
+"aux": "avoir",
+"pp": "empêché"
+},
+"chanter": {
+"t": {
+"present": [
+"chante",
+"chantes",
+"chante",
+"chantons",
+"chantez",
+"chantent"
+],
+"imparfait": [
+"chantais",
+"chantais",
+"chantait",
+"chantions",
+"chantiez",
+"chantaient"
+],
+"futur": [
+"chanterai",
+"chanteras",
+"chantera",
+"chanterons",
+"chanterez",
+"chanteront"
+],
+"conditionnel": [
+"chanterais",
+"chanterais",
+"chanterait",
+"chanterions",
+"chanteriez",
+"chanteraient"
+],
+"subjonctif": [
+"chante",
+"chantes",
+"chante",
+"chantions",
+"chantiez",
+"chantent"
+]
+},
+"aux": "avoir",
+"pp": "chanté"
+},
+"avancer": {
+"t": {
+"present": [
+"avance",
+"avances",
+"avance",
+"avançons",
+"avancez",
+"avancent"
+],
+"imparfait": [
+"avançais",
+"avançais",
+"avançait",
+"avancions",
+"avanciez",
+"avançaient"
+],
+"futur": [
+"avancerai",
+"avanceras",
+"avancera",
+"avancerons",
+"avancerez",
+"avanceront"
+],
+"conditionnel": [
+"avancerais",
+"avancerais",
+"avancerait",
+"avancerions",
+"avanceriez",
+"avanceraient"
+],
+"subjonctif": [
+"avance",
+"avances",
+"avance",
+"avancions",
+"avanciez",
+"avancent"
+]
+},
+"aux": "avoir",
+"pp": "avancé"
+},
+"promettre": {
+"t": {
+"present": [
+"promets",
+"promets",
+"promet",
+"promettons",
+"promettez",
+"promettent"
+],
+"imparfait": [
+"promettais",
+"promettais",
+"promettait",
+"promettions",
+"promettiez",
+"promettaient"
+],
+"futur": [
+"promettrai",
+"promettras",
+"promettra",
+"promettrons",
+"promettrez",
+"promettront"
+],
+"conditionnel": [
+"promettrais",
+"promettrais",
+"promettrait",
+"promettrions",
+"promettriez",
+"promettraient"
+],
+"subjonctif": [
+"promette",
+"promettes",
+"promette",
+"promettions",
+"promettiez",
+"promettent"
+]
+},
+"aux": "avoir",
+"pp": "promis"
+},
+"marier": {
+"t": {
+"present": [
+"marie",
+"maries",
+"marie",
+"marions",
+"mariez",
+"marient"
+],
+"imparfait": [
+"mariais",
+"mariais",
+"mariait",
+"mariions",
+"mariiez",
+"mariaient"
+],
+"futur": [
+"marierai",
+"marieras",
+"mariera",
+"marierons",
+"marierez",
+"marieront"
+],
+"conditionnel": [
+"marierais",
+"marierais",
+"marierait",
+"marierions",
+"marieriez",
+"marieraient"
+],
+"subjonctif": [
+"marie",
+"maries",
+"marie",
+"mariions",
+"mariiez",
+"marient"
+]
+},
+"aux": "avoir",
+"pp": "marié"
+},
+"exister": {
+"t": {
+"present": [
+"existe",
+"existes",
+"existe",
+"existons",
+"existez",
+"existent"
+],
+"imparfait": [
+"existais",
+"existais",
+"existait",
+"existions",
+"existiez",
+"existaient"
+],
+"futur": [
+"existerai",
+"existeras",
+"existera",
+"existerons",
+"existerez",
+"existeront"
+],
+"conditionnel": [
+"existerais",
+"existerais",
+"existerait",
+"existerions",
+"existeriez",
+"existeraient"
+],
+"subjonctif": [
+"existe",
+"existes",
+"existe",
+"existions",
+"existiez",
+"existent"
+]
+},
+"aux": "avoir",
+"pp": "existé"
+},
+"amener": {
+"t": {
+"present": [
+"amène",
+"amènes",
+"amène",
+"amenons",
+"amenez",
+"amènent"
+],
+"imparfait": [
+"amenais",
+"amenais",
+"amenait",
+"amenions",
+"ameniez",
+"amenaient"
+],
+"futur": [
+"amènerai",
+"amèneras",
+"amènera",
+"amènerons",
+"amènerez",
+"amèneront"
+],
+"conditionnel": [
+"amènerais",
+"amènerais",
+"amènerait",
+"amènerions",
+"amèneriez",
+"amèneraient"
+],
+"subjonctif": [
+"amène",
+"amènes",
+"amène",
+"amenions",
+"ameniez",
+"amènent"
+]
+},
+"aux": "avoir",
+"pp": "amené"
+},
+"inquiéter": {
+"t": {
+"present": [
+"inquiète",
+"inquiètes",
+"inquiète",
+"inquiétons",
+"inquiétez",
+"inquiètent"
+],
+"imparfait": [
+"inquiétais",
+"inquiétais",
+"inquiétait",
+"inquiétions",
+"inquiétiez",
+"inquiétaient"
+],
+"futur": [
+"inquiéterai",
+"inquiéteras",
+"inquiétera",
+"inquiéterons",
+"inquiéterez",
+"inquiéteront"
+],
+"conditionnel": [
+"inquiéterais",
+"inquiéterais",
+"inquiéterait",
+"inquiéterions",
+"inquiéteriez",
+"inquiéteraient"
+],
+"subjonctif": [
+"inquiète",
+"inquiètes",
+"inquiète",
+"inquiétions",
+"inquiétiez",
+"inquiètent"
+]
+},
+"aux": "avoir",
+"pp": "inquiété"
+},
+"ramener": {
+"t": {
+"present": [
+"ramène",
+"ramènes",
+"ramène",
+"ramenons",
+"ramenez",
+"ramènent"
+],
+"imparfait": [
+"ramenais",
+"ramenais",
+"ramenait",
+"ramenions",
+"rameniez",
+"ramenaient"
+],
+"futur": [
+"ramènerai",
+"ramèneras",
+"ramènera",
+"ramènerons",
+"ramènerez",
+"ramèneront"
+],
+"conditionnel": [
+"ramènerais",
+"ramènerais",
+"ramènerait",
+"ramènerions",
+"ramèneriez",
+"ramèneraient"
+],
+"subjonctif": [
+"ramène",
+"ramènes",
+"ramène",
+"ramenions",
+"rameniez",
+"ramènent"
+]
+},
+"aux": "avoir",
+"pp": "ramené"
+},
+"embrasser": {
+"t": {
+"present": [
+"embrasse",
+"embrasses",
+"embrasse",
+"embrassons",
+"embrassez",
+"embrassent"
+],
+"imparfait": [
+"embrassais",
+"embrassais",
+"embrassait",
+"embrassions",
+"embrassiez",
+"embrassaient"
+],
+"futur": [
+"embrasserai",
+"embrasseras",
+"embrassera",
+"embrasserons",
+"embrasserez",
+"embrasseront"
+],
+"conditionnel": [
+"embrasserais",
+"embrasserais",
+"embrasserait",
+"embrasserions",
+"embrasseriez",
+"embrasseraient"
+],
+"subjonctif": [
+"embrasse",
+"embrasses",
+"embrasse",
+"embrassions",
+"embrassiez",
+"embrassent"
+]
+},
+"aux": "avoir",
+"pp": "embrassé"
+},
+"traverser": {
+"t": {
+"present": [
+"traverse",
+"traverses",
+"traverse",
+"traversons",
+"traversez",
+"traversent"
+],
+"imparfait": [
+"traversais",
+"traversais",
+"traversait",
+"traversions",
+"traversiez",
+"traversaient"
+],
+"futur": [
+"traverserai",
+"traverseras",
+"traversera",
+"traverserons",
+"traverserez",
+"traverseront"
+],
+"conditionnel": [
+"traverserais",
+"traverserais",
+"traverserait",
+"traverserions",
+"traverseriez",
+"traverseraient"
+],
+"subjonctif": [
+"traverse",
+"traverses",
+"traverse",
+"traversions",
+"traversiez",
+"traversent"
+]
+},
+"aux": "avoir",
+"pp": "traversé"
+},
+"apercevoir": {
+"t": {
+"present": [
+"aperçois",
+"aperçois",
+"aperçoit",
+"apercevons",
+"apercevez",
+"aperçoivent"
+],
+"imparfait": [
+"apercevais",
+"apercevais",
+"apercevait",
+"apercevions",
+"aperceviez",
+"apercevaient"
+],
+"futur": [
+"apercevrai",
+"apercevras",
+"apercevra",
+"apercevrons",
+"apercevrez",
+"apercevront"
+],
+"conditionnel": [
+"apercevrais",
+"apercevrais",
+"apercevrait",
+"apercevrions",
+"apercevriez",
+"apercevraient"
+],
+"subjonctif": [
+"aperçoive",
+"aperçoives",
+"aperçoive",
+"apercevions",
+"aperceviez",
+"aperçoivent"
+]
+},
+"aux": "avoir",
+"pp": "aperçu"
+},
+"ignorer": {
+"t": {
+"present": [
+"ignore",
+"ignores",
+"ignore",
+"ignorons",
+"ignorez",
+"ignorent"
+],
+"imparfait": [
+"ignorais",
+"ignorais",
+"ignorait",
+"ignorions",
+"ignoriez",
+"ignoraient"
+],
+"futur": [
+"ignorerai",
+"ignoreras",
+"ignorera",
+"ignorerons",
+"ignorerez",
+"ignoreront"
+],
+"conditionnel": [
+"ignorerais",
+"ignorerais",
+"ignorerait",
+"ignorerions",
+"ignoreriez",
+"ignoreraient"
+],
+"subjonctif": [
+"ignore",
+"ignores",
+"ignore",
+"ignorions",
+"ignoriez",
+"ignorent"
+]
+},
+"aux": "avoir",
+"pp": "ignoré"
+},
+"glisser": {
+"t": {
+"present": [
+"glisse",
+"glisses",
+"glisse",
+"glissons",
+"glissez",
+"glissent"
+],
+"imparfait": [
+"glissais",
+"glissais",
+"glissait",
+"glissions",
+"glissiez",
+"glissaient"
+],
+"futur": [
+"glisserai",
+"glisseras",
+"glissera",
+"glisserons",
+"glisserez",
+"glisseront"
+],
+"conditionnel": [
+"glisserais",
+"glisserais",
+"glisserait",
+"glisserions",
+"glisseriez",
+"glisseraient"
+],
+"subjonctif": [
+"glisse",
+"glisses",
+"glisse",
+"glissions",
+"glissiez",
+"glissent"
+]
+},
+"aux": "avoir",
+"pp": "glissé"
+},
+"ajouter": {
+"t": {
+"present": [
+"ajoute",
+"ajoutes",
+"ajoute",
+"ajoutons",
+"ajoutez",
+"ajoutent"
+],
+"imparfait": [
+"ajoutais",
+"ajoutais",
+"ajoutait",
+"ajoutions",
+"ajoutiez",
+"ajoutaient"
+],
+"futur": [
+"ajouterai",
+"ajouteras",
+"ajoutera",
+"ajouterons",
+"ajouterez",
+"ajouteront"
+],
+"conditionnel": [
+"ajouterais",
+"ajouterais",
+"ajouterait",
+"ajouterions",
+"ajouteriez",
+"ajouteraient"
+],
+"subjonctif": [
+"ajoute",
+"ajoutes",
+"ajoute",
+"ajoutions",
+"ajoutiez",
+"ajoutent"
+]
+},
+"aux": "avoir",
+"pp": "ajouté"
+},
+"amuser": {
+"t": {
+"present": [
+"amuse",
+"amuses",
+"amuse",
+"amusons",
+"amusez",
+"amusent"
+],
+"imparfait": [
+"amusais",
+"amusais",
+"amusait",
+"amusions",
+"amusiez",
+"amusaient"
+],
+"futur": [
+"amuserai",
+"amuseras",
+"amusera",
+"amuserons",
+"amuserez",
+"amuseront"
+],
+"conditionnel": [
+"amuserais",
+"amuserais",
+"amuserait",
+"amuserions",
+"amuseriez",
+"amuseraient"
+],
+"subjonctif": [
+"amuse",
+"amuses",
+"amuse",
+"amusions",
+"amusiez",
+"amusent"
+]
+},
+"aux": "avoir",
+"pp": "amusé"
+},
+"lâcher": {
+"t": {
+"present": [
+"lâche",
+"lâches",
+"lâche",
+"lâchons",
+"lâchez",
+"lâchent"
+],
+"imparfait": [
+"lâchais",
+"lâchais",
+"lâchait",
+"lâchions",
+"lâchiez",
+"lâchaient"
+],
+"futur": [
+"lâcherai",
+"lâcheras",
+"lâchera",
+"lâcherons",
+"lâcherez",
+"lâcheront"
+],
+"conditionnel": [
+"lâcherais",
+"lâcherais",
+"lâcherait",
+"lâcherions",
+"lâcheriez",
+"lâcheraient"
+],
+"subjonctif": [
+"lâche",
+"lâches",
+"lâche",
+"lâchions",
+"lâchiez",
+"lâchent"
+]
+},
+"aux": "avoir",
+"pp": "lâché"
+},
+"serrer": {
+"t": {
+"present": [
+"serre",
+"serres",
+"serre",
+"serrons",
+"serrez",
+"serrent"
+],
+"imparfait": [
+"serrais",
+"serrais",
+"serrait",
+"serrions",
+"serriez",
+"serraient"
+],
+"futur": [
+"serrerai",
+"serreras",
+"serrera",
+"serrerons",
+"serrerez",
+"serreront"
+],
+"conditionnel": [
+"serrerais",
+"serrerais",
+"serrerait",
+"serrerions",
+"serreriez",
+"serreraient"
+],
+"subjonctif": [
+"serre",
+"serres",
+"serre",
+"serrions",
+"serriez",
+"serrent"
+]
+},
+"aux": "avoir",
+"pp": "serré"
+},
+"intéresser": {
+"t": {
+"present": [
+"intéresse",
+"intéresses",
+"intéresse",
+"intéressons",
+"intéressez",
+"intéressent"
+],
+"imparfait": [
+"intéressais",
+"intéressais",
+"intéressait",
+"intéressions",
+"intéressiez",
+"intéressaient"
+],
+"futur": [
+"intéresserai",
+"intéresseras",
+"intéressera",
+"intéresserons",
+"intéresserez",
+"intéresseront"
+],
+"conditionnel": [
+"intéresserais",
+"intéresserais",
+"intéresserait",
+"intéresserions",
+"intéresseriez",
+"intéresseraient"
+],
+"subjonctif": [
+"intéresse",
+"intéresses",
+"intéresse",
+"intéressions",
+"intéressiez",
+"intéressent"
+]
+},
+"aux": "avoir",
+"pp": "intéressé"
+},
+"sauter": {
+"t": {
+"present": [
+"saute",
+"sautes",
+"saute",
+"sautons",
+"sautez",
+"sautent"
+],
+"imparfait": [
+"sautais",
+"sautais",
+"sautait",
+"sautions",
+"sautiez",
+"sautaient"
+],
+"futur": [
+"sauterai",
+"sauteras",
+"sautera",
+"sauterons",
+"sauterez",
+"sauteront"
+],
+"conditionnel": [
+"sauterais",
+"sauterais",
+"sauterait",
+"sauterions",
+"sauteriez",
+"sauteraient"
+],
+"subjonctif": [
+"saute",
+"sautes",
+"saute",
+"sautions",
+"sautiez",
+"sautent"
+]
+},
+"aux": "avoir",
+"pp": "sauté"
+},
+"réussir": {
+"t": {
+"present": [
+"réussis",
+"réussis",
+"réussit",
+"réussissons",
+"réussissez",
+"réussissent"
+],
+"imparfait": [
+"réussissais",
+"réussissais",
+"réussissait",
+"réussissions",
+"réussissiez",
+"réussissaient"
+],
+"futur": [
+"réussirai",
+"réussiras",
+"réussira",
+"réussirons",
+"réussirez",
+"réussiront"
+],
+"conditionnel": [
+"réussirais",
+"réussirais",
+"réussirait",
+"réussirions",
+"réussiriez",
+"réussiraient"
+],
+"subjonctif": [
+"réussisse",
+"réussisses",
+"réussisse",
+"réussissions",
+"réussissiez",
+"réussissent"
+]
+},
+"aux": "avoir",
+"pp": "réussi"
+},
+"casser": {
+"t": {
+"present": [
+"casse",
+"casses",
+"casse",
+"cassons",
+"cassez",
+"cassent"
+],
+"imparfait": [
+"cassais",
+"cassais",
+"cassait",
+"cassions",
+"cassiez",
+"cassaient"
+],
+"futur": [
+"casserai",
+"casseras",
+"cassera",
+"casserons",
+"casserez",
+"casseront"
+],
+"conditionnel": [
+"casserais",
+"casserais",
+"casserait",
+"casserions",
+"casseriez",
+"casseraient"
+],
+"subjonctif": [
+"casse",
+"casses",
+"casse",
+"cassions",
+"cassiez",
+"cassent"
+]
+},
+"aux": "avoir",
+"pp": "cassé"
+},
+"enlever": {
+"t": {
+"present": [
+"enlève",
+"enlèves",
+"enlève",
+"enlevons",
+"enlevez",
+"enlèvent"
+],
+"imparfait": [
+"enlevais",
+"enlevais",
+"enlevait",
+"enlevions",
+"enleviez",
+"enlevaient"
+],
+"futur": [
+"enlèverai",
+"enlèveras",
+"enlèvera",
+"enlèverons",
+"enlèverez",
+"enlèveront"
+],
+"conditionnel": [
+"enlèverais",
+"enlèverais",
+"enlèverait",
+"enlèverions",
+"enlèveriez",
+"enlèveraient"
+],
+"subjonctif": [
+"enlève",
+"enlèves",
+"enlève",
+"enlevions",
+"enleviez",
+"enlèvent"
+]
+},
+"aux": "avoir",
+"pp": "enlevé"
+},
+"rêver": {
+"t": {
+"present": [
+"rêve",
+"rêves",
+"rêve",
+"rêvons",
+"rêvez",
+"rêvent"
+],
+"imparfait": [
+"rêvais",
+"rêvais",
+"rêvait",
+"rêvions",
+"rêviez",
+"rêvaient"
+],
+"futur": [
+"rêverai",
+"rêveras",
+"rêvera",
+"rêverons",
+"rêverez",
+"rêveront"
+],
+"conditionnel": [
+"rêverais",
+"rêverais",
+"rêverait",
+"rêverions",
+"rêveriez",
+"rêveraient"
+],
+"subjonctif": [
+"rêve",
+"rêves",
+"rêve",
+"rêvions",
+"rêviez",
+"rêvent"
+]
+},
+"aux": "avoir",
+"pp": "rêvé"
+},
+"tromper": {
+"t": {
+"present": [
+"trompe",
+"trompes",
+"trompe",
+"trompons",
+"trompez",
+"trompent"
+],
+"imparfait": [
+"trompais",
+"trompais",
+"trompait",
+"trompions",
+"trompiez",
+"trompaient"
+],
+"futur": [
+"tromperai",
+"tromperas",
+"trompera",
+"tromperons",
+"tromperez",
+"tromperont"
+],
+"conditionnel": [
+"tromperais",
+"tromperais",
+"tromperait",
+"tromperions",
+"tromperiez",
+"tromperaient"
+],
+"subjonctif": [
+"trompe",
+"trompes",
+"trompe",
+"trompions",
+"trompiez",
+"trompent"
+]
+},
+"aux": "avoir",
+"pp": "trompé"
+},
+"cesser": {
+"t": {
+"present": [
+"cesse",
+"cesses",
+"cesse",
+"cessons",
+"cessez",
+"cessent"
+],
+"imparfait": [
+"cessais",
+"cessais",
+"cessait",
+"cessions",
+"cessiez",
+"cessaient"
+],
+"futur": [
+"cesserai",
+"cesseras",
+"cessera",
+"cesserons",
+"cesserez",
+"cesseront"
+],
+"conditionnel": [
+"cesserais",
+"cesserais",
+"cesserait",
+"cesserions",
+"cesseriez",
+"cesseraient"
+],
+"subjonctif": [
+"cesse",
+"cesses",
+"cesse",
+"cessions",
+"cessiez",
+"cessent"
+]
+},
+"aux": "avoir",
+"pp": "cessé"
+},
+"oser": {
+"t": {
+"present": [
+"ose",
+"oses",
+"ose",
+"osons",
+"osez",
+"osent"
+],
+"imparfait": [
+"osais",
+"osais",
+"osait",
+"osions",
+"osiez",
+"osaient"
+],
+"futur": [
+"oserai",
+"oseras",
+"osera",
+"oserons",
+"oserez",
+"oseront"
+],
+"conditionnel": [
+"oserais",
+"oserais",
+"oserait",
+"oserions",
+"oseriez",
+"oseraient"
+],
+"subjonctif": [
+"ose",
+"oses",
+"ose",
+"osions",
+"osiez",
+"osent"
+]
+},
+"aux": "avoir",
+"pp": "osé"
+},
+"tendre": {
+"t": {
+"present": [
+"tends",
+"tends",
+"tend",
+"tendons",
+"tendez",
+"tendent"
+],
+"imparfait": [
+"tendais",
+"tendais",
+"tendait",
+"tendions",
+"tendiez",
+"tendaient"
+],
+"futur": [
+"tendrai",
+"tendras",
+"tendra",
+"tendrons",
+"tendrez",
+"tendront"
+],
+"conditionnel": [
+"tendrais",
+"tendrais",
+"tendrait",
+"tendrions",
+"tendriez",
+"tendraient"
+],
+"subjonctif": [
+"tende",
+"tendes",
+"tende",
+"tendions",
+"tendiez",
+"tendent"
+]
+},
+"aux": "avoir",
+"pp": "tendu"
+},
+"terminer": {
+"t": {
+"present": [
+"termine",
+"termines",
+"termine",
+"terminons",
+"terminez",
+"terminent"
+],
+"imparfait": [
+"terminais",
+"terminais",
+"terminait",
+"terminions",
+"terminiez",
+"terminaient"
+],
+"futur": [
+"terminerai",
+"termineras",
+"terminera",
+"terminerons",
+"terminerez",
+"termineront"
+],
+"conditionnel": [
+"terminerais",
+"terminerais",
+"terminerait",
+"terminerions",
+"termineriez",
+"termineraient"
+],
+"subjonctif": [
+"termine",
+"termines",
+"termine",
+"terminions",
+"terminiez",
+"terminent"
+]
+},
+"aux": "avoir",
+"pp": "terminé"
+},
+"habiter": {
+"t": {
+"present": [
+"habite",
+"habites",
+"habite",
+"habitons",
+"habitez",
+"habitent"
+],
+"imparfait": [
+"habitais",
+"habitais",
+"habitait",
+"habitions",
+"habitiez",
+"habitaient"
+],
+"futur": [
+"habiterai",
+"habiteras",
+"habitera",
+"habiterons",
+"habiterez",
+"habiteront"
+],
+"conditionnel": [
+"habiterais",
+"habiterais",
+"habiterait",
+"habiterions",
+"habiteriez",
+"habiteraient"
+],
+"subjonctif": [
+"habite",
+"habites",
+"habite",
+"habitions",
+"habitiez",
+"habitent"
+]
+},
+"aux": "avoir",
+"pp": "habité"
+},
+"lancer": {
+"t": {
+"present": [
+"lance",
+"lances",
+"lance",
+"lançons",
+"lancez",
+"lancent"
+],
+"imparfait": [
+"lançais",
+"lançais",
+"lançait",
+"lancions",
+"lanciez",
+"lançaient"
+],
+"futur": [
+"lancerai",
+"lanceras",
+"lancera",
+"lancerons",
+"lancerez",
+"lanceront"
+],
+"conditionnel": [
+"lancerais",
+"lancerais",
+"lancerait",
+"lancerions",
+"lanceriez",
+"lanceraient"
+],
+"subjonctif": [
+"lance",
+"lances",
+"lance",
+"lancions",
+"lanciez",
+"lancent"
+]
+},
+"aux": "avoir",
+"pp": "lancé"
+},
+"abandonner": {
+"t": {
+"present": [
+"abandonne",
+"abandonnes",
+"abandonne",
+"abandonnons",
+"abandonnez",
+"abandonnent"
+],
+"imparfait": [
+"abandonnais",
+"abandonnais",
+"abandonnait",
+"abandonnions",
+"abandonniez",
+"abandonnaient"
+],
+"futur": [
+"abandonnerai",
+"abandonneras",
+"abandonnera",
+"abandonnerons",
+"abandonnerez",
+"abandonneront"
+],
+"conditionnel": [
+"abandonnerais",
+"abandonnerais",
+"abandonnerait",
+"abandonnerions",
+"abandonneriez",
+"abandonneraient"
+],
+"subjonctif": [
+"abandonne",
+"abandonnes",
+"abandonne",
+"abandonnions",
+"abandonniez",
+"abandonnent"
+]
+},
+"aux": "avoir",
+"pp": "abandonné"
+},
+"adorer": {
+"t": {
+"present": [
+"adore",
+"adores",
+"adore",
+"adorons",
+"adorez",
+"adorent"
+],
+"imparfait": [
+"adorais",
+"adorais",
+"adorait",
+"adorions",
+"adoriez",
+"adoraient"
+],
+"futur": [
+"adorerai",
+"adoreras",
+"adorera",
+"adorerons",
+"adorerez",
+"adoreront"
+],
+"conditionnel": [
+"adorerais",
+"adorerais",
+"adorerait",
+"adorerions",
+"adoreriez",
+"adoreraient"
+],
+"subjonctif": [
+"adore",
+"adores",
+"adore",
+"adorions",
+"adoriez",
+"adorent"
+]
+},
+"aux": "avoir",
+"pp": "adoré"
+},
+"mener": {
+"t": {
+"present": [
+"mène",
+"mènes",
+"mène",
+"menons",
+"menez",
+"mènent"
+],
+"imparfait": [
+"menais",
+"menais",
+"menait",
+"menions",
+"meniez",
+"menaient"
+],
+"futur": [
+"mènerai",
+"mèneras",
+"mènera",
+"mènerons",
+"mènerez",
+"mèneront"
+],
+"conditionnel": [
+"mènerais",
+"mènerais",
+"mènerait",
+"mènerions",
+"mèneriez",
+"mèneraient"
+],
+"subjonctif": [
+"mène",
+"mènes",
+"mène",
+"menions",
+"meniez",
+"mènent"
+]
+},
+"aux": "avoir",
+"pp": "mené"
+},
+"mentir": {
+"t": {
+"present": [
+"mens",
+"mens",
+"ment",
+"mentons",
+"mentez",
+"mentent"
+],
+"imparfait": [
+"mentais",
+"mentais",
+"mentait",
+"mentions",
+"mentiez",
+"mentaient"
+],
+"futur": [
+"mentirai",
+"mentiras",
+"mentira",
+"mentirons",
+"mentirez",
+"mentiront"
+],
+"conditionnel": [
+"mentirais",
+"mentirais",
+"mentirait",
+"mentirions",
+"mentiriez",
+"mentiraient"
+],
+"subjonctif": [
+"mente",
+"mentes",
+"mente",
+"mentions",
+"mentiez",
+"mentent"
+]
+},
+"aux": "avoir",
+"pp": "menti"
+},
+"naître": {
+"t": {
+"present": [
+"nais",
+"nais",
+"naît",
+"naissons",
+"naissez",
+"naissent"
+],
+"imparfait": [
+"naissais",
+"naissais",
+"naissait",
+"naissions",
+"naissiez",
+"naissaient"
+],
+"futur": [
+"naîtrai",
+"naîtras",
+"naîtra",
+"naîtrons",
+"naîtrez",
+"naîtront"
+],
+"conditionnel": [
+"naîtrais",
+"naîtrais",
+"naîtrait",
+"naîtrions",
+"naîtriez",
+"naîtraient"
+],
+"subjonctif": [
+"naisse",
+"naisses",
+"naisse",
+"naissions",
+"naissiez",
+"naissent"
+]
+},
+"aux": "être",
+"pp": "né"
+},
+"assurer": {
+"t": {
+"present": [
+"assure",
+"assures",
+"assure",
+"assurons",
+"assurez",
+"assurent"
+],
+"imparfait": [
+"assurais",
+"assurais",
+"assurait",
+"assurions",
+"assuriez",
+"assuraient"
+],
+"futur": [
+"assurerai",
+"assureras",
+"assurera",
+"assurerons",
+"assurerez",
+"assureront"
+],
+"conditionnel": [
+"assurerais",
+"assurerais",
+"assurerait",
+"assurerions",
+"assureriez",
+"assureraient"
+],
+"subjonctif": [
+"assure",
+"assures",
+"assure",
+"assurions",
+"assuriez",
+"assurent"
+]
+},
+"aux": "avoir",
+"pp": "assuré"
+},
+"souffrir": {
+"t": {
+"present": [
+"souffre",
+"souffres",
+"souffre",
+"souffrons",
+"souffrez",
+"souffrent"
+],
+"imparfait": [
+"souffrais",
+"souffrais",
+"souffrait",
+"souffrions",
+"souffriez",
+"souffraient"
+],
+"futur": [
+"souffrirai",
+"souffriras",
+"souffrira",
+"souffrirons",
+"souffrirez",
+"souffriront"
+],
+"conditionnel": [
+"souffrirais",
+"souffrirais",
+"souffrirait",
+"souffririons",
+"souffririez",
+"souffriraient"
+],
+"subjonctif": [
+"souffre",
+"souffres",
+"souffre",
+"souffrions",
+"souffriez",
+"souffrent"
+]
+},
+"aux": "avoir",
+"pp": "souffert"
+},
+"installer": {
+"t": {
+"present": [
+"installe",
+"installes",
+"installe",
+"installons",
+"installez",
+"installent"
+],
+"imparfait": [
+"installais",
+"installais",
+"installait",
+"installions",
+"installiez",
+"installaient"
+],
+"futur": [
+"installerai",
+"installeras",
+"installera",
+"installerons",
+"installerez",
+"installeront"
+],
+"conditionnel": [
+"installerais",
+"installerais",
+"installerait",
+"installerions",
+"installeriez",
+"installeraient"
+],
+"subjonctif": [
+"installe",
+"installes",
+"installe",
+"installions",
+"installiez",
+"installent"
+]
+},
+"aux": "avoir",
+"pp": "installé"
+},
+"rejoindre": {
+"t": {
+"present": [
+"rejoins",
+"rejoins",
+"rejoint",
+"rejoignons",
+"rejoignez",
+"rejoignent"
+],
+"imparfait": [
+"rejoignais",
+"rejoignais",
+"rejoignait",
+"rejoignions",
+"rejoigniez",
+"rejoignaient"
+],
+"futur": [
+"rejoindrai",
+"rejoindras",
+"rejoindra",
+"rejoindrons",
+"rejoindrez",
+"rejoindront"
+],
+"conditionnel": [
+"rejoindrais",
+"rejoindrais",
+"rejoindrait",
+"rejoindrions",
+"rejoindriez",
+"rejoindraient"
+],
+"subjonctif": [
+"rejoigne",
+"rejoignes",
+"rejoigne",
+"rejoignions",
+"rejoigniez",
+"rejoignent"
+]
+},
+"aux": "avoir",
+"pp": "rejoint"
+},
+"remonter": {
+"t": {
+"present": [
+"remonte",
+"remontes",
+"remonte",
+"remontons",
+"remontez",
+"remontent"
+],
+"imparfait": [
+"remontais",
+"remontais",
+"remontait",
+"remontions",
+"remontiez",
+"remontaient"
+],
+"futur": [
+"remonterai",
+"remonteras",
+"remontera",
+"remonterons",
+"remonterez",
+"remonteront"
+],
+"conditionnel": [
+"remonterais",
+"remonterais",
+"remonterait",
+"remonterions",
+"remonteriez",
+"remonteraient"
+],
+"subjonctif": [
+"remonte",
+"remontes",
+"remonte",
+"remontions",
+"remontiez",
+"remontent"
+]
+},
+"aux": "être",
+"pp": "remonté"
+},
+"jurer": {
+"t": {
+"present": [
+"jure",
+"jures",
+"jure",
+"jurons",
+"jurez",
+"jurent"
+],
+"imparfait": [
+"jurais",
+"jurais",
+"jurait",
+"jurions",
+"juriez",
+"juraient"
+],
+"futur": [
+"jurerai",
+"jureras",
+"jurera",
+"jurerons",
+"jurerez",
+"jureront"
+],
+"conditionnel": [
+"jurerais",
+"jurerais",
+"jurerait",
+"jurerions",
+"jureriez",
+"jureraient"
+],
+"subjonctif": [
+"jure",
+"jures",
+"jure",
+"jurions",
+"juriez",
+"jurent"
+]
+},
+"aux": "avoir",
+"pp": "juré"
+},
+"danser": {
+"t": {
+"present": [
+"danse",
+"danses",
+"danse",
+"dansons",
+"dansez",
+"dansent"
+],
+"imparfait": [
+"dansais",
+"dansais",
+"dansait",
+"dansions",
+"dansiez",
+"dansaient"
+],
+"futur": [
+"danserai",
+"danseras",
+"dansera",
+"danserons",
+"danserez",
+"danseront"
+],
+"conditionnel": [
+"danserais",
+"danserais",
+"danserait",
+"danserions",
+"danseriez",
+"danseraient"
+],
+"subjonctif": [
+"danse",
+"danses",
+"danse",
+"dansions",
+"dansiez",
+"dansent"
+]
+},
+"aux": "avoir",
+"pp": "dansé"
+},
+"échapper": {
+"t": {
+"present": [
+"échappe",
+"échappes",
+"échappe",
+"échappons",
+"échappez",
+"échappent"
+],
+"imparfait": [
+"échappais",
+"échappais",
+"échappait",
+"échappions",
+"échappiez",
+"échappaient"
+],
+"futur": [
+"échapperai",
+"échapperas",
+"échappera",
+"échapperons",
+"échapperez",
+"échapperont"
+],
+"conditionnel": [
+"échapperais",
+"échapperais",
+"échapperait",
+"échapperions",
+"échapperiez",
+"échapperaient"
+],
+"subjonctif": [
+"échappe",
+"échappes",
+"échappe",
+"échappions",
+"échappiez",
+"échappent"
+]
+},
+"aux": "avoir",
+"pp": "échappé"
+},
+"utiliser": {
+"t": {
+"present": [
+"utilise",
+"utilises",
+"utilise",
+"utilisons",
+"utilisez",
+"utilisent"
+],
+"imparfait": [
+"utilisais",
+"utilisais",
+"utilisait",
+"utilisions",
+"utilisiez",
+"utilisaient"
+],
+"futur": [
+"utiliserai",
+"utiliseras",
+"utilisera",
+"utiliserons",
+"utiliserez",
+"utiliseront"
+],
+"conditionnel": [
+"utiliserais",
+"utiliserais",
+"utiliserait",
+"utiliserions",
+"utiliseriez",
+"utiliseraient"
+],
+"subjonctif": [
+"utilise",
+"utilises",
+"utilise",
+"utilisions",
+"utilisiez",
+"utilisent"
+]
+},
+"aux": "avoir",
+"pp": "utilisé"
+},
+"craindre": {
+"t": {
+"present": [
+"crains",
+"crains",
+"craint",
+"craignons",
+"craignez",
+"craignent"
+],
+"imparfait": [
+"craignais",
+"craignais",
+"craignait",
+"craignions",
+"craigniez",
+"craignaient"
+],
+"futur": [
+"craindrai",
+"craindras",
+"craindra",
+"craindrons",
+"craindrez",
+"craindront"
+],
+"conditionnel": [
+"craindrais",
+"craindrais",
+"craindrait",
+"craindrions",
+"craindriez",
+"craindraient"
+],
+"subjonctif": [
+"craigne",
+"craignes",
+"craigne",
+"craignions",
+"craigniez",
+"craignent"
+]
+},
+"aux": "avoir",
+"pp": "craint"
+},
+"rouler": {
+"t": {
+"present": [
+"roule",
+"roules",
+"roule",
+"roulons",
+"roulez",
+"roulent"
+],
+"imparfait": [
+"roulais",
+"roulais",
+"roulait",
+"roulions",
+"rouliez",
+"roulaient"
+],
+"futur": [
+"roulerai",
+"rouleras",
+"roulera",
+"roulerons",
+"roulerez",
+"rouleront"
+],
+"conditionnel": [
+"roulerais",
+"roulerais",
+"roulerait",
+"roulerions",
+"rouleriez",
+"rouleraient"
+],
+"subjonctif": [
+"roule",
+"roules",
+"roule",
+"roulions",
+"rouliez",
+"roulent"
+]
+},
+"aux": "avoir",
+"pp": "roulé"
+},
+"remarquer": {
+"t": {
+"present": [
+"remarque",
+"remarques",
+"remarque",
+"remarquons",
+"remarquez",
+"remarquent"
+],
+"imparfait": [
+"remarquais",
+"remarquais",
+"remarquait",
+"remarquions",
+"remarquiez",
+"remarquaient"
+],
+"futur": [
+"remarquerai",
+"remarqueras",
+"remarquera",
+"remarquerons",
+"remarquerez",
+"remarqueront"
+],
+"conditionnel": [
+"remarquerais",
+"remarquerais",
+"remarquerait",
+"remarquerions",
+"remarqueriez",
+"remarqueraient"
+],
+"subjonctif": [
+"remarque",
+"remarques",
+"remarque",
+"remarquions",
+"remarquiez",
+"remarquent"
+]
+},
+"aux": "avoir",
+"pp": "remarqué"
+},
+"couvrir": {
+"t": {
+"present": [
+"couvre",
+"couvres",
+"couvre",
+"couvrons",
+"couvrez",
+"couvrent"
+],
+"imparfait": [
+"couvrais",
+"couvrais",
+"couvrait",
+"couvrions",
+"couvriez",
+"couvraient"
+],
+"futur": [
+"couvrirai",
+"couvriras",
+"couvrira",
+"couvrirons",
+"couvrirez",
+"couvriront"
+],
+"conditionnel": [
+"couvrirais",
+"couvrirais",
+"couvrirait",
+"couvririons",
+"couvririez",
+"couvriraient"
+],
+"subjonctif": [
+"couvre",
+"couvres",
+"couvre",
+"couvrions",
+"couvriez",
+"couvrent"
+]
+},
+"aux": "avoir",
+"pp": "couvert"
+},
+"maintenir": {
+"t": {
+"present": [
+"maintiens",
+"maintiens",
+"maintient",
+"maintenons",
+"maintenez",
+"maintiennent"
+],
+"imparfait": [
+"maintenais",
+"maintenais",
+"maintenait",
+"maintenions",
+"mainteniez",
+"maintenaient"
+],
+"futur": [
+"maintiendrai",
+"maintiendras",
+"maintiendra",
+"maintiendrons",
+"maintiendrez",
+"maintiendront"
+],
+"conditionnel": [
+"maintiendrais",
+"maintiendrais",
+"maintiendrait",
+"maintiendrions",
+"maintiendriez",
+"maintiendraient"
+],
+"subjonctif": [
+"maintienne",
+"maintiennes",
+"maintienne",
+"maintenions",
+"mainteniez",
+"maintiennent"
+]
+},
+"aux": "avoir",
+"pp": "maintenu"
+},
+"retenir": {
+"t": {
+"present": [
+"retiens",
+"retiens",
+"retient",
+"retenons",
+"retenez",
+"retiennent"
+],
+"imparfait": [
+"retenais",
+"retenais",
+"retenait",
+"retenions",
+"reteniez",
+"retenaient"
+],
+"futur": [
+"retiendrai",
+"retiendras",
+"retiendra",
+"retiendrons",
+"retiendrez",
+"retiendront"
+],
+"conditionnel": [
+"retiendrais",
+"retiendrais",
+"retiendrait",
+"retiendrions",
+"retiendriez",
+"retiendraient"
+],
+"subjonctif": [
+"retienne",
+"retiennes",
+"retienne",
+"retenions",
+"reteniez",
+"retiennent"
+]
+},
+"aux": "avoir",
+"pp": "retenu"
+},
+"charger": {
+"t": {
+"present": [
+"charge",
+"charges",
+"charge",
+"chargeons",
+"chargez",
+"chargent"
+],
+"imparfait": [
+"chargeais",
+"chargeais",
+"chargeait",
+"chargions",
+"chargiez",
+"chargeaient"
+],
+"futur": [
+"chargerai",
+"chargeras",
+"chargera",
+"chargerons",
+"chargerez",
+"chargeront"
+],
+"conditionnel": [
+"chargerais",
+"chargerais",
+"chargerait",
+"chargerions",
+"chargeriez",
+"chargeraient"
+],
+"subjonctif": [
+"charge",
+"charges",
+"charge",
+"chargions",
+"chargiez",
+"chargent"
+]
+},
+"aux": "avoir",
+"pp": "chargé"
+},
+"accompagner": {
+"t": {
+"present": [
+"accompagne",
+"accompagnes",
+"accompagne",
+"accompagnons",
+"accompagnez",
+"accompagnent"
+],
+"imparfait": [
+"accompagnais",
+"accompagnais",
+"accompagnait",
+"accompagnions",
+"accompagniez",
+"accompagnaient"
+],
+"futur": [
+"accompagnerai",
+"accompagneras",
+"accompagnera",
+"accompagnerons",
+"accompagnerez",
+"accompagneront"
+],
+"conditionnel": [
+"accompagnerais",
+"accompagnerais",
+"accompagnerait",
+"accompagnerions",
+"accompagneriez",
+"accompagneraient"
+],
+"subjonctif": [
+"accompagne",
+"accompagnes",
+"accompagne",
+"accompagnions",
+"accompagniez",
+"accompagnent"
+]
+},
+"aux": "avoir",
+"pp": "accompagné"
+},
+"brûler": {
+"t": {
+"present": [
+"brûle",
+"brûles",
+"brûle",
+"brûlons",
+"brûlez",
+"brûlent"
+],
+"imparfait": [
+"brûlais",
+"brûlais",
+"brûlait",
+"brûlions",
+"brûliez",
+"brûlaient"
+],
+"futur": [
+"brûlerai",
+"brûleras",
+"brûlera",
+"brûlerons",
+"brûlerez",
+"brûleront"
+],
+"conditionnel": [
+"brûlerais",
+"brûlerais",
+"brûlerait",
+"brûlerions",
+"brûleriez",
+"brûleraient"
+],
+"subjonctif": [
+"brûle",
+"brûles",
+"brûle",
+"brûlions",
+"brûliez",
+"brûlent"
+]
+},
+"aux": "avoir",
+"pp": "brûlé"
+},
+"calmer": {
+"t": {
+"present": [
+"calme",
+"calmes",
+"calme",
+"calmons",
+"calmez",
+"calment"
+],
+"imparfait": [
+"calmais",
+"calmais",
+"calmait",
+"calmions",
+"calmiez",
+"calmaient"
+],
+"futur": [
+"calmerai",
+"calmeras",
+"calmera",
+"calmerons",
+"calmerez",
+"calmeront"
+],
+"conditionnel": [
+"calmerais",
+"calmerais",
+"calmerait",
+"calmerions",
+"calmeriez",
+"calmeraient"
+],
+"subjonctif": [
+"calme",
+"calmes",
+"calme",
+"calmions",
+"calmiez",
+"calment"
+]
+},
+"aux": "avoir",
+"pp": "calmé"
+},
+"tenter": {
+"t": {
+"present": [
+"tente",
+"tentes",
+"tente",
+"tentons",
+"tentez",
+"tentent"
+],
+"imparfait": [
+"tentais",
+"tentais",
+"tentait",
+"tentions",
+"tentiez",
+"tentaient"
+],
+"futur": [
+"tenterai",
+"tenteras",
+"tentera",
+"tenterons",
+"tenterez",
+"tenteront"
+],
+"conditionnel": [
+"tenterais",
+"tenterais",
+"tenterait",
+"tenterions",
+"tenteriez",
+"tenteraient"
+],
+"subjonctif": [
+"tente",
+"tentes",
+"tente",
+"tentions",
+"tentiez",
+"tentent"
+]
+},
+"aux": "avoir",
+"pp": "tenté"
+},
+"réfléchir": {
+"t": {
+"present": [
+"réfléchis",
+"réfléchis",
+"réfléchit",
+"réfléchissons",
+"réfléchissez",
+"réfléchissent"
+],
+"imparfait": [
+"réfléchissais",
+"réfléchissais",
+"réfléchissait",
+"réfléchissions",
+"réfléchissiez",
+"réfléchissaient"
+],
+"futur": [
+"réfléchirai",
+"réfléchiras",
+"réfléchira",
+"réfléchirons",
+"réfléchirez",
+"réfléchiront"
+],
+"conditionnel": [
+"réfléchirais",
+"réfléchirais",
+"réfléchirait",
+"réfléchirions",
+"réfléchiriez",
+"réfléchiraient"
+],
+"subjonctif": [
+"réfléchisse",
+"réfléchisses",
+"réfléchisse",
+"réfléchissions",
+"réfléchissiez",
+"réfléchissent"
+]
+},
+"aux": "avoir",
+"pp": "réfléchi"
+},
+"apparaître": {
+"t": {
+"present": [
+"apparais",
+"apparais",
+"apparaît",
+"apparaissons",
+"apparaissez",
+"apparaissent"
+],
+"imparfait": [
+"apparaissais",
+"apparaissais",
+"apparaissait",
+"apparaissions",
+"apparaissiez",
+"apparaissaient"
+],
+"futur": [
+"apparaîtrai",
+"apparaîtras",
+"apparaîtra",
+"apparaîtrons",
+"apparaîtrez",
+"apparaîtront"
+],
+"conditionnel": [
+"apparaîtrais",
+"apparaîtrais",
+"apparaîtrait",
+"apparaîtrions",
+"apparaîtriez",
+"apparaîtraient"
+],
+"subjonctif": [
+"apparaisse",
+"apparaisses",
+"apparaisse",
+"apparaissions",
+"apparaissiez",
+"apparaissent"
+]
+},
+"aux": "avoir",
+"pp": "apparu"
+},
+"prévenir": {
+"t": {
+"present": [
+"préviens",
+"préviens",
+"prévient",
+"prévenons",
+"prévenez",
+"préviennent"
+],
+"imparfait": [
+"prévenais",
+"prévenais",
+"prévenait",
+"prévenions",
+"préveniez",
+"prévenaient"
+],
+"futur": [
+"préviendrai",
+"préviendras",
+"préviendra",
+"préviendrons",
+"préviendrez",
+"préviendront"
+],
+"conditionnel": [
+"préviendrais",
+"préviendrais",
+"préviendrait",
+"préviendrions",
+"préviendriez",
+"préviendraient"
+],
+"subjonctif": [
+"prévienne",
+"préviennes",
+"prévienne",
+"prévenions",
+"préveniez",
+"préviennent"
+]
+},
+"aux": "avoir",
+"pp": "prévenu"
+},
+"protéger": {
+"t": {
+"present": [
+"protège",
+"protèges",
+"protège",
+"protégeons",
+"protégez",
+"protègent"
+],
+"imparfait": [
+"protégeais",
+"protégeais",
+"protégeait",
+"protégions",
+"protégiez",
+"protégeaient"
+],
+"futur": [
+"protègerai",
+"protègeras",
+"protègera",
+"protègerons",
+"protègerez",
+"protègeront"
+],
+"conditionnel": [
+"protègerais",
+"protègerais",
+"protègerait",
+"protègerions",
+"protègeriez",
+"protègeraient"
+],
+"subjonctif": [
+"protège",
+"protèges",
+"protège",
+"protégions",
+"protégiez",
+"protègent"
+]
+},
+"aux": "avoir",
+"pp": "protégé"
+},
+"risquer": {
+"t": {
+"present": [
+"risque",
+"risques",
+"risque",
+"risquons",
+"risquez",
+"risquent"
+],
+"imparfait": [
+"risquais",
+"risquais",
+"risquait",
+"risquions",
+"risquiez",
+"risquaient"
+],
+"futur": [
+"risquerai",
+"risqueras",
+"risquera",
+"risquerons",
+"risquerez",
+"risqueront"
+],
+"conditionnel": [
+"risquerais",
+"risquerais",
+"risquerait",
+"risquerions",
+"risqueriez",
+"risqueraient"
+],
+"subjonctif": [
+"risque",
+"risques",
+"risque",
+"risquions",
+"risquiez",
+"risquent"
+]
+},
+"aux": "avoir",
+"pp": "risqué"
+},
+"obliger": {
+"t": {
+"present": [
+"oblige",
+"obliges",
+"oblige",
+"obligeons",
+"obligez",
+"obligent"
+],
+"imparfait": [
+"obligeais",
+"obligeais",
+"obligeait",
+"obligions",
+"obligiez",
+"obligeaient"
+],
+"futur": [
+"obligerai",
+"obligeras",
+"obligera",
+"obligerons",
+"obligerez",
+"obligeront"
+],
+"conditionnel": [
+"obligerais",
+"obligerais",
+"obligerait",
+"obligerions",
+"obligeriez",
+"obligeraient"
+],
+"subjonctif": [
+"oblige",
+"obliges",
+"oblige",
+"obligions",
+"obligiez",
+"obligent"
+]
+},
+"aux": "avoir",
+"pp": "obligé"
+},
+"inviter": {
+"t": {
+"present": [
+"invite",
+"invites",
+"invite",
+"invitons",
+"invitez",
+"invitent"
+],
+"imparfait": [
+"invitais",
+"invitais",
+"invitait",
+"invitions",
+"invitiez",
+"invitaient"
+],
+"futur": [
+"inviterai",
+"inviteras",
+"invitera",
+"inviterons",
+"inviterez",
+"inviteront"
+],
+"conditionnel": [
+"inviterais",
+"inviterais",
+"inviterait",
+"inviterions",
+"inviteriez",
+"inviteraient"
+],
+"subjonctif": [
+"invite",
+"invites",
+"invite",
+"invitions",
+"invitiez",
+"invitent"
+]
+},
+"aux": "avoir",
+"pp": "invité"
+},
+"éviter": {
+"t": {
+"present": [
+"évite",
+"évites",
+"évite",
+"évitons",
+"évitez",
+"évitent"
+],
+"imparfait": [
+"évitais",
+"évitais",
+"évitait",
+"évitions",
+"évitiez",
+"évitaient"
+],
+"futur": [
+"éviterai",
+"éviteras",
+"évitera",
+"éviterons",
+"éviterez",
+"éviteront"
+],
+"conditionnel": [
+"éviterais",
+"éviterais",
+"éviterait",
+"éviterions",
+"éviteriez",
+"éviteraient"
+],
+"subjonctif": [
+"évite",
+"évites",
+"évite",
+"évitions",
+"évitiez",
+"évitent"
+]
+},
+"aux": "avoir",
+"pp": "évité"
+},
+"arranger": {
+"t": {
+"present": [
+"arrange",
+"arranges",
+"arrange",
+"arrangeons",
+"arrangez",
+"arrangent"
+],
+"imparfait": [
+"arrangeais",
+"arrangeais",
+"arrangeait",
+"arrangions",
+"arrangiez",
+"arrangeaient"
+],
+"futur": [
+"arrangerai",
+"arrangeras",
+"arrangera",
+"arrangerons",
+"arrangerez",
+"arrangeront"
+],
+"conditionnel": [
+"arrangerais",
+"arrangerais",
+"arrangerait",
+"arrangerions",
+"arrangeriez",
+"arrangeraient"
+],
+"subjonctif": [
+"arrange",
+"arranges",
+"arrange",
+"arrangions",
+"arrangiez",
+"arrangent"
+]
+},
+"aux": "avoir",
+"pp": "arrangé"
+},
+"emporter": {
+"t": {
+"present": [
+"emporte",
+"emportes",
+"emporte",
+"emportons",
+"emportez",
+"emportent"
+],
+"imparfait": [
+"emportais",
+"emportais",
+"emportait",
+"emportions",
+"emportiez",
+"emportaient"
+],
+"futur": [
+"emporterai",
+"emporteras",
+"emportera",
+"emporterons",
+"emporterez",
+"emporteront"
+],
+"conditionnel": [
+"emporterais",
+"emporterais",
+"emporterait",
+"emporterions",
+"emporteriez",
+"emporteraient"
+],
+"subjonctif": [
+"emporte",
+"emportes",
+"emporte",
+"emportions",
+"emportiez",
+"emportent"
+]
+},
+"aux": "avoir",
+"pp": "emporté"
+},
+"proposer": {
+"t": {
+"present": [
+"propose",
+"proposes",
+"propose",
+"proposons",
+"proposez",
+"proposent"
+],
+"imparfait": [
+"proposais",
+"proposais",
+"proposait",
+"proposions",
+"proposiez",
+"proposaient"
+],
+"futur": [
+"proposerai",
+"proposeras",
+"proposera",
+"proposerons",
+"proposerez",
+"proposeront"
+],
+"conditionnel": [
+"proposerais",
+"proposerais",
+"proposerait",
+"proposerions",
+"proposeriez",
+"proposeraient"
+],
+"subjonctif": [
+"propose",
+"proposes",
+"propose",
+"proposions",
+"proposiez",
+"proposent"
+]
+},
+"aux": "avoir",
+"pp": "proposé"
+},
+"annoncer": {
+"t": {
+"present": [
+"annonce",
+"annonces",
+"annonce",
+"annonçons",
+"annoncez",
+"annoncent"
+],
+"imparfait": [
+"annonçais",
+"annonçais",
+"annonçait",
+"annoncions",
+"annonciez",
+"annonçaient"
+],
+"futur": [
+"annoncerai",
+"annonceras",
+"annoncera",
+"annoncerons",
+"annoncerez",
+"annonceront"
+],
+"conditionnel": [
+"annoncerais",
+"annoncerais",
+"annoncerait",
+"annoncerions",
+"annonceriez",
+"annonceraient"
+],
+"subjonctif": [
+"annonce",
+"annonces",
+"annonce",
+"annoncions",
+"annonciez",
+"annoncent"
+]
+},
+"aux": "avoir",
+"pp": "annoncé"
+},
+"filer": {
+"t": {
+"present": [
+"file",
+"files",
+"file",
+"filons",
+"filez",
+"filent"
+],
+"imparfait": [
+"filais",
+"filais",
+"filait",
+"filions",
+"filiez",
+"filaient"
+],
+"futur": [
+"filerai",
+"fileras",
+"filera",
+"filerons",
+"filerez",
+"fileront"
+],
+"conditionnel": [
+"filerais",
+"filerais",
+"filerait",
+"filerions",
+"fileriez",
+"fileraient"
+],
+"subjonctif": [
+"file",
+"files",
+"file",
+"filions",
+"filiez",
+"filent"
+]
+},
+"aux": "avoir",
+"pp": "filé"
+},
+"atteindre": {
+"t": {
+"present": [
+"atteins",
+"atteins",
+"atteint",
+"atteignons",
+"atteignez",
+"atteignent"
+],
+"imparfait": [
+"atteignais",
+"atteignais",
+"atteignait",
+"atteignions",
+"atteigniez",
+"atteignaient"
+],
+"futur": [
+"atteindrai",
+"atteindras",
+"atteindra",
+"atteindrons",
+"atteindrez",
+"atteindront"
+],
+"conditionnel": [
+"atteindrais",
+"atteindrais",
+"atteindrait",
+"atteindrions",
+"atteindriez",
+"atteindraient"
+],
+"subjonctif": [
+"atteigne",
+"atteignes",
+"atteigne",
+"atteignions",
+"atteigniez",
+"atteignent"
+]
+},
+"aux": "avoir",
+"pp": "atteint"
+},
+"traîner": {
+"t": {
+"present": [
+"traîne",
+"traînes",
+"traîne",
+"traînons",
+"traînez",
+"traînent"
+],
+"imparfait": [
+"traînais",
+"traînais",
+"traînait",
+"traînions",
+"traîniez",
+"traînaient"
+],
+"futur": [
+"traînerai",
+"traîneras",
+"traînera",
+"traînerons",
+"traînerez",
+"traîneront"
+],
+"conditionnel": [
+"traînerais",
+"traînerais",
+"traînerait",
+"traînerions",
+"traîneriez",
+"traîneraient"
+],
+"subjonctif": [
+"traîne",
+"traînes",
+"traîne",
+"traînions",
+"traîniez",
+"traînent"
+]
+},
+"aux": "avoir",
+"pp": "traîné"
+},
+"détester": {
+"t": {
+"present": [
+"déteste",
+"détestes",
+"déteste",
+"détestons",
+"détestez",
+"détestent"
+],
+"imparfait": [
+"détestais",
+"détestais",
+"détestait",
+"détestions",
+"détestiez",
+"détestaient"
+],
+"futur": [
+"détesterai",
+"détesteras",
+"détestera",
+"détesterons",
+"détesterez",
+"détesteront"
+],
+"conditionnel": [
+"détesterais",
+"détesterais",
+"détesterait",
+"détesterions",
+"détesteriez",
+"détesteraient"
+],
+"subjonctif": [
+"déteste",
+"détestes",
+"déteste",
+"détestions",
+"détestiez",
+"détestent"
+]
+},
+"aux": "avoir",
+"pp": "détesté"
+},
+"deviner": {
+"t": {
+"present": [
+"devine",
+"devines",
+"devine",
+"devinons",
+"devinez",
+"devinent"
+],
+"imparfait": [
+"devinais",
+"devinais",
+"devinait",
+"devinions",
+"deviniez",
+"devinaient"
+],
+"futur": [
+"devinerai",
+"devineras",
+"devinera",
+"devinerons",
+"devinerez",
+"devineront"
+],
+"conditionnel": [
+"devinerais",
+"devinerais",
+"devinerait",
+"devinerions",
+"devineriez",
+"devineraient"
+],
+"subjonctif": [
+"devine",
+"devines",
+"devine",
+"devinions",
+"deviniez",
+"devinent"
+]
+},
+"aux": "avoir",
+"pp": "deviné"
+},
+"pardonner": {
+"t": {
+"present": [
+"pardonne",
+"pardonnes",
+"pardonne",
+"pardonnons",
+"pardonnez",
+"pardonnent"
+],
+"imparfait": [
+"pardonnais",
+"pardonnais",
+"pardonnait",
+"pardonnions",
+"pardonniez",
+"pardonnaient"
+],
+"futur": [
+"pardonnerai",
+"pardonneras",
+"pardonnera",
+"pardonnerons",
+"pardonnerez",
+"pardonneront"
+],
+"conditionnel": [
+"pardonnerais",
+"pardonnerais",
+"pardonnerait",
+"pardonnerions",
+"pardonneriez",
+"pardonneraient"
+],
+"subjonctif": [
+"pardonne",
+"pardonnes",
+"pardonne",
+"pardonnions",
+"pardonniez",
+"pardonnent"
+]
+},
+"aux": "avoir",
+"pp": "pardonné"
+},
+"fumer": {
+"t": {
+"present": [
+"fume",
+"fumes",
+"fume",
+"fumons",
+"fumez",
+"fument"
+],
+"imparfait": [
+"fumais",
+"fumais",
+"fumait",
+"fumions",
+"fumiez",
+"fumaient"
+],
+"futur": [
+"fumerai",
+"fumeras",
+"fumera",
+"fumerons",
+"fumerez",
+"fumeront"
+],
+"conditionnel": [
+"fumerais",
+"fumerais",
+"fumerait",
+"fumerions",
+"fumeriez",
+"fumeraient"
+],
+"subjonctif": [
+"fume",
+"fumes",
+"fume",
+"fumions",
+"fumiez",
+"fument"
+]
+},
+"aux": "avoir",
+"pp": "fumé"
+},
+"supposer": {
+"t": {
+"present": [
+"suppose",
+"supposes",
+"suppose",
+"supposons",
+"supposez",
+"supposent"
+],
+"imparfait": [
+"supposais",
+"supposais",
+"supposait",
+"supposions",
+"supposiez",
+"supposaient"
+],
+"futur": [
+"supposerai",
+"supposeras",
+"supposera",
+"supposerons",
+"supposerez",
+"supposeront"
+],
+"conditionnel": [
+"supposerais",
+"supposerais",
+"supposerait",
+"supposerions",
+"supposeriez",
+"supposeraient"
+],
+"subjonctif": [
+"suppose",
+"supposes",
+"suppose",
+"supposions",
+"supposiez",
+"supposent"
+]
+},
+"aux": "avoir",
+"pp": "supposé"
+},
+"parvenir": {
+"t": {
+"present": [
+"parviens",
+"parviens",
+"parvient",
+"parvenons",
+"parvenez",
+"parviennent"
+],
+"imparfait": [
+"parvenais",
+"parvenais",
+"parvenait",
+"parvenions",
+"parveniez",
+"parvenaient"
+],
+"futur": [
+"parviendrai",
+"parviendras",
+"parviendra",
+"parviendrons",
+"parviendrez",
+"parviendront"
+],
+"conditionnel": [
+"parviendrais",
+"parviendrais",
+"parviendrait",
+"parviendrions",
+"parviendriez",
+"parviendraient"
+],
+"subjonctif": [
+"parvienne",
+"parviennes",
+"parvienne",
+"parvenions",
+"parveniez",
+"parviennent"
+]
+},
+"aux": "être",
+"pp": "parvenu"
+},
+"reposer": {
+"t": {
+"present": [
+"repose",
+"reposes",
+"repose",
+"reposons",
+"reposez",
+"reposent"
+],
+"imparfait": [
+"reposais",
+"reposais",
+"reposait",
+"reposions",
+"reposiez",
+"reposaient"
+],
+"futur": [
+"reposerai",
+"reposeras",
+"reposera",
+"reposerons",
+"reposerez",
+"reposeront"
+],
+"conditionnel": [
+"reposerais",
+"reposerais",
+"reposerait",
+"reposerions",
+"reposeriez",
+"reposeraient"
+],
+"subjonctif": [
+"repose",
+"reposes",
+"repose",
+"reposions",
+"reposiez",
+"reposent"
+]
+},
+"aux": "avoir",
+"pp": "reposé"
+},
+"baisser": {
+"t": {
+"present": [
+"baisse",
+"baisses",
+"baisse",
+"baissons",
+"baissez",
+"baissent"
+],
+"imparfait": [
+"baissais",
+"baissais",
+"baissait",
+"baissions",
+"baissiez",
+"baissaient"
+],
+"futur": [
+"baisserai",
+"baisseras",
+"baissera",
+"baisserons",
+"baisserez",
+"baisseront"
+],
+"conditionnel": [
+"baisserais",
+"baisserais",
+"baisserait",
+"baisserions",
+"baisseriez",
+"baisseraient"
+],
+"subjonctif": [
+"baisse",
+"baisses",
+"baisse",
+"baissions",
+"baissiez",
+"baissent"
+]
+},
+"aux": "avoir",
+"pp": "baissé"
+},
+"retirer": {
+"t": {
+"present": [
+"retire",
+"retires",
+"retire",
+"retirons",
+"retirez",
+"retirent"
+],
+"imparfait": [
+"retirais",
+"retirais",
+"retirait",
+"retirions",
+"retiriez",
+"retiraient"
+],
+"futur": [
+"retirerai",
+"retireras",
+"retirera",
+"retirerons",
+"retirerez",
+"retireront"
+],
+"conditionnel": [
+"retirerais",
+"retirerais",
+"retirerait",
+"retirerions",
+"retireriez",
+"retireraient"
+],
+"subjonctif": [
+"retire",
+"retires",
+"retire",
+"retirions",
+"retiriez",
+"retirent"
+]
+},
+"aux": "avoir",
+"pp": "retiré"
+},
+"respirer": {
+"t": {
+"present": [
+"respire",
+"respires",
+"respire",
+"respirons",
+"respirez",
+"respirent"
+],
+"imparfait": [
+"respirais",
+"respirais",
+"respirait",
+"respirions",
+"respiriez",
+"respiraient"
+],
+"futur": [
+"respirerai",
+"respireras",
+"respirera",
+"respirerons",
+"respirerez",
+"respireront"
+],
+"conditionnel": [
+"respirerais",
+"respirerais",
+"respirerait",
+"respirerions",
+"respireriez",
+"respireraient"
+],
+"subjonctif": [
+"respire",
+"respires",
+"respire",
+"respirions",
+"respiriez",
+"respirent"
+]
+},
+"aux": "avoir",
+"pp": "respiré"
+},
+"détruire": {
+"t": {
+"present": [
+"détruis",
+"détruis",
+"détruit",
+"détruisons",
+"détruisez",
+"détruisent"
+],
+"imparfait": [
+"détruisais",
+"détruisais",
+"détruisait",
+"détruisions",
+"détruisiez",
+"détruisaient"
+],
+"futur": [
+"détruirai",
+"détruiras",
+"détruira",
+"détruirons",
+"détruirez",
+"détruiront"
+],
+"conditionnel": [
+"détruirais",
+"détruirais",
+"détruirait",
+"détruirions",
+"détruiriez",
+"détruiraient"
+],
+"subjonctif": [
+"détruise",
+"détruises",
+"détruise",
+"détruisions",
+"détruisiez",
+"détruisent"
+]
+},
+"aux": "avoir",
+"pp": "détruit"
+},
+"épouser": {
+"t": {
+"present": [
+"épouse",
+"épouses",
+"épouse",
+"épousons",
+"épousez",
+"épousent"
+],
+"imparfait": [
+"épousais",
+"épousais",
+"épousait",
+"épousions",
+"épousiez",
+"épousaient"
+],
+"futur": [
+"épouserai",
+"épouseras",
+"épousera",
+"épouserons",
+"épouserez",
+"épouseront"
+],
+"conditionnel": [
+"épouserais",
+"épouserais",
+"épouserait",
+"épouserions",
+"épouseriez",
+"épouseraient"
+],
+"subjonctif": [
+"épouse",
+"épouses",
+"épouse",
+"épousions",
+"épousiez",
+"épousent"
+]
+},
+"aux": "avoir",
+"pp": "épousé"
+},
+"séparer": {
+"t": {
+"present": [
+"sépare",
+"sépares",
+"sépare",
+"séparons",
+"séparez",
+"séparent"
+],
+"imparfait": [
+"séparais",
+"séparais",
+"séparait",
+"séparions",
+"sépariez",
+"séparaient"
+],
+"futur": [
+"séparerai",
+"sépareras",
+"séparera",
+"séparerons",
+"séparerez",
+"sépareront"
+],
+"conditionnel": [
+"séparerais",
+"séparerais",
+"séparerait",
+"séparerions",
+"sépareriez",
+"sépareraient"
+],
+"subjonctif": [
+"sépare",
+"sépares",
+"sépare",
+"séparions",
+"sépariez",
+"séparent"
+]
+},
+"aux": "avoir",
+"pp": "séparé"
+},
+"durer": {
+"t": {
+"present": [
+"dure",
+"dures",
+"dure",
+"durons",
+"durez",
+"durent"
+],
+"imparfait": [
+"durais",
+"durais",
+"durait",
+"durions",
+"duriez",
+"duraient"
+],
+"futur": [
+"durerai",
+"dureras",
+"durera",
+"durerons",
+"durerez",
+"dureront"
+],
+"conditionnel": [
+"durerais",
+"durerais",
+"durerait",
+"durerions",
+"dureriez",
+"dureraient"
+],
+"subjonctif": [
+"dure",
+"dures",
+"dure",
+"durions",
+"duriez",
+"durent"
+]
+},
+"aux": "avoir",
+"pp": "duré"
+},
+"éloigner": {
+"t": {
+"present": [
+"éloigne",
+"éloignes",
+"éloigne",
+"éloignons",
+"éloignez",
+"éloignent"
+],
+"imparfait": [
+"éloignais",
+"éloignais",
+"éloignait",
+"éloignions",
+"éloigniez",
+"éloignaient"
+],
+"futur": [
+"éloignerai",
+"éloigneras",
+"éloignera",
+"éloignerons",
+"éloignerez",
+"éloigneront"
+],
+"conditionnel": [
+"éloignerais",
+"éloignerais",
+"éloignerait",
+"éloignerions",
+"éloigneriez",
+"éloigneraient"
+],
+"subjonctif": [
+"éloigne",
+"éloignes",
+"éloigne",
+"éloignions",
+"éloigniez",
+"éloignent"
+]
+},
+"aux": "avoir",
+"pp": "éloigné"
+},
+"traiter": {
+"t": {
+"present": [
+"traite",
+"traites",
+"traite",
+"traitons",
+"traitez",
+"traitent"
+],
+"imparfait": [
+"traitais",
+"traitais",
+"traitait",
+"traitions",
+"traitiez",
+"traitaient"
+],
+"futur": [
+"traiterai",
+"traiteras",
+"traitera",
+"traiterons",
+"traiterez",
+"traiteront"
+],
+"conditionnel": [
+"traiterais",
+"traiterais",
+"traiterait",
+"traiterions",
+"traiteriez",
+"traiteraient"
+],
+"subjonctif": [
+"traite",
+"traites",
+"traite",
+"traitions",
+"traitiez",
+"traitent"
+]
+},
+"aux": "avoir",
+"pp": "traité"
+},
+"fixer": {
+"t": {
+"present": [
+"fixe",
+"fixes",
+"fixe",
+"fixons",
+"fixez",
+"fixent"
+],
+"imparfait": [
+"fixais",
+"fixais",
+"fixait",
+"fixions",
+"fixiez",
+"fixaient"
+],
+"futur": [
+"fixerai",
+"fixeras",
+"fixera",
+"fixerons",
+"fixerez",
+"fixeront"
+],
+"conditionnel": [
+"fixerais",
+"fixerais",
+"fixerait",
+"fixerions",
+"fixeriez",
+"fixeraient"
+],
+"subjonctif": [
+"fixe",
+"fixes",
+"fixe",
+"fixions",
+"fixiez",
+"fixent"
+]
+},
+"aux": "avoir",
+"pp": "fixé"
+},
+"surprendre": {
+"t": {
+"present": [
+"surprends",
+"surprends",
+"surprend",
+"surprenons",
+"surprenez",
+"surprennent"
+],
+"imparfait": [
+"surprenais",
+"surprenais",
+"surprenait",
+"surprenions",
+"surpreniez",
+"surprenaient"
+],
+"futur": [
+"surprendrai",
+"surprendras",
+"surprendra",
+"surprendrons",
+"surprendrez",
+"surprendront"
+],
+"conditionnel": [
+"surprendrais",
+"surprendrais",
+"surprendrait",
+"surprendrions",
+"surprendriez",
+"surprendraient"
+],
+"subjonctif": [
+"surprenne",
+"surprennes",
+"surprenne",
+"surprenions",
+"surpreniez",
+"surprennent"
+]
+},
+"aux": "avoir",
+"pp": "surpris"
+},
+"appartenir": {
+"t": {
+"present": [
+"appartiens",
+"appartiens",
+"appartient",
+"appartenons",
+"appartenez",
+"appartiennent"
+],
+"imparfait": [
+"appartenais",
+"appartenais",
+"appartenait",
+"appartenions",
+"apparteniez",
+"appartenaient"
+],
+"futur": [
+"appartiendrai",
+"appartiendras",
+"appartiendra",
+"appartiendrons",
+"appartiendrez",
+"appartiendront"
+],
+"conditionnel": [
+"appartiendrais",
+"appartiendrais",
+"appartiendrait",
+"appartiendrions",
+"appartiendriez",
+"appartiendraient"
+],
+"subjonctif": [
+"appartienne",
+"appartiennes",
+"appartienne",
+"appartenions",
+"apparteniez",
+"appartiennent"
+]
+},
+"aux": "avoir",
+"pp": "appartenu"
+},
+"pencher": {
+"t": {
+"present": [
+"penche",
+"penches",
+"penche",
+"penchons",
+"penchez",
+"penchent"
+],
+"imparfait": [
+"penchais",
+"penchais",
+"penchait",
+"penchions",
+"penchiez",
+"penchaient"
+],
+"futur": [
+"pencherai",
+"pencheras",
+"penchera",
+"pencherons",
+"pencherez",
+"pencheront"
+],
+"conditionnel": [
+"pencherais",
+"pencherais",
+"pencherait",
+"pencherions",
+"pencheriez",
+"pencheraient"
+],
+"subjonctif": [
+"penche",
+"penches",
+"penche",
+"penchions",
+"penchiez",
+"penchent"
+]
+},
+"aux": "avoir",
+"pp": "penché"
+},
+"saisir": {
+"t": {
+"present": [
+"saisis",
+"saisis",
+"saisit",
+"saisissons",
+"saisissez",
+"saisissent"
+],
+"imparfait": [
+"saisissais",
+"saisissais",
+"saisissait",
+"saisissions",
+"saisissiez",
+"saisissaient"
+],
+"futur": [
+"saisirai",
+"saisiras",
+"saisira",
+"saisirons",
+"saisirez",
+"saisiront"
+],
+"conditionnel": [
+"saisirais",
+"saisirais",
+"saisirait",
+"saisirions",
+"saisiriez",
+"saisiraient"
+],
+"subjonctif": [
+"saisisse",
+"saisisses",
+"saisisse",
+"saisissions",
+"saisissiez",
+"saisissent"
+]
+},
+"aux": "avoir",
+"pp": "saisi"
+},
+"poursuivre": {
+"t": {
+"present": [
+"poursuis",
+"poursuis",
+"poursuit",
+"poursuivons",
+"poursuivez",
+"poursuivent"
+],
+"imparfait": [
+"poursuivais",
+"poursuivais",
+"poursuivait",
+"poursuivions",
+"poursuiviez",
+"poursuivaient"
+],
+"futur": [
+"poursuivrai",
+"poursuivras",
+"poursuivra",
+"poursuivrons",
+"poursuivrez",
+"poursuivront"
+],
+"conditionnel": [
+"poursuivrais",
+"poursuivrais",
+"poursuivrait",
+"poursuivrions",
+"poursuivriez",
+"poursuivraient"
+],
+"subjonctif": [
+"poursuive",
+"poursuives",
+"poursuive",
+"poursuivions",
+"poursuiviez",
+"poursuivent"
+]
+},
+"aux": "avoir",
+"pp": "poursuivi"
+},
+"allumer": {
+"t": {
+"present": [
+"allume",
+"allumes",
+"allume",
+"allumons",
+"allumez",
+"allument"
+],
+"imparfait": [
+"allumais",
+"allumais",
+"allumait",
+"allumions",
+"allumiez",
+"allumaient"
+],
+"futur": [
+"allumerai",
+"allumeras",
+"allumera",
+"allumerons",
+"allumerez",
+"allumeront"
+],
+"conditionnel": [
+"allumerais",
+"allumerais",
+"allumerait",
+"allumerions",
+"allumeriez",
+"allumeraient"
+],
+"subjonctif": [
+"allume",
+"allumes",
+"allume",
+"allumions",
+"allumiez",
+"allument"
+]
+},
+"aux": "avoir",
+"pp": "allumé"
+},
+"déranger": {
+"t": {
+"present": [
+"dérange",
+"déranges",
+"dérange",
+"dérangeons",
+"dérangez",
+"dérangent"
+],
+"imparfait": [
+"dérangeais",
+"dérangeais",
+"dérangeait",
+"dérangions",
+"dérangiez",
+"dérangeaient"
+],
+"futur": [
+"dérangerai",
+"dérangeras",
+"dérangera",
+"dérangerons",
+"dérangerez",
+"dérangeront"
+],
+"conditionnel": [
+"dérangerais",
+"dérangerais",
+"dérangerait",
+"dérangerions",
+"dérangeriez",
+"dérangeraient"
+],
+"subjonctif": [
+"dérange",
+"déranges",
+"dérange",
+"dérangions",
+"dérangiez",
+"dérangent"
+]
+},
+"aux": "avoir",
+"pp": "dérangé"
+},
+"étonner": {
+"t": {
+"present": [
+"étonne",
+"étonnes",
+"étonne",
+"étonnons",
+"étonnez",
+"étonnent"
+],
+"imparfait": [
+"étonnais",
+"étonnais",
+"étonnait",
+"étonnions",
+"étonniez",
+"étonnaient"
+],
+"futur": [
+"étonnerai",
+"étonneras",
+"étonnera",
+"étonnerons",
+"étonnerez",
+"étonneront"
+],
+"conditionnel": [
+"étonnerais",
+"étonnerais",
+"étonnerait",
+"étonnerions",
+"étonneriez",
+"étonneraient"
+],
+"subjonctif": [
+"étonne",
+"étonnes",
+"étonne",
+"étonnions",
+"étonniez",
+"étonnent"
+]
+},
+"aux": "avoir",
+"pp": "étonné"
+},
+"attaquer": {
+"t": {
+"present": [
+"attaque",
+"attaques",
+"attaque",
+"attaquons",
+"attaquez",
+"attaquent"
+],
+"imparfait": [
+"attaquais",
+"attaquais",
+"attaquait",
+"attaquions",
+"attaquiez",
+"attaquaient"
+],
+"futur": [
+"attaquerai",
+"attaqueras",
+"attaquera",
+"attaquerons",
+"attaquerez",
+"attaqueront"
+],
+"conditionnel": [
+"attaquerais",
+"attaquerais",
+"attaquerait",
+"attaquerions",
+"attaqueriez",
+"attaqueraient"
+],
+"subjonctif": [
+"attaque",
+"attaques",
+"attaque",
+"attaquions",
+"attaquiez",
+"attaquent"
+]
+},
+"aux": "avoir",
+"pp": "attaqué"
+},
+"défendre": {
+"t": {
+"present": [
+"défends",
+"défends",
+"défend",
+"défendons",
+"défendez",
+"défendent"
+],
+"imparfait": [
+"défendais",
+"défendais",
+"défendait",
+"défendions",
+"défendiez",
+"défendaient"
+],
+"futur": [
+"défendrai",
+"défendras",
+"défendra",
+"défendrons",
+"défendrez",
+"défendront"
+],
+"conditionnel": [
+"défendrais",
+"défendrais",
+"défendrait",
+"défendrions",
+"défendriez",
+"défendraient"
+],
+"subjonctif": [
+"défende",
+"défendes",
+"défende",
+"défendions",
+"défendiez",
+"défendent"
+]
+},
+"aux": "avoir",
+"pp": "défendu"
+},
+"obtenir": {
+"t": {
+"present": [
+"obtiens",
+"obtiens",
+"obtient",
+"obtenons",
+"obtenez",
+"obtiennent"
+],
+"imparfait": [
+"obtenais",
+"obtenais",
+"obtenait",
+"obtenions",
+"obteniez",
+"obtenaient"
+],
+"futur": [
+"obtiendrai",
+"obtiendras",
+"obtiendra",
+"obtiendrons",
+"obtiendrez",
+"obtiendront"
+],
+"conditionnel": [
+"obtiendrais",
+"obtiendrais",
+"obtiendrait",
+"obtiendrions",
+"obtiendriez",
+"obtiendraient"
+],
+"subjonctif": [
+"obtienne",
+"obtiennes",
+"obtienne",
+"obtenions",
+"obteniez",
+"obtiennent"
+]
+},
+"aux": "avoir",
+"pp": "obtenu"
+},
+"couler": {
+"t": {
+"present": [
+"coule",
+"coules",
+"coule",
+"coulons",
+"coulez",
+"coulent"
+],
+"imparfait": [
+"coulais",
+"coulais",
+"coulait",
+"coulions",
+"couliez",
+"coulaient"
+],
+"futur": [
+"coulerai",
+"couleras",
+"coulera",
+"coulerons",
+"coulerez",
+"couleront"
+],
+"conditionnel": [
+"coulerais",
+"coulerais",
+"coulerait",
+"coulerions",
+"couleriez",
+"couleraient"
+],
+"subjonctif": [
+"coule",
+"coules",
+"coule",
+"coulions",
+"couliez",
+"coulent"
+]
+},
+"aux": "avoir",
+"pp": "coulé"
+},
+"remercier": {
+"t": {
+"present": [
+"remercie",
+"remercies",
+"remercie",
+"remercions",
+"remerciez",
+"remercient"
+],
+"imparfait": [
+"remerciais",
+"remerciais",
+"remerciait",
+"remerciions",
+"remerciiez",
+"remerciaient"
+],
+"futur": [
+"remercierai",
+"remercieras",
+"remerciera",
+"remercierons",
+"remercierez",
+"remercieront"
+],
+"conditionnel": [
+"remercierais",
+"remercierais",
+"remercierait",
+"remercierions",
+"remercieriez",
+"remercieraient"
+],
+"subjonctif": [
+"remercie",
+"remercies",
+"remercie",
+"remerciions",
+"remerciiez",
+"remercient"
+]
+},
+"aux": "avoir",
+"pp": "remercié"
+},
+"recommencer": {
+"t": {
+"present": [
+"recommence",
+"recommences",
+"recommence",
+"recommençons",
+"recommencez",
+"recommencent"
+],
+"imparfait": [
+"recommençais",
+"recommençais",
+"recommençait",
+"recommencions",
+"recommenciez",
+"recommençaient"
+],
+"futur": [
+"recommencerai",
+"recommenceras",
+"recommencera",
+"recommencerons",
+"recommencerez",
+"recommenceront"
+],
+"conditionnel": [
+"recommencerais",
+"recommencerais",
+"recommencerait",
+"recommencerions",
+"recommenceriez",
+"recommenceraient"
+],
+"subjonctif": [
+"recommence",
+"recommences",
+"recommence",
+"recommencions",
+"recommenciez",
+"recommencent"
+]
+},
+"aux": "avoir",
+"pp": "recommencé"
+},
+"attraper": {
+"t": {
+"present": [
+"attrape",
+"attrapes",
+"attrape",
+"attrapons",
+"attrapez",
+"attrapent"
+],
+"imparfait": [
+"attrapais",
+"attrapais",
+"attrapait",
+"attrapions",
+"attrapiez",
+"attrapaient"
+],
+"futur": [
+"attraperai",
+"attraperas",
+"attrapera",
+"attraperons",
+"attraperez",
+"attraperont"
+],
+"conditionnel": [
+"attraperais",
+"attraperais",
+"attraperait",
+"attraperions",
+"attraperiez",
+"attraperaient"
+],
+"subjonctif": [
+"attrape",
+"attrapes",
+"attrape",
+"attrapions",
+"attrapiez",
+"attrapent"
+]
+},
+"aux": "avoir",
+"pp": "attrapé"
+},
+"souhaiter": {
+"t": {
+"present": [
+"souhaite",
+"souhaites",
+"souhaite",
+"souhaitons",
+"souhaitez",
+"souhaitent"
+],
+"imparfait": [
+"souhaitais",
+"souhaitais",
+"souhaitait",
+"souhaitions",
+"souhaitiez",
+"souhaitaient"
+],
+"futur": [
+"souhaiterai",
+"souhaiteras",
+"souhaitera",
+"souhaiterons",
+"souhaiterez",
+"souhaiteront"
+],
+"conditionnel": [
+"souhaiterais",
+"souhaiterais",
+"souhaiterait",
+"souhaiterions",
+"souhaiteriez",
+"souhaiteraient"
+],
+"subjonctif": [
+"souhaite",
+"souhaites",
+"souhaite",
+"souhaitions",
+"souhaitiez",
+"souhaitent"
+]
+},
+"aux": "avoir",
+"pp": "souhaité"
+},
+"arracher": {
+"t": {
+"present": [
+"arrache",
+"arraches",
+"arrache",
+"arrachons",
+"arrachez",
+"arrachent"
+],
+"imparfait": [
+"arrachais",
+"arrachais",
+"arrachait",
+"arrachions",
+"arrachiez",
+"arrachaient"
+],
+"futur": [
+"arracherai",
+"arracheras",
+"arrachera",
+"arracherons",
+"arracherez",
+"arracheront"
+],
+"conditionnel": [
+"arracherais",
+"arracherais",
+"arracherait",
+"arracherions",
+"arracheriez",
+"arracheraient"
+],
+"subjonctif": [
+"arrache",
+"arraches",
+"arrache",
+"arrachions",
+"arrachiez",
+"arrachent"
+]
+},
+"aux": "avoir",
+"pp": "arraché"
+},
+"supporter": {
+"t": {
+"present": [
+"supporte",
+"supportes",
+"supporte",
+"supportons",
+"supportez",
+"supportent"
+],
+"imparfait": [
+"supportais",
+"supportais",
+"supportait",
+"supportions",
+"supportiez",
+"supportaient"
+],
+"futur": [
+"supporterai",
+"supporteras",
+"supportera",
+"supporterons",
+"supporterez",
+"supporteront"
+],
+"conditionnel": [
+"supporterais",
+"supporterais",
+"supporterait",
+"supporterions",
+"supporteriez",
+"supporteraient"
+],
+"subjonctif": [
+"supporte",
+"supportes",
+"supporte",
+"supportions",
+"supportiez",
+"supportent"
+]
+},
+"aux": "avoir",
+"pp": "supporté"
+},
+"appuyer": {
+"t": {
+"present": [
+"appuie",
+"appuies",
+"appuie",
+"appuyons",
+"appuyez",
+"appuient"
+],
+"imparfait": [
+"appuyais",
+"appuyais",
+"appuyait",
+"appuyions",
+"appuyiez",
+"appuyaient"
+],
+"futur": [
+"appuierai",
+"appuieras",
+"appuiera",
+"appuierons",
+"appuierez",
+"appuieront"
+],
+"conditionnel": [
+"appuierais",
+"appuierais",
+"appuierait",
+"appuierions",
+"appuieriez",
+"appuieraient"
+],
+"subjonctif": [
+"appuie",
+"appuies",
+"appuie",
+"appuyions",
+"appuyiez",
+"appuient"
+]
+},
+"aux": "avoir",
+"pp": "appuyé"
+},
+"mêler": {
+"t": {
+"present": [
+"mêle",
+"mêles",
+"mêle",
+"mêlons",
+"mêlez",
+"mêlent"
+],
+"imparfait": [
+"mêlais",
+"mêlais",
+"mêlait",
+"mêlions",
+"mêliez",
+"mêlaient"
+],
+"futur": [
+"mêlerai",
+"mêleras",
+"mêlera",
+"mêlerons",
+"mêlerez",
+"mêleront"
+],
+"conditionnel": [
+"mêlerais",
+"mêlerais",
+"mêlerait",
+"mêlerions",
+"mêleriez",
+"mêleraient"
+],
+"subjonctif": [
+"mêle",
+"mêles",
+"mêle",
+"mêlions",
+"mêliez",
+"mêlent"
+]
+},
+"aux": "avoir",
+"pp": "mêlé"
+},
+"sonner": {
+"t": {
+"present": [
+"sonne",
+"sonnes",
+"sonne",
+"sonnons",
+"sonnez",
+"sonnent"
+],
+"imparfait": [
+"sonnais",
+"sonnais",
+"sonnait",
+"sonnions",
+"sonniez",
+"sonnaient"
+],
+"futur": [
+"sonnerai",
+"sonneras",
+"sonnera",
+"sonnerons",
+"sonnerez",
+"sonneront"
+],
+"conditionnel": [
+"sonnerais",
+"sonnerais",
+"sonnerait",
+"sonnerions",
+"sonneriez",
+"sonneraient"
+],
+"subjonctif": [
+"sonne",
+"sonnes",
+"sonne",
+"sonnions",
+"sonniez",
+"sonnent"
+]
+},
+"aux": "avoir",
+"pp": "sonné"
+},
+"douter": {
+"t": {
+"present": [
+"doute",
+"doutes",
+"doute",
+"doutons",
+"doutez",
+"doutent"
+],
+"imparfait": [
+"doutais",
+"doutais",
+"doutait",
+"doutions",
+"doutiez",
+"doutaient"
+],
+"futur": [
+"douterai",
+"douteras",
+"doutera",
+"douterons",
+"douterez",
+"douteront"
+],
+"conditionnel": [
+"douterais",
+"douterais",
+"douterait",
+"douterions",
+"douteriez",
+"douteraient"
+],
+"subjonctif": [
+"doute",
+"doutes",
+"doute",
+"doutions",
+"doutiez",
+"doutent"
+]
+},
+"aux": "avoir",
+"pp": "douté"
+},
+"regretter": {
+"t": {
+"present": [
+"regrette",
+"regrettes",
+"regrette",
+"regrettons",
+"regrettez",
+"regrettent"
+],
+"imparfait": [
+"regrettais",
+"regrettais",
+"regrettait",
+"regrettions",
+"regrettiez",
+"regrettaient"
+],
+"futur": [
+"regretterai",
+"regretteras",
+"regrettera",
+"regretterons",
+"regretterez",
+"regretteront"
+],
+"conditionnel": [
+"regretterais",
+"regretterais",
+"regretterait",
+"regretterions",
+"regretteriez",
+"regretteraient"
+],
+"subjonctif": [
+"regrette",
+"regrettes",
+"regrette",
+"regrettions",
+"regrettiez",
+"regrettent"
+]
+},
+"aux": "avoir",
+"pp": "regretté"
+},
+"relever": {
+"t": {
+"present": [
+"relève",
+"relèves",
+"relève",
+"relevons",
+"relevez",
+"relèvent"
+],
+"imparfait": [
+"relevais",
+"relevais",
+"relevait",
+"relevions",
+"releviez",
+"relevaient"
+],
+"futur": [
+"relèverai",
+"relèveras",
+"relèvera",
+"relèverons",
+"relèverez",
+"relèveront"
+],
+"conditionnel": [
+"relèverais",
+"relèverais",
+"relèverait",
+"relèverions",
+"relèveriez",
+"relèveraient"
+],
+"subjonctif": [
+"relève",
+"relèves",
+"relève",
+"relevions",
+"releviez",
+"relèvent"
+]
+},
+"aux": "avoir",
+"pp": "relevé"
+},
+"engager": {
+"t": {
+"present": [
+"engage",
+"engages",
+"engage",
+"engageons",
+"engagez",
+"engagent"
+],
+"imparfait": [
+"engageais",
+"engageais",
+"engageait",
+"engagions",
+"engagiez",
+"engageaient"
+],
+"futur": [
+"engagerai",
+"engageras",
+"engagera",
+"engagerons",
+"engagerez",
+"engageront"
+],
+"conditionnel": [
+"engagerais",
+"engagerais",
+"engagerait",
+"engagerions",
+"engageriez",
+"engageraient"
+],
+"subjonctif": [
+"engage",
+"engages",
+"engage",
+"engagions",
+"engagiez",
+"engagent"
+]
+},
+"aux": "avoir",
+"pp": "engagé"
+},
+"diriger": {
+"t": {
+"present": [
+"dirige",
+"diriges",
+"dirige",
+"dirigeons",
+"dirigez",
+"dirigent"
+],
+"imparfait": [
+"dirigeais",
+"dirigeais",
+"dirigeait",
+"dirigions",
+"dirigiez",
+"dirigeaient"
+],
+"futur": [
+"dirigerai",
+"dirigeras",
+"dirigera",
+"dirigerons",
+"dirigerez",
+"dirigeront"
+],
+"conditionnel": [
+"dirigerais",
+"dirigerais",
+"dirigerait",
+"dirigerions",
+"dirigeriez",
+"dirigeraient"
+],
+"subjonctif": [
+"dirige",
+"diriges",
+"dirige",
+"dirigions",
+"dirigiez",
+"dirigent"
+]
+},
+"aux": "avoir",
+"pp": "dirigé"
+},
+"dégager": {
+"t": {
+"present": [
+"dégage",
+"dégages",
+"dégage",
+"dégageons",
+"dégagez",
+"dégagent"
+],
+"imparfait": [
+"dégageais",
+"dégageais",
+"dégageait",
+"dégagions",
+"dégagiez",
+"dégageaient"
+],
+"futur": [
+"dégagerai",
+"dégageras",
+"dégagera",
+"dégagerons",
+"dégagerez",
+"dégageront"
+],
+"conditionnel": [
+"dégagerais",
+"dégagerais",
+"dégagerait",
+"dégagerions",
+"dégageriez",
+"dégageraient"
+],
+"subjonctif": [
+"dégage",
+"dégages",
+"dégage",
+"dégagions",
+"dégagiez",
+"dégagent"
+]
+},
+"aux": "avoir",
+"pp": "dégagé"
+},
+"observer": {
+"t": {
+"present": [
+"observe",
+"observes",
+"observe",
+"observons",
+"observez",
+"observent"
+],
+"imparfait": [
+"observais",
+"observais",
+"observait",
+"observions",
+"observiez",
+"observaient"
+],
+"futur": [
+"observerai",
+"observeras",
+"observera",
+"observerons",
+"observerez",
+"observeront"
+],
+"conditionnel": [
+"observerais",
+"observerais",
+"observerait",
+"observerions",
+"observeriez",
+"observeraient"
+],
+"subjonctif": [
+"observe",
+"observes",
+"observe",
+"observions",
+"observiez",
+"observent"
+]
+},
+"aux": "avoir",
+"pp": "observé"
+},
+"coller": {
+"t": {
+"present": [
+"colle",
+"colles",
+"colle",
+"collons",
+"collez",
+"collent"
+],
+"imparfait": [
+"collais",
+"collais",
+"collait",
+"collions",
+"colliez",
+"collaient"
+],
+"futur": [
+"collerai",
+"colleras",
+"collera",
+"collerons",
+"collerez",
+"colleront"
+],
+"conditionnel": [
+"collerais",
+"collerais",
+"collerait",
+"collerions",
+"colleriez",
+"colleraient"
+],
+"subjonctif": [
+"colle",
+"colles",
+"colle",
+"collions",
+"colliez",
+"collent"
+]
+},
+"aux": "avoir",
+"pp": "collé"
+},
+"profiter": {
+"t": {
+"present": [
+"profite",
+"profites",
+"profite",
+"profitons",
+"profitez",
+"profitent"
+],
+"imparfait": [
+"profitais",
+"profitais",
+"profitait",
+"profitions",
+"profitiez",
+"profitaient"
+],
+"futur": [
+"profiterai",
+"profiteras",
+"profitera",
+"profiterons",
+"profiterez",
+"profiteront"
+],
+"conditionnel": [
+"profiterais",
+"profiterais",
+"profiterait",
+"profiterions",
+"profiteriez",
+"profiteraient"
+],
+"subjonctif": [
+"profite",
+"profites",
+"profite",
+"profitions",
+"profitiez",
+"profitent"
+]
+},
+"aux": "avoir",
+"pp": "profité"
+},
+"partager": {
+"t": {
+"present": [
+"partage",
+"partages",
+"partage",
+"partageons",
+"partagez",
+"partagent"
+],
+"imparfait": [
+"partageais",
+"partageais",
+"partageait",
+"partagions",
+"partagiez",
+"partageaient"
+],
+"futur": [
+"partagerai",
+"partageras",
+"partagera",
+"partagerons",
+"partagerez",
+"partageront"
+],
+"conditionnel": [
+"partagerais",
+"partagerais",
+"partagerait",
+"partagerions",
+"partageriez",
+"partageraient"
+],
+"subjonctif": [
+"partage",
+"partages",
+"partage",
+"partagions",
+"partagiez",
+"partagent"
+]
+},
+"aux": "avoir",
+"pp": "partagé"
+},
+"avouer": {
+"t": {
+"present": [
+"avoue",
+"avoues",
+"avoue",
+"avouons",
+"avouez",
+"avouent"
+],
+"imparfait": [
+"avouais",
+"avouais",
+"avouait",
+"avouions",
+"avouiez",
+"avouaient"
+],
+"futur": [
+"avouerai",
+"avoueras",
+"avouera",
+"avouerons",
+"avouerez",
+"avoueront"
+],
+"conditionnel": [
+"avouerais",
+"avouerais",
+"avouerait",
+"avouerions",
+"avoueriez",
+"avoueraient"
+],
+"subjonctif": [
+"avoue",
+"avoues",
+"avoue",
+"avouions",
+"avouiez",
+"avouent"
+]
+},
+"aux": "avoir",
+"pp": "avoué"
+},
+"baiser": {
+"t": {
+"present": [
+"baise",
+"baises",
+"baise",
+"baisons",
+"baisez",
+"baisent"
+],
+"imparfait": [
+"baisais",
+"baisais",
+"baisait",
+"baisions",
+"baisiez",
+"baisaient"
+],
+"futur": [
+"baiserai",
+"baiseras",
+"baisera",
+"baiserons",
+"baiserez",
+"baiseront"
+],
+"conditionnel": [
+"baiserais",
+"baiserais",
+"baiserait",
+"baiserions",
+"baiseriez",
+"baiseraient"
+],
+"subjonctif": [
+"baise",
+"baises",
+"baise",
+"baisions",
+"baisiez",
+"baisent"
+]
+},
+"aux": "avoir",
+"pp": "baisé"
+},
+"élever": {
+"t": {
+"present": [
+"élève",
+"élèves",
+"élève",
+"élevons",
+"élevez",
+"élèvent"
+],
+"imparfait": [
+"élevais",
+"élevais",
+"élevait",
+"élevions",
+"éleviez",
+"élevaient"
+],
+"futur": [
+"élèverai",
+"élèveras",
+"élèvera",
+"élèverons",
+"élèverez",
+"élèveront"
+],
+"conditionnel": [
+"élèverais",
+"élèverais",
+"élèverait",
+"élèverions",
+"élèveriez",
+"élèveraient"
+],
+"subjonctif": [
+"élève",
+"élèves",
+"élève",
+"élevions",
+"éleviez",
+"élèvent"
+]
+},
+"aux": "avoir",
+"pp": "élevé"
+},
+"prévoir": {
+"t": {
+"present": [
+"prévois",
+"prévois",
+"prévoit",
+"prévoyons",
+"prévoyez",
+"prévoient"
+],
+"imparfait": [
+"prévoyais",
+"prévoyais",
+"prévoyait",
+"prévoyions",
+"prévoyiez",
+"prévoyaient"
+],
+"futur": [
+"prévoirai",
+"prévoiras",
+"prévoira",
+"prévoirons",
+"prévoirez",
+"prévoiront"
+],
+"conditionnel": [
+"prévoirais",
+"prévoirais",
+"prévoirait",
+"prévoirions",
+"prévoiriez",
+"prévoiraient"
+],
+"subjonctif": [
+"prévoie",
+"prévoies",
+"prévoie",
+"prévoyions",
+"prévoyiez",
+"prévoient"
+]
+},
+"aux": "avoir",
+"pp": "prévu"
+},
+"discuter": {
+"t": {
+"present": [
+"discute",
+"discutes",
+"discute",
+"discutons",
+"discutez",
+"discutent"
+],
+"imparfait": [
+"discutais",
+"discutais",
+"discutait",
+"discutions",
+"discutiez",
+"discutaient"
+],
+"futur": [
+"discuterai",
+"discuteras",
+"discutera",
+"discuterons",
+"discuterez",
+"discuteront"
+],
+"conditionnel": [
+"discuterais",
+"discuterais",
+"discuterait",
+"discuterions",
+"discuteriez",
+"discuteraient"
+],
+"subjonctif": [
+"discute",
+"discutes",
+"discute",
+"discutions",
+"discutiez",
+"discutent"
+]
+},
+"aux": "avoir",
+"pp": "discuté"
+},
+"placer": {
+"t": {
+"present": [
+"place",
+"places",
+"place",
+"plaçons",
+"placez",
+"placent"
+],
+"imparfait": [
+"plaçais",
+"plaçais",
+"plaçait",
+"placions",
+"placiez",
+"plaçaient"
+],
+"futur": [
+"placerai",
+"placeras",
+"placera",
+"placerons",
+"placerez",
+"placeront"
+],
+"conditionnel": [
+"placerais",
+"placerais",
+"placerait",
+"placerions",
+"placeriez",
+"placeraient"
+],
+"subjonctif": [
+"place",
+"places",
+"place",
+"placions",
+"placiez",
+"placent"
+]
+},
+"aux": "avoir",
+"pp": "placé"
+},
+"signer": {
+"t": {
+"present": [
+"signe",
+"signes",
+"signe",
+"signons",
+"signez",
+"signent"
+],
+"imparfait": [
+"signais",
+"signais",
+"signait",
+"signions",
+"signiez",
+"signaient"
+],
+"futur": [
+"signerai",
+"signeras",
+"signera",
+"signerons",
+"signerez",
+"signeront"
+],
+"conditionnel": [
+"signerais",
+"signerais",
+"signerait",
+"signerions",
+"signeriez",
+"signeraient"
+],
+"subjonctif": [
+"signe",
+"signes",
+"signe",
+"signions",
+"signiez",
+"signent"
+]
+},
+"aux": "avoir",
+"pp": "signé"
+},
+"fuir": {
+"t": {
+"present": [
+"fuis",
+"fuis",
+"fuit",
+"fuyons",
+"fuyez",
+"fuient"
+],
+"imparfait": [
+"fuyais",
+"fuyais",
+"fuyait",
+"fuyions",
+"fuyiez",
+"fuyaient"
+],
+"futur": [
+"fuirai",
+"fuiras",
+"fuira",
+"fuirons",
+"fuirez",
+"fuiront"
+],
+"conditionnel": [
+"fuirais",
+"fuirais",
+"fuirait",
+"fuirions",
+"fuiriez",
+"fuiraient"
+],
+"subjonctif": [
+"fuie",
+"fuies",
+"fuie",
+"fuyions",
+"fuyiez",
+"fuient"
+]
+},
+"aux": "avoir",
+"pp": "fui"
+},
+"juger": {
+"t": {
+"present": [
+"juge",
+"juges",
+"juge",
+"jugeons",
+"jugez",
+"jugent"
+],
+"imparfait": [
+"jugeais",
+"jugeais",
+"jugeait",
+"jugions",
+"jugiez",
+"jugeaient"
+],
+"futur": [
+"jugerai",
+"jugeras",
+"jugera",
+"jugerons",
+"jugerez",
+"jugeront"
+],
+"conditionnel": [
+"jugerais",
+"jugerais",
+"jugerait",
+"jugerions",
+"jugeriez",
+"jugeraient"
+],
+"subjonctif": [
+"juge",
+"juges",
+"juge",
+"jugions",
+"jugiez",
+"jugent"
+]
+},
+"aux": "avoir",
+"pp": "jugé"
+},
+"hésiter": {
+"t": {
+"present": [
+"hésite",
+"hésites",
+"hésite",
+"hésitons",
+"hésitez",
+"hésitent"
+],
+"imparfait": [
+"hésitais",
+"hésitais",
+"hésitait",
+"hésitions",
+"hésitiez",
+"hésitaient"
+],
+"futur": [
+"hésiterai",
+"hésiteras",
+"hésitera",
+"hésiterons",
+"hésiterez",
+"hésiteront"
+],
+"conditionnel": [
+"hésiterais",
+"hésiterais",
+"hésiterait",
+"hésiterions",
+"hésiteriez",
+"hésiteraient"
+],
+"subjonctif": [
+"hésite",
+"hésites",
+"hésite",
+"hésitions",
+"hésitiez",
+"hésitent"
+]
+},
+"aux": "avoir",
+"pp": "hésité"
+},
+"entraîner": {
+"t": {
+"present": [
+"entraîne",
+"entraînes",
+"entraîne",
+"entraînons",
+"entraînez",
+"entraînent"
+],
+"imparfait": [
+"entraînais",
+"entraînais",
+"entraînait",
+"entraînions",
+"entraîniez",
+"entraînaient"
+],
+"futur": [
+"entraînerai",
+"entraîneras",
+"entraînera",
+"entraînerons",
+"entraînerez",
+"entraîneront"
+],
+"conditionnel": [
+"entraînerais",
+"entraînerais",
+"entraînerait",
+"entraînerions",
+"entraîneriez",
+"entraîneraient"
+],
+"subjonctif": [
+"entraîne",
+"entraînes",
+"entraîne",
+"entraînions",
+"entraîniez",
+"entraînent"
+]
+},
+"aux": "avoir",
+"pp": "entraîné"
+},
+"mériter": {
+"t": {
+"present": [
+"mérite",
+"mérites",
+"mérite",
+"méritons",
+"méritez",
+"méritent"
+],
+"imparfait": [
+"méritais",
+"méritais",
+"méritait",
+"méritions",
+"méritiez",
+"méritaient"
+],
+"futur": [
+"mériterai",
+"mériteras",
+"méritera",
+"mériterons",
+"mériterez",
+"mériteront"
+],
+"conditionnel": [
+"mériterais",
+"mériterais",
+"mériterait",
+"mériterions",
+"mériteriez",
+"mériteraient"
+],
+"subjonctif": [
+"mérite",
+"mérites",
+"mérite",
+"méritions",
+"méritiez",
+"méritent"
+]
+},
+"aux": "avoir",
+"pp": "mérité"
+},
+"accrocher": {
+"t": {
+"present": [
+"accroche",
+"accroches",
+"accroche",
+"accrochons",
+"accrochez",
+"accrochent"
+],
+"imparfait": [
+"accrochais",
+"accrochais",
+"accrochait",
+"accrochions",
+"accrochiez",
+"accrochaient"
+],
+"futur": [
+"accrocherai",
+"accrocheras",
+"accrochera",
+"accrocherons",
+"accrocherez",
+"accrocheront"
+],
+"conditionnel": [
+"accrocherais",
+"accrocherais",
+"accrocherait",
+"accrocherions",
+"accrocheriez",
+"accrocheraient"
+],
+"subjonctif": [
+"accroche",
+"accroches",
+"accroche",
+"accrochions",
+"accrochiez",
+"accrochent"
+]
+},
+"aux": "avoir",
+"pp": "accroché"
+},
+"vérifier": {
+"t": {
+"present": [
+"vérifie",
+"vérifies",
+"vérifie",
+"vérifions",
+"vérifiez",
+"vérifient"
+],
+"imparfait": [
+"vérifiais",
+"vérifiais",
+"vérifiait",
+"vérifiions",
+"vérifiiez",
+"vérifiaient"
+],
+"futur": [
+"vérifierai",
+"vérifieras",
+"vérifiera",
+"vérifierons",
+"vérifierez",
+"vérifieront"
+],
+"conditionnel": [
+"vérifierais",
+"vérifierais",
+"vérifierait",
+"vérifierions",
+"vérifieriez",
+"vérifieraient"
+],
+"subjonctif": [
+"vérifie",
+"vérifies",
+"vérifie",
+"vérifiions",
+"vérifiiez",
+"vérifient"
+]
+},
+"aux": "avoir",
+"pp": "vérifié"
+},
+"éprouver": {
+"t": {
+"present": [
+"éprouve",
+"éprouves",
+"éprouve",
+"éprouvons",
+"éprouvez",
+"éprouvent"
+],
+"imparfait": [
+"éprouvais",
+"éprouvais",
+"éprouvait",
+"éprouvions",
+"éprouviez",
+"éprouvaient"
+],
+"futur": [
+"éprouverai",
+"éprouveras",
+"éprouvera",
+"éprouverons",
+"éprouverez",
+"éprouveront"
+],
+"conditionnel": [
+"éprouverais",
+"éprouverais",
+"éprouverait",
+"éprouverions",
+"éprouveriez",
+"éprouveraient"
+],
+"subjonctif": [
+"éprouve",
+"éprouves",
+"éprouve",
+"éprouvions",
+"éprouviez",
+"éprouvent"
+]
+},
+"aux": "avoir",
+"pp": "éprouvé"
+},
+"former": {
+"t": {
+"present": [
+"forme",
+"formes",
+"forme",
+"formons",
+"formez",
+"forment"
+],
+"imparfait": [
+"formais",
+"formais",
+"formait",
+"formions",
+"formiez",
+"formaient"
+],
+"futur": [
+"formerai",
+"formeras",
+"formera",
+"formerons",
+"formerez",
+"formeront"
+],
+"conditionnel": [
+"formerais",
+"formerais",
+"formerait",
+"formerions",
+"formeriez",
+"formeraient"
+],
+"subjonctif": [
+"forme",
+"formes",
+"forme",
+"formions",
+"formiez",
+"forment"
+]
+},
+"aux": "avoir",
+"pp": "formé"
+},
+"prêter": {
+"t": {
+"present": [
+"prête",
+"prêtes",
+"prête",
+"prêtons",
+"prêtez",
+"prêtent"
+],
+"imparfait": [
+"prêtais",
+"prêtais",
+"prêtait",
+"prêtions",
+"prêtiez",
+"prêtaient"
+],
+"futur": [
+"prêterai",
+"prêteras",
+"prêtera",
+"prêterons",
+"prêterez",
+"prêteront"
+],
+"conditionnel": [
+"prêterais",
+"prêterais",
+"prêterait",
+"prêterions",
+"prêteriez",
+"prêteraient"
+],
+"subjonctif": [
+"prête",
+"prêtes",
+"prête",
+"prêtions",
+"prêtiez",
+"prêtent"
+]
+},
+"aux": "avoir",
+"pp": "prêté"
+},
+"ressentir": {
+"t": {
+"present": [
+"ressens",
+"ressens",
+"ressent",
+"ressentons",
+"ressentez",
+"ressentent"
+],
+"imparfait": [
+"ressentais",
+"ressentais",
+"ressentait",
+"ressentions",
+"ressentiez",
+"ressentaient"
+],
+"futur": [
+"ressentirai",
+"ressentiras",
+"ressentira",
+"ressentirons",
+"ressentirez",
+"ressentiront"
+],
+"conditionnel": [
+"ressentirais",
+"ressentirais",
+"ressentirait",
+"ressentirions",
+"ressentiriez",
+"ressentiraient"
+],
+"subjonctif": [
+"ressente",
+"ressentes",
+"ressente",
+"ressentions",
+"ressentiez",
+"ressentent"
+]
+},
+"aux": "avoir",
+"pp": "ressenti"
+},
+"blesser": {
+"t": {
+"present": [
+"blesse",
+"blesses",
+"blesse",
+"blessons",
+"blessez",
+"blessent"
+],
+"imparfait": [
+"blessais",
+"blessais",
+"blessait",
+"blessions",
+"blessiez",
+"blessaient"
+],
+"futur": [
+"blesserai",
+"blesseras",
+"blessera",
+"blesserons",
+"blesserez",
+"blesseront"
+],
+"conditionnel": [
+"blesserais",
+"blesserais",
+"blesserait",
+"blesserions",
+"blesseriez",
+"blesseraient"
+],
+"subjonctif": [
+"blesse",
+"blesses",
+"blesse",
+"blessions",
+"blessiez",
+"blessent"
+]
+},
+"aux": "avoir",
+"pp": "blessé"
+},
+"crever": {
+"t": {
+"present": [
+"crève",
+"crèves",
+"crève",
+"crevons",
+"crevez",
+"crèvent"
+],
+"imparfait": [
+"crevais",
+"crevais",
+"crevait",
+"crevions",
+"creviez",
+"crevaient"
+],
+"futur": [
+"crèverai",
+"crèveras",
+"crèvera",
+"crèverons",
+"crèverez",
+"crèveront"
+],
+"conditionnel": [
+"crèverais",
+"crèverais",
+"crèverait",
+"crèverions",
+"crèveriez",
+"crèveraient"
+],
+"subjonctif": [
+"crève",
+"crèves",
+"crève",
+"crevions",
+"creviez",
+"crèvent"
+]
+},
+"aux": "avoir",
+"pp": "crevé"
+},
+"repartir": {
+"t": {
+"present": [
+"repars",
+"repars",
+"repart",
+"repartons",
+"repartez",
+"repartent"
+],
+"imparfait": [
+"repartais",
+"repartais",
+"repartait",
+"repartions",
+"repartiez",
+"repartaient"
+],
+"futur": [
+"repartirai",
+"repartiras",
+"repartira",
+"repartirons",
+"repartirez",
+"repartiront"
+],
+"conditionnel": [
+"repartirais",
+"repartirais",
+"repartirait",
+"repartirions",
+"repartiriez",
+"repartiraient"
+],
+"subjonctif": [
+"reparte",
+"repartes",
+"reparte",
+"repartions",
+"repartiez",
+"repartent"
+]
+},
+"aux": "être",
+"pp": "reparti"
+},
+"écraser": {
+"t": {
+"present": [
+"écrase",
+"écrases",
+"écrase",
+"écrasons",
+"écrasez",
+"écrasent"
+],
+"imparfait": [
+"écrasais",
+"écrasais",
+"écrasait",
+"écrasions",
+"écrasiez",
+"écrasaient"
+],
+"futur": [
+"écraserai",
+"écraseras",
+"écrasera",
+"écraserons",
+"écraserez",
+"écraseront"
+],
+"conditionnel": [
+"écraserais",
+"écraserais",
+"écraserait",
+"écraserions",
+"écraseriez",
+"écraseraient"
+],
+"subjonctif": [
+"écrase",
+"écrases",
+"écrase",
+"écrasions",
+"écrasiez",
+"écrasent"
+]
+},
+"aux": "avoir",
+"pp": "écrasé"
+},
+"marquer": {
+"t": {
+"present": [
+"marque",
+"marques",
+"marque",
+"marquons",
+"marquez",
+"marquent"
+],
+"imparfait": [
+"marquais",
+"marquais",
+"marquait",
+"marquions",
+"marquiez",
+"marquaient"
+],
+"futur": [
+"marquerai",
+"marqueras",
+"marquera",
+"marquerons",
+"marquerez",
+"marqueront"
+],
+"conditionnel": [
+"marquerais",
+"marquerais",
+"marquerait",
+"marquerions",
+"marqueriez",
+"marqueraient"
+],
+"subjonctif": [
+"marque",
+"marques",
+"marque",
+"marquions",
+"marquiez",
+"marquent"
+]
+},
+"aux": "avoir",
+"pp": "marqué"
+},
+"laver": {
+"t": {
+"present": [
+"lave",
+"laves",
+"lave",
+"lavons",
+"lavez",
+"lavent"
+],
+"imparfait": [
+"lavais",
+"lavais",
+"lavait",
+"lavions",
+"laviez",
+"lavaient"
+],
+"futur": [
+"laverai",
+"laveras",
+"lavera",
+"laverons",
+"laverez",
+"laveront"
+],
+"conditionnel": [
+"laverais",
+"laverais",
+"laverait",
+"laverions",
+"laveriez",
+"laveraient"
+],
+"subjonctif": [
+"lave",
+"laves",
+"lave",
+"lavions",
+"laviez",
+"lavent"
+]
+},
+"aux": "avoir",
+"pp": "lavé"
+},
+"commander": {
+"t": {
+"present": [
+"commande",
+"commandes",
+"commande",
+"commandons",
+"commandez",
+"commandent"
+],
+"imparfait": [
+"commandais",
+"commandais",
+"commandait",
+"commandions",
+"commandiez",
+"commandaient"
+],
+"futur": [
+"commanderai",
+"commanderas",
+"commandera",
+"commanderons",
+"commanderez",
+"commanderont"
+],
+"conditionnel": [
+"commanderais",
+"commanderais",
+"commanderait",
+"commanderions",
+"commanderiez",
+"commanderaient"
+],
+"subjonctif": [
+"commande",
+"commandes",
+"commande",
+"commandions",
+"commandiez",
+"commandent"
+]
+},
+"aux": "avoir",
+"pp": "commandé"
+},
+"remplir": {
+"t": {
+"present": [
+"remplis",
+"remplis",
+"remplit",
+"remplissons",
+"remplissez",
+"remplissent"
+],
+"imparfait": [
+"remplissais",
+"remplissais",
+"remplissait",
+"remplissions",
+"remplissiez",
+"remplissaient"
+],
+"futur": [
+"remplirai",
+"rempliras",
+"remplira",
+"remplirons",
+"remplirez",
+"rempliront"
+],
+"conditionnel": [
+"remplirais",
+"remplirais",
+"remplirait",
+"remplirions",
+"rempliriez",
+"rempliraient"
+],
+"subjonctif": [
+"remplisse",
+"remplisses",
+"remplisse",
+"remplissions",
+"remplissiez",
+"remplissent"
+]
+},
+"aux": "avoir",
+"pp": "rempli"
+},
+"demeurer": {
+"t": {
+"present": [
+"demeure",
+"demeures",
+"demeure",
+"demeurons",
+"demeurez",
+"demeurent"
+],
+"imparfait": [
+"demeurais",
+"demeurais",
+"demeurait",
+"demeurions",
+"demeuriez",
+"demeuraient"
+],
+"futur": [
+"demeurerai",
+"demeureras",
+"demeurera",
+"demeurerons",
+"demeurerez",
+"demeureront"
+],
+"conditionnel": [
+"demeurerais",
+"demeurerais",
+"demeurerait",
+"demeurerions",
+"demeureriez",
+"demeureraient"
+],
+"subjonctif": [
+"demeure",
+"demeures",
+"demeure",
+"demeurions",
+"demeuriez",
+"demeurent"
+]
+},
+"aux": "avoir",
+"pp": "demeuré"
+},
+"éclater": {
+"t": {
+"present": [
+"éclate",
+"éclates",
+"éclate",
+"éclatons",
+"éclatez",
+"éclatent"
+],
+"imparfait": [
+"éclatais",
+"éclatais",
+"éclatait",
+"éclations",
+"éclatiez",
+"éclataient"
+],
+"futur": [
+"éclaterai",
+"éclateras",
+"éclatera",
+"éclaterons",
+"éclaterez",
+"éclateront"
+],
+"conditionnel": [
+"éclaterais",
+"éclaterais",
+"éclaterait",
+"éclaterions",
+"éclateriez",
+"éclateraient"
+],
+"subjonctif": [
+"éclate",
+"éclates",
+"éclate",
+"éclations",
+"éclatiez",
+"éclatent"
+]
+},
+"aux": "avoir",
+"pp": "éclaté"
+},
+"livrer": {
+"t": {
+"present": [
+"livre",
+"livres",
+"livre",
+"livrons",
+"livrez",
+"livrent"
+],
+"imparfait": [
+"livrais",
+"livrais",
+"livrait",
+"livrions",
+"livriez",
+"livraient"
+],
+"futur": [
+"livrerai",
+"livreras",
+"livrera",
+"livrerons",
+"livrerez",
+"livreront"
+],
+"conditionnel": [
+"livrerais",
+"livrerais",
+"livrerait",
+"livrerions",
+"livreriez",
+"livreraient"
+],
+"subjonctif": [
+"livre",
+"livres",
+"livre",
+"livrions",
+"livriez",
+"livrent"
+]
+},
+"aux": "avoir",
+"pp": "livré"
+},
+"prouver": {
+"t": {
+"present": [
+"prouve",
+"prouves",
+"prouve",
+"prouvons",
+"prouvez",
+"prouvent"
+],
+"imparfait": [
+"prouvais",
+"prouvais",
+"prouvait",
+"prouvions",
+"prouviez",
+"prouvaient"
+],
+"futur": [
+"prouverai",
+"prouveras",
+"prouvera",
+"prouverons",
+"prouverez",
+"prouveront"
+],
+"conditionnel": [
+"prouverais",
+"prouverais",
+"prouverait",
+"prouverions",
+"prouveriez",
+"prouveraient"
+],
+"subjonctif": [
+"prouve",
+"prouves",
+"prouve",
+"prouvions",
+"prouviez",
+"prouvent"
+]
+},
+"aux": "avoir",
+"pp": "prouvé"
+},
+"forcer": {
+"t": {
+"present": [
+"force",
+"forces",
+"force",
+"forçons",
+"forcez",
+"forcent"
+],
+"imparfait": [
+"forçais",
+"forçais",
+"forçait",
+"forcions",
+"forciez",
+"forçaient"
+],
+"futur": [
+"forcerai",
+"forceras",
+"forcera",
+"forcerons",
+"forcerez",
+"forceront"
+],
+"conditionnel": [
+"forcerais",
+"forcerais",
+"forcerait",
+"forcerions",
+"forceriez",
+"forceraient"
+],
+"subjonctif": [
+"force",
+"forces",
+"force",
+"forcions",
+"forciez",
+"forcent"
+]
+},
+"aux": "avoir",
+"pp": "forcé"
+},
+"régler": {
+"t": {
+"present": [
+"règle",
+"règles",
+"règle",
+"réglons",
+"réglez",
+"règlent"
+],
+"imparfait": [
+"réglais",
+"réglais",
+"réglait",
+"réglions",
+"régliez",
+"réglaient"
+],
+"futur": [
+"réglerai",
+"régleras",
+"réglera",
+"réglerons",
+"réglerez",
+"régleront"
+],
+"conditionnel": [
+"réglerais",
+"réglerais",
+"réglerait",
+"réglerions",
+"régleriez",
+"régleraient"
+],
+"subjonctif": [
+"règle",
+"règles",
+"règle",
+"réglions",
+"régliez",
+"règlent"
+]
+},
+"aux": "avoir",
+"pp": "réglé"
+},
+"créer": {
+"t": {
+"present": [
+"crée",
+"crées",
+"crée",
+"créons",
+"créez",
+"créent"
+],
+"imparfait": [
+"créais",
+"créais",
+"créait",
+"créions",
+"créiez",
+"créaient"
+],
+"futur": [
+"créerai",
+"créeras",
+"créera",
+"créerons",
+"créerez",
+"créeront"
+],
+"conditionnel": [
+"créerais",
+"créerais",
+"créerait",
+"créerions",
+"créeriez",
+"créeraient"
+],
+"subjonctif": [
+"crée",
+"crées",
+"crée",
+"créions",
+"créiez",
+"créent"
+]
+},
+"aux": "avoir",
+"pp": "créé"
+},
+"surveiller": {
+"t": {
+"present": [
+"surveille",
+"surveilles",
+"surveille",
+"surveillons",
+"surveillez",
+"surveillent"
+],
+"imparfait": [
+"surveillais",
+"surveillais",
+"surveillait",
+"surveillions",
+"surveilliez",
+"surveillaient"
+],
+"futur": [
+"surveillerai",
+"surveilleras",
+"surveillera",
+"surveillerons",
+"surveillerez",
+"surveilleront"
+],
+"conditionnel": [
+"surveillerais",
+"surveillerais",
+"surveillerait",
+"surveillerions",
+"surveilleriez",
+"surveilleraient"
+],
+"subjonctif": [
+"surveille",
+"surveilles",
+"surveille",
+"surveillions",
+"surveilliez",
+"surveillent"
+]
+},
+"aux": "avoir",
+"pp": "surveillé"
+}
+}

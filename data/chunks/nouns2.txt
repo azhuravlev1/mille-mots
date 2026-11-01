@@ -1,0 +1,140 @@
+doigt | NOM | gender=m | pl=doigts
+café | NOM | gender=m | pl=cafés | also-tagged-as=ADJ
+salut | NOM | gender=m | pl=saluts | also-tagged-as=ONO
+papa | NOM | gender=m
+sens | NOM | gender=m
+jambe | NOM | gender=f
+parent | NOM | gender=m | pl=parents | fem=parente | also-tagged-as=ADJ
+vérité | NOM | gender=f | pl=vérités
+salle | NOM | gender=f | pl=salles
+arme | NOM | gender=f | pl=armes
+service | NOM | gender=m | pl=services
+film | NOM | gender=m | pl=films
+milieu | NOM | gender=m | pl=milieux
+papier | NOM | gender=m | pl=papiers
+docteur | NOM | gender=m | pl=docteurs | fem=doctoresse
+épaule | NOM | gender=f | pl=épaules
+cours | NOM
+bureau | NOM | gender=m | pl=bureaux
+dos | NOM | gender=m
+travers | NOM | gender=m
+geste | NOM | pl=gestes
+effet | NOM | gender=m | pl=effets
+journal | NOM | gender=m | pl=journaux
+cheval | NOM | gender=m | pl=chevaux
+bord | NOM | gender=m | pl=bords
+photo | NOM | gender=f | pl=photos
+sac | NOM | gender=m | pl=sacs
+coin | NOM | gender=m | pl=coins
+vent | NOM | gender=m | pl=vents
+retour | NOM | gender=m | pl=retours
+âme | NOM | gender=f | pl=âmes
+arbre | NOM | gender=m | pl=arbres
+rêve | NOM | gender=m | pl=rêves
+musique | NOM | gender=f | pl=musiques
+attention | NOM | gender=f | pl=attentions | also-tagged-as=ONO
+parole | NOM | gender=f | pl=paroles
+couleur | NOM | gender=f | pl=couleurs
+maître | NOM | gender=m | pl=maîtres | also-tagged-as=ADJ
+ombre | NOM | pl=ombres
+roi | NOM | gender=m | pl=rois
+merde | NOM | gender=f | pl=merdes | also-tagged-as=ONO
+peau | NOM | gender=f | pl=peaux
+patron | NOM | gender=m | pl=patrons | fem=patronne
+hôtel | NOM | gender=m | pl=hôtels
+image | NOM | gender=f | pl=images
+rapport | NOM | gender=m | pl=rapports
+forme | NOM | gender=f | pl=formes
+oreille | NOM | gender=f | pl=oreilles
+faute | NOM | gender=f | pl=fautes
+fleur | NOM | gender=f | pl=fleurs
+voyage | NOM | gender=m | pl=voyages
+dame | NOM | gender=f | pl=dames
+copain | NOM | gender=m | pl=copains | fem=copine
+lèvre | NOM | gender=f | pl=lèvres
+espèce | NOM | gender=f | pl=espèces
+téléphone | NOM | gender=m | pl=téléphones
+pierre | NOM | gender=f | pl=pierres
+carte | NOM | gender=f | pl=cartes
+début | NOM | gender=m | pl=débuts
+confiance | NOM | gender=f | pl=confiances
+oncle | NOM | gender=m | pl=oncles
+nez | NOM | gender=m
+habitude | NOM | gender=f | pl=habitudes
+ligne | NOM | gender=f | pl=lignes
+fête | NOM | gender=f | pl=fêtes
+paix | NOM | gender=f
+armée | NOM | gender=f | pl=armées
+mariage | NOM | gender=m | pl=mariages
+seconde | NOM | gender=f | pl=secondes
+jardin | NOM | gender=m | pl=jardins
+impression | NOM | gender=f | pl=impressions
+capitaine | NOM | gender=m | pl=capitaines
+odeur | NOM | gender=f | pl=odeurs
+signe | NOM | gender=m | pl=signes
+numéro | NOM | gender=m | pl=numéros
+bonheur | NOM | gender=m | pl=bonheurs
+or | NOM | gender=m | pl=ors | also-tagged-as=ADJ,CON
+village | NOM | gender=m | pl=villages
+boulot | NOM | gender=m | pl=boulots | also-tagged-as=ADJ
+soldat | NOM | gender=m | pl=soldats | fem=soldate
+bébé | NOM | gender=m | pl=bébés
+plan | NOM | gender=m | pl=plans | also-tagged-as=ADJ
+gueule | NOM | gender=f | pl=gueules
+prix | NOM | gender=m
+sentiment | NOM | gender=m | pl=sentiments
+robe | NOM | gender=f | pl=robes
+vue | NOM | gender=f | pl=vues
+aide | NOM | pl=aides
+manière | NOM | gender=f | pl=manières
+honneur | NOM | gender=m | pl=honneurs
+groupe | NOM | gender=m | pl=groupes
+sujet | NOM | gender=m | pl=sujets | also-tagged-as=ADJ
+intérieur | NOM | gender=m | pl=intérieurs | also-tagged-as=ADJ
+flic | NOM | gender=m | pl=flics
+joie | NOM | gender=f | pl=joies
+chat | NOM | gender=m | pl=chats | fem=chatte
+cuisine | NOM | gender=f | pl=cuisines
+mouvement | NOM | gender=m | pl=mouvements
+président | NOM | gender=m | pl=présidents | fem=présidente
+scène | NOM | gender=f | pl=scènes
+boîte | NOM | gender=f | pl=boîtes
+cour | NOM | gender=f
+propos | NOM | gender=m
+prison | NOM | gender=f | pl=prisons
+exemple | NOM | gender=m | pl=exemples
+cul | NOM | gender=m | pl=culs
+peuple | NOM | gender=m | pl=peuples
+balle | NOM | gender=f | pl=balles
+garde | NOM | pl=gardes
+médecin | NOM | gender=m | pl=médecins
+seigneur | NOM | gender=m | pl=seigneurs
+situation | NOM | gender=f | pl=situations
+camp | NOM | gender=m | pl=camps
+église | NOM | gender=f | pl=églises
+pensée | NOM | gender=f | pl=pensées
+chéri | NOM | gender=f | pl=chéries | also-tagged-as=ADJ
+présent | NOM | gender=m | pl=présents | also-tagged-as=ADJ
+bateau | NOM | gender=m | pl=bateaux
+époque | NOM | gender=f | pl=époques
+avion | NOM | gender=m | pl=avions
+gauche | NOM | pl=gauches | also-tagged-as=ADJ
+marche | NOM | gender=f | pl=marches
+avis | NOM | gender=m
+ennemi | NOM | gender=m | pl=ennemis | fem=ennemie | also-tagged-as=ADJ
+faim | NOM | gender=f | pl=faims
+cri | NOM | gender=m | pl=cris
+front | NOM | gender=m | pl=fronts
+prince | NOM | gender=m | pl=princes | fem=princesse
+dent | NOM | gender=f | pl=dents
+goût | NOM | gender=m | pl=goûts
+secret | NOM | gender=m | pl=secrets | also-tagged-as=ADJ
+visite | NOM | gender=f | pl=visites
+passage | NOM | gender=m | pl=passages
+trou | NOM | gender=m | pl=trous
+sol | NOM | gender=m | pl=sols
+vin | NOM | gender=m | pl=vins
+réponse | NOM | gender=f | pl=réponses
+poche | NOM | pl=poches
+langue | NOM | gender=f | pl=langues
+tante | NOM | gender=f | pl=tantes

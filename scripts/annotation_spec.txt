@@ -1,0 +1,90 @@
+ANNOTATION SPEC — French frequency word list (for an English/Russian-speaking learner)
+
+Output: a JSON array (UTF-8, valid JSON, no comments) with ONE object per input line, in the
+same order. Keys (omit optional keys when not applicable — keep the file compact):
+
+  "w"       (required) the lemma exactly as given in the input line.
+  "display" (optional) how to show the headword if different: "œil" for "oeil", "vacances"
+            for "vacance", "grâce à" for "grâce", "d'accord"-style fixes, etc.
+  "en"      (required) concise English translation(s), most common sense first, senses
+            separated by "; ". Keep it under ~60 characters.
+  "note"    (optional) ≤ 150 chars, English. Use ONLY when French splits/merges meanings in a
+            way English doesn't (e.g. temps = time AND weather; savoir vs connaître; "livre":
+            le livre = book, la livre = pound), or for a key usage trap.
+  "ru"      (optional) Russian translation — ONLY when Russian conveys the meaning or the
+            multi-meaning BETTER than English (tu → ты; vous → вы (вежл./мн.); falloir → надо;
+            savoir → знать / уметь; on → «мы / кто-то», безличное). Expect ≤ ~10% of words.
+  "sim"     (required) similarity group, pick the FIRST that applies:
+              "same"  spelled identically to an English word (ignoring accents) with the same
+                      core meaning: table, moment, police, possible, important, date.
+              "close" spelled a bit differently from English, meaning very similar:
+                      problème, famille, arriver (arrive), commencer (commence), sérieux.
+              "faux"  looks like an English word but the meaning differs notably (faux ami):
+                      librairie (bookshop), rester (stay), attendre (wait), demander (ask),
+                      blesser (wound), actuellement (currently), location (rental).
+              "ru"    no English resemblance, but resembles a Russian word with similar meaning:
+                      douche/душ, pantalon/панталоны, trottoir/тротуар, bureau/бюро, chef/шеф.
+              "none"  no useful resemblance.
+            For verbs compare the stem to an English verb/noun (penser→pensive is too weak:
+            "none"; accepter→accept: "close"; passer→pass: "close").
+  "faux"    (required when sim = "faux") the trap in a few words: "≠ demand — means to ask".
+            Can also be used with sim "close"/"same" when a SECONDARY meaning is a trap.
+  "ru_like" (optional) a genuine Russian cognate/look-alike, even if sim isn't "ru"
+            (e.g. "moment" → "момент", "garage" → "гараж"). Only obvious ones; skip otherwise.
+  "der"     (optional) derivation, only if the word is transparently formed (for a learner) from
+            another common French word:
+              {"from": "informer", "fromPos": "verb", "suffix": "-ation"}
+            fromPos ∈ verb | noun | adj | adv.
+            "suffix" MUST be the literal end of the headword as written, so a tool can underline
+            it: information ← informer "-ation"; chanteur ← chanter "-eur"; vérité ← vrai "-ité";
+            arrivée ← arriver "-ée"; heureux ← heure? NO (not transparent) — skip.
+            Use "∅" when nothing is added (noun = bare verb stem: appel ← appeler, regard ←
+            regarder, retour ← retourner, travail ← travailler, choix ← choisir? (no: skip)).
+            Use "-e" when only -e is added to the stem (marche ← marcher, demande ← demander).
+            Prefixed verbs/nouns: {"from": "venir", "fromPos": "verb", "prefix": "re-"} for
+            revenir; also dé-/dés-, pré-, sur-, en-/em-, com-, ra-, par-… (prefix must be the
+            literal start of the headword). Both prefix and suffix may be present.
+            Prefer these canonical suffix spellings so colours stay consistent:
+              nouns: -ation -tion -sion -ment -age -ure -eur -euse -teur -trice -ance -ence
+                     -ité -té -ie -erie -isme -iste -ier -ière -ette -ée -esse -ise -aison
+                     -ade -oir -oire -ude -eau -ard -on -ain -aine -ien -ienne -ant -ent -e ∅
+              adjectives: -able -ible -eux -euse -if -el -al -ique -aire -ant -ent -é -i -u
+                     -ier -in -ais -ois -ien -ard -ile -esque -âtre
+            Do NOT mark derivation for words that are only related via Latin (question, action,
+            maison, raison) — the base must be a common, visibly related French word.
+  "ex"      (optional) very short example "French. — English." (≤ 8 French words). Give one for
+            every faux ami, every adverb and every "other" word, and for verbs/nouns whose use
+            isn't obvious from the translation. Skip for plain concrete nouns.
+
+Section-specific keys:
+  NOUNS:  "g"   (required) "m" | "f" | "m/f" (same word for both genders: enfant, camarade)
+                | "m|f" (gender changes the meaning: livre, tour, poste — explain in "note").
+          "pl"  only if the plural is irregular (yeux, chevaux, travaux, messieurs, jeux,
+                bijoux) — not for +s, not for words already ending in s/x/z.
+          "fem" common feminine counterpart if one exists (acteur → actrice, ami → amie,
+                chanteur → chanteuse, roi → reine). The input may already carry g/pl/fem
+                values from a database — verify and correct them.
+  VERBS:  "pron" (optional) if a pronominal use is common and differs in meaning:
+                "se rendre = to go to / surrender". Keep "en" for the plain verb.
+  ADJECTIVES: "der" when derived (from noun → -el, -al, -eux…; from verb → participles -é/-i/-u,
+                -ant, -able). Non-derived adjectives (rouge, grand, petit, bon) simply have no
+                "der". Adjectives placed before the noun (BAGS: beau, grand, petit, bon…)
+                get "before": true. If the meaning changes with position (ancien, cher,
+                propre, grand, pauvre, seul…), explain in "note".
+  ADVERBS: "grp" (required) time | place | manner | degree | negation | affirmation | question
+                | linking   (linking = alors, donc, pourtant, cependant, ensuite, enfin…)
+           -ment adverbs: "der": {"from": "<masculine adjective>", "fromPos": "adj",
+                "suffix": "-ment"} (the tool computes the exact pattern itself).
+  OTHER (function words): "cls" (required) article | determiner | pronoun | preposition |
+                conjunction | number | interjection
+           "sub" (required) short subgroup label, e.g. "subject", "object", "stressed",
+                "reflexive", "possessive", "demonstrative", "interrogative", "indefinite",
+                "relative", "place", "time", "cause", "coordinating", "subordinating",
+                "cardinal", "greeting".
+
+If an input line is junk or clearly misclassified, still output an object with "w" and add
+"drop": true plus a short "why".
+
+Quality bar: translations must be accurate and natural; faux-ami claims must be real; Russian
+only where it genuinely helps. Write the file with the Write tool, then validate it with
+`python3 -c "import json;d=json.load(open('<file>'));print(len(d))"` and fix errors.

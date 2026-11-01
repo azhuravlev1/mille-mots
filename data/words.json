@@ -1,0 +1,10791 @@
+[
+ {
+  "lemma": "de",
+  "cgram": "PRE",
+  "section": "other",
+  "freq": 64149.78,
+  "also": [],
+  "rank": 1
+ },
+ {
+  "lemma": "être",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 47321.97,
+  "also": [
+   "NOM"
+  ],
+  "rank": 2
+ },
+ {
+  "lemma": "je",
+  "cgram": "PRO:per",
+  "section": "other",
+  "freq": 36845.97,
+  "also": [
+   "NOM"
+  ],
+  "rank": 3
+ },
+ {
+  "lemma": "ne",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 36129.72,
+  "also": [
+   "NOM"
+  ],
+  "rank": 4
+ },
+ {
+  "lemma": "et",
+  "cgram": "CON",
+  "section": "other",
+  "freq": 33788.81,
+  "also": [],
+  "rank": 5
+ },
+ {
+  "lemma": "le",
+  "cgram": "ART:def",
+  "section": "other",
+  "freq": 31963.71,
+  "also": [
+   "PRO:per"
+  ],
+  "rank": 6,
+  "forms": {
+   "ms": "le",
+   "fs": "la",
+   "mp": "les",
+   "fp": "les"
+  }
+ },
+ {
+  "lemma": "à",
+  "cgram": "PRE",
+  "section": "other",
+  "freq": 31399.45,
+  "also": [],
+  "rank": 7
+ },
+ {
+  "lemma": "avoir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 31360.03,
+  "also": [
+   "NOM"
+  ],
+  "rank": 8
+ },
+ {
+  "lemma": "il",
+  "cgram": "PRO:per",
+  "section": "other",
+  "freq": 29055.02,
+  "also": [],
+  "rank": 9
+ },
+ {
+  "lemma": "pas",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 26983.29,
+  "also": [
+   "NOM"
+  ],
+  "rank": 10
+ },
+ {
+  "lemma": "un",
+  "cgram": "ART:ind",
+  "section": "other",
+  "freq": 25638.3,
+  "also": [
+   "ADJ:num",
+   "PRO:ind"
+  ],
+  "rank": 11,
+  "forms": {
+   "ms": "un",
+   "fs": "une",
+   "mp": "des",
+   "fp": "des"
+  }
+ },
+ {
+  "lemma": "tu",
+  "cgram": "PRO:per",
+  "section": "other",
+  "freq": 17198.79,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 12
+ },
+ {
+  "lemma": "vous",
+  "cgram": "PRO:per",
+  "section": "other",
+  "freq": 17096.86,
+  "also": [],
+  "rank": 13
+ },
+ {
+  "lemma": "en",
+  "cgram": "PRE",
+  "section": "other",
+  "freq": 14422.25,
+  "also": [
+   "ADV",
+   "PRO:per"
+  ],
+  "rank": 14
+ },
+ {
+  "lemma": "faire",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 14142.47,
+  "also": [],
+  "rank": 15
+ },
+ {
+  "lemma": "qui",
+  "cgram": "PRO:int",
+  "section": "other",
+  "freq": 13439.76,
+  "also": [
+   "PRO:rel"
+  ],
+  "rank": 16
+ },
+ {
+  "lemma": "on",
+  "cgram": "PRO:per",
+  "section": "other",
+  "freq": 13424.78,
+  "also": [],
+  "rank": 17
+ },
+ {
+  "lemma": "pour",
+  "cgram": "PRE",
+  "section": "other",
+  "freq": 13276.79,
+  "also": [
+   "NOM"
+  ],
+  "rank": 18
+ },
+ {
+  "lemma": "dans",
+  "cgram": "PRE",
+  "section": "other",
+  "freq": 12954.67,
+  "also": [],
+  "rank": 19
+ },
+ {
+  "lemma": "aller",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 12847.7,
+  "also": [
+   "NOM"
+  ],
+  "rank": 20
+ },
+ {
+  "lemma": "elle",
+  "cgram": "PRO:per",
+  "section": "other",
+  "freq": 11512.02,
+  "also": [],
+  "rank": 21
+ },
+ {
+  "lemma": "ça",
+  "cgram": "PRO:dem",
+  "section": "other",
+  "freq": 11411.3,
+  "also": [
+   "NOM"
+  ],
+  "rank": 22
+ },
+ {
+  "lemma": "du",
+  "cgram": "ART:def",
+  "section": "other",
+  "freq": 11276.86,
+  "also": [],
+  "rank": 23,
+  "forms": {
+   "ms": "du",
+   "fs": "de la",
+   "mp": "des",
+   "fp": "des"
+  }
+ },
+ {
+  "lemma": "dire",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 10778.65,
+  "also": [
+   "NOM"
+  ],
+  "rank": 24
+ },
+ {
+  "lemma": "mais",
+  "cgram": "CON",
+  "section": "other",
+  "freq": 9642.77,
+  "also": [],
+  "rank": 25
+ },
+ {
+  "lemma": "se",
+  "cgram": "PRO:per",
+  "section": "other",
+  "freq": 9401.54,
+  "also": [],
+  "rank": 26
+ },
+ {
+  "lemma": "me",
+  "cgram": "PRO:per",
+  "section": "other",
+  "freq": 9193.76,
+  "also": [],
+  "rank": 27
+ },
+ {
+  "lemma": "plus",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 9076.98,
+  "also": [
+   "NOM"
+  ],
+  "rank": 28
+ },
+ {
+  "lemma": "au",
+  "cgram": "ART:def",
+  "section": "other",
+  "freq": 9060.25,
+  "also": [],
+  "rank": 29,
+  "forms": {
+   "ms": "au",
+   "fs": "à la",
+   "mp": "aux",
+   "fp": "aux"
+  }
+ },
+ {
+  "lemma": "nous",
+  "cgram": "PRO:per",
+  "section": "other",
+  "freq": 8639.96,
+  "also": [],
+  "rank": 30
+ },
+ {
+  "lemma": "pouvoir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 8184.27,
+  "also": [
+   "NOM"
+  ],
+  "rank": 31
+ },
+ {
+  "lemma": "ce",
+  "cgram": "PRO:dem",
+  "section": "other",
+  "freq": 8177.68,
+  "also": [
+   "ADJ:dem"
+  ],
+  "rank": 32,
+  "forms": {
+   "ms": "ce",
+   "fs": "cette",
+   "mp": "ces",
+   "fp": "ces",
+   "ms2": "cet"
+  }
+ },
+ {
+  "lemma": "sur",
+  "cgram": "PRE",
+  "section": "other",
+  "freq": 7840.58,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 33
+ },
+ {
+  "lemma": "avec",
+  "cgram": "PRE",
+  "section": "other",
+  "freq": 7705.3,
+  "also": [],
+  "rank": 34
+ },
+ {
+  "lemma": "y",
+  "cgram": "PRO:per",
+  "section": "other",
+  "freq": 7433.31,
+  "also": [],
+  "rank": 35
+ },
+ {
+  "lemma": "que",
+  "cgram": "PRO:int",
+  "section": "other",
+  "freq": 7416.85,
+  "also": [
+   "PRO:rel"
+  ],
+  "rank": 36
+ },
+ {
+  "lemma": "vouloir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 6889.44,
+  "also": [],
+  "rank": 37
+ },
+ {
+  "lemma": "bien",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 6748.92,
+  "also": [
+   "ADJ",
+   "NOM"
+  ],
+  "rank": 38
+ },
+ {
+  "lemma": "lui",
+  "cgram": "PRO:per",
+  "section": "other",
+  "freq": 6533.88,
+  "also": [],
+  "rank": 39
+ },
+ {
+  "lemma": "voir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 6521.19,
+  "also": [],
+  "rank": 40
+ },
+ {
+  "lemma": "savoir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 6520.29,
+  "also": [
+   "NOM"
+  ],
+  "rank": 41
+ },
+ {
+  "lemma": "son",
+  "cgram": "ADJ:pos",
+  "section": "other",
+  "freq": 6436.58,
+  "also": [
+   "NOM"
+  ],
+  "rank": 42,
+  "forms": {
+   "ms": "son",
+   "fs": "sa",
+   "mp": "ses",
+   "fp": "ses"
+  }
+ },
+ {
+  "lemma": "mon",
+  "cgram": "ADJ:pos",
+  "section": "other",
+  "freq": 6156.96,
+  "also": [],
+  "rank": 43,
+  "forms": {
+   "ms": "mon",
+   "fs": "ma",
+   "mp": "mes",
+   "fp": "mes"
+  }
+ },
+ {
+  "lemma": "tout",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 6120.1,
+  "also": [
+   "ADJ:ind",
+   "ADV",
+   "NOM",
+   "PRO:ind"
+  ],
+  "rank": 44,
+  "forms": {
+   "ms": "tout",
+   "fs": "toute",
+   "mp": "tous",
+   "fp": "toutes"
+  }
+ },
+ {
+  "lemma": "ils",
+  "cgram": "PRO:per",
+  "section": "other",
+  "freq": 5884.6,
+  "also": [],
+  "rank": 45
+ },
+ {
+  "lemma": "comme",
+  "cgram": "CON",
+  "section": "other",
+  "freq": 5755.4,
+  "also": [
+   "ADV"
+  ],
+  "rank": 46
+ },
+ {
+  "lemma": "moi",
+  "cgram": "PRO:per",
+  "section": "other",
+  "freq": 5553.25,
+  "also": [
+   "NOM"
+  ],
+  "rank": 47
+ },
+ {
+  "lemma": "par",
+  "cgram": "PRE",
+  "section": "other",
+  "freq": 5480.11,
+  "also": [
+   "NOM"
+  ],
+  "rank": 48
+ },
+ {
+  "lemma": "non",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 5175.99,
+  "also": [
+   "NOM"
+  ],
+  "rank": 49
+ },
+ {
+  "lemma": "te",
+  "cgram": "PRO:per",
+  "section": "other",
+  "freq": 4780.42,
+  "also": [],
+  "rank": 50
+ },
+ {
+  "lemma": "devoir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 4550.75,
+  "also": [
+   "NOM"
+  ],
+  "rank": 51
+ },
+ {
+  "lemma": "venir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 4278.35,
+  "also": [],
+  "rank": 52
+ },
+ {
+  "lemma": "où",
+  "cgram": "PRO:int",
+  "section": "other",
+  "freq": 4245.36,
+  "also": [
+   "PRO:rel"
+  ],
+  "rank": 53
+ },
+ {
+  "lemma": "ou",
+  "cgram": "CON",
+  "section": "other",
+  "freq": 4013.81,
+  "also": [],
+  "rank": 54
+ },
+ {
+  "lemma": "rien",
+  "cgram": "PRO:ind",
+  "section": "other",
+  "freq": 3897.82,
+  "also": [
+   "NOM"
+  ],
+  "rank": 55
+ },
+ {
+  "lemma": "oui",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 3844.92,
+  "also": [],
+  "rank": 56
+ },
+ {
+  "lemma": "prendre",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 3380.25,
+  "also": [],
+  "rank": 57
+ },
+ {
+  "lemma": "quand",
+  "cgram": "CON",
+  "section": "other",
+  "freq": 3307.99,
+  "also": [],
+  "rank": 58
+ },
+ {
+  "lemma": "sans",
+  "cgram": "PRE",
+  "section": "other",
+  "freq": 3227.56,
+  "also": [],
+  "rank": 59
+ },
+ {
+  "lemma": "là",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 3186.19,
+  "also": [
+   "ONO"
+  ],
+  "rank": 60
+ },
+ {
+  "lemma": "parler",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 3056.56,
+  "also": [
+   "NOM"
+  ],
+  "rank": 61
+ },
+ {
+  "lemma": "suivre",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 3039.66,
+  "also": [],
+  "rank": 62
+ },
+ {
+  "lemma": "si",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 3032.07,
+  "also": [
+   "CON"
+  ],
+  "rank": 63
+ },
+ {
+  "lemma": "toi",
+  "cgram": "PRO:per",
+  "section": "other",
+  "freq": 2969.84,
+  "also": [],
+  "rank": 64
+ },
+ {
+  "lemma": "falloir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 2904.17,
+  "also": [],
+  "rank": 65
+ },
+ {
+  "lemma": "ici",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 2894.79,
+  "also": [],
+  "rank": 66
+ },
+ {
+  "lemma": "chose",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 2831.26,
+  "also": [],
+  "rank": 67,
+  "forms": {
+   "gender": "f",
+   "pl": "choses"
+  }
+ },
+ {
+  "lemma": "alors",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 2811.43,
+  "also": [],
+  "rank": 68
+ },
+ {
+  "lemma": "aussi",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 2762.19,
+  "also": [],
+  "rank": 69
+ },
+ {
+  "lemma": "encore",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 2755.99,
+  "also": [],
+  "rank": 70
+ },
+ {
+  "lemma": "très",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 2710.73,
+  "also": [],
+  "rank": 71
+ },
+ {
+  "lemma": "passer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 2660.76,
+  "also": [],
+  "rank": 72
+ },
+ {
+  "lemma": "croire",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 2659.22,
+  "also": [],
+  "rank": 73
+ },
+ {
+  "lemma": "petit",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 2648.76,
+  "also": [
+   "ADV",
+   "NOM"
+  ],
+  "rank": 74,
+  "forms": {
+   "ms": "petit",
+   "fs": "petite",
+   "mp": "petits",
+   "fp": "petites"
+  }
+ },
+ {
+  "lemma": "deux",
+  "cgram": "ADJ:num",
+  "section": "other",
+  "freq": 2566.92,
+  "also": [],
+  "rank": 75
+ },
+ {
+  "lemma": "homme",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 2522.4,
+  "also": [],
+  "rank": 76,
+  "forms": {
+   "gender": "m",
+   "pl": "hommes"
+  }
+ },
+ {
+  "lemma": "jamais",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 2483.19,
+  "also": [],
+  "rank": 77
+ },
+ {
+  "lemma": "aimer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 2450.68,
+  "also": [],
+  "rank": 78
+ },
+ {
+  "lemma": "jour",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 2403.68,
+  "also": [],
+  "rank": 79,
+  "forms": {
+   "gender": "m",
+   "pl": "jours"
+  }
+ },
+ {
+  "lemma": "penser",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 2355.27,
+  "also": [],
+  "rank": 80
+ },
+ {
+  "lemma": "bon",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 2344.1,
+  "also": [
+   "ADV",
+   "NOM",
+   "ONO"
+  ],
+  "rank": 81,
+  "forms": {
+   "ms": "bon",
+   "fs": "bonne",
+   "mp": "bons",
+   "fp": "bonnes"
+  }
+ },
+ {
+  "lemma": "votre",
+  "cgram": "ADJ:pos",
+  "section": "other",
+  "freq": 2322.0,
+  "also": [],
+  "rank": 82,
+  "forms": {
+   "ms": "votre",
+   "fs": "votre",
+   "mp": "vos",
+   "fp": "vos"
+  }
+ },
+ {
+  "lemma": "temps",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 2320.44,
+  "also": [],
+  "rank": 83,
+  "forms": {
+   "gender": "m"
+  }
+ },
+ {
+  "lemma": "trouver",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 2307.99,
+  "also": [],
+  "rank": 84
+ },
+ {
+  "lemma": "même",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 2266.34,
+  "also": [
+   "ADJ",
+   "PRO:ind"
+  ],
+  "rank": 85
+ },
+ {
+  "lemma": "regarder",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 2195.2,
+  "also": [],
+  "rank": 86
+ },
+ {
+  "lemma": "laisser",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 2185.65,
+  "also": [],
+  "rank": 87
+ },
+ {
+  "lemma": "toujours",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 2166.14,
+  "also": [],
+  "rank": 88
+ },
+ {
+  "lemma": "donner",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 2105.68,
+  "also": [],
+  "rank": 89
+ },
+ {
+  "lemma": "mettre",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 2088.55,
+  "also": [],
+  "rank": 90
+ },
+ {
+  "lemma": "attendre",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 2058.15,
+  "also": [],
+  "rank": 91
+ },
+ {
+  "lemma": "femme",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 2045.06,
+  "also": [],
+  "rank": 92,
+  "forms": {
+   "gender": "f",
+   "pl": "femmes"
+  }
+ },
+ {
+  "lemma": "fois",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 2039.25,
+  "also": [],
+  "rank": 93,
+  "forms": {
+   "gender": "f"
+  }
+ },
+ {
+  "lemma": "ton",
+  "cgram": "ADJ:pos",
+  "section": "other",
+  "freq": 2033.79,
+  "also": [
+   "NOM"
+  ],
+  "rank": 94,
+  "forms": {
+   "ms": "ton",
+   "fs": "ta",
+   "mp": "tes",
+   "fp": "tes"
+  }
+ },
+ {
+  "lemma": "arriver",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 1975.46,
+  "also": [],
+  "rank": 95
+ },
+ {
+  "lemma": "peu",
+  "cgram": "NOM",
+  "section": "adv",
+  "freq": 1918.16,
+  "also": [
+   "ADV"
+  ],
+  "rank": 96
+ },
+ {
+  "lemma": "demander",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 1894.23,
+  "also": [],
+  "rank": 97
+ },
+ {
+  "lemma": "grand",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 1883.38,
+  "also": [
+   "ADV",
+   "NOM"
+  ],
+  "rank": 98,
+  "forms": {
+   "ms": "grand",
+   "fs": "grande",
+   "mp": "grands",
+   "fp": "grandes"
+  }
+ },
+ {
+  "lemma": "vie",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 1874.53,
+  "also": [],
+  "rank": 99,
+  "forms": {
+   "gender": "f",
+   "pl": "vies"
+  }
+ },
+ {
+  "lemma": "seul",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 1806.72,
+  "also": [
+   "NOM"
+  ],
+  "rank": 100,
+  "forms": {
+   "ms": "seul",
+   "fs": "seule",
+   "mp": "seuls",
+   "fp": "seules"
+  }
+ },
+ {
+  "lemma": "rester",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 1797.34,
+  "also": [],
+  "rank": 101
+ },
+ {
+  "lemma": "main",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 1728.99,
+  "also": [],
+  "rank": 102,
+  "forms": {
+   "gender": "f",
+   "pl": "mains"
+  }
+ },
+ {
+  "lemma": "notre",
+  "cgram": "ADJ:pos",
+  "section": "other",
+  "freq": 1703.62,
+  "also": [],
+  "rank": 103,
+  "forms": {
+   "ms": "notre",
+   "fs": "notre",
+   "mp": "nos",
+   "fp": "nos"
+  }
+ },
+ {
+  "lemma": "autre",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 1656.23,
+  "also": [
+   "NOM",
+   "PRO:ind"
+  ],
+  "rank": 104,
+  "forms": {
+   "ms": "autre",
+   "fs": "autre",
+   "mp": "autres",
+   "fp": "autres"
+  }
+ },
+ {
+  "lemma": "trop",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 1649.54,
+  "also": [],
+  "rank": 105
+ },
+ {
+  "lemma": "oeil",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 1647.63,
+  "also": [],
+  "rank": 106,
+  "forms": {
+   "gender": "m",
+   "pl": "yeux"
+  }
+ },
+ {
+  "lemma": "heure",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 1633.84,
+  "also": [],
+  "rank": 107,
+  "forms": {
+   "gender": "f",
+   "pl": "heures"
+  }
+ },
+ {
+  "lemma": "appeler",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 1630.82,
+  "also": [],
+  "rank": 108
+ },
+ {
+  "lemma": "père",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 1619.06,
+  "also": [],
+  "rank": 109,
+  "forms": {
+   "gender": "m",
+   "pl": "pères"
+  }
+ },
+ {
+  "lemma": "peut-être",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 1605.65,
+  "also": [],
+  "rank": 110
+ },
+ {
+  "lemma": "partir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 1597.65,
+  "also": [],
+  "rank": 111
+ },
+ {
+  "lemma": "connaître",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 1590.29,
+  "also": [],
+  "rank": 112
+ },
+ {
+  "lemma": "monde",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 1572.07,
+  "also": [],
+  "rank": 113,
+  "forms": {
+   "gender": "m",
+   "pl": "mondes"
+  }
+ },
+ {
+  "lemma": "an",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 1552.39,
+  "also": [],
+  "rank": 114,
+  "forms": {
+   "gender": "m",
+   "pl": "ans"
+  }
+ },
+ {
+  "lemma": "pourquoi",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 1533.58,
+  "also": [
+   "CON"
+  ],
+  "rank": 115
+ },
+ {
+  "lemma": "maintenant",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 1525.62,
+  "also": [],
+  "rank": 116
+ },
+ {
+  "lemma": "chez",
+  "cgram": "PRE",
+  "section": "other",
+  "freq": 1522.72,
+  "also": [],
+  "rank": 117
+ },
+ {
+  "lemma": "sortir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 1511.83,
+  "also": [
+   "NOM"
+  ],
+  "rank": 118
+ },
+ {
+  "lemma": "comprendre",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 1508.31,
+  "also": [],
+  "rank": 119
+ },
+ {
+  "lemma": "enfant",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 1461.27,
+  "also": [],
+  "rank": 120,
+  "forms": {
+   "gender": "m",
+   "pl": "enfants"
+  }
+ },
+ {
+  "lemma": "arrêter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 1456.29,
+  "also": [],
+  "rank": 121
+ },
+ {
+  "lemma": "mère",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 1448.07,
+  "also": [],
+  "rank": 122,
+  "forms": {
+   "gender": "f",
+   "pl": "mères"
+  }
+ },
+ {
+  "lemma": "entendre",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 1447.79,
+  "also": [],
+  "rank": 123
+ },
+ {
+  "lemma": "quelque",
+  "cgram": "ADJ:ind",
+  "section": "other",
+  "freq": 1442.38,
+  "also": [
+   "ADV"
+  ],
+  "rank": 124
+ },
+ {
+  "lemma": "fille",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 1433.79,
+  "also": [],
+  "rank": 125,
+  "forms": {
+   "gender": "f",
+   "pl": "filles"
+  }
+ },
+ {
+  "lemma": "après",
+  "cgram": "PRE",
+  "section": "other",
+  "freq": 1415.47,
+  "also": [
+   "ADV"
+  ],
+  "rank": 126
+ },
+ {
+  "lemma": "tête",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 1399.32,
+  "also": [],
+  "rank": 127,
+  "forms": {
+   "gender": "f",
+   "pl": "têtes"
+  }
+ },
+ {
+  "lemma": "déjà",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 1384.12,
+  "also": [
+   "ONO"
+  ],
+  "rank": 128
+ },
+ {
+  "lemma": "sûr",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 1356.53,
+  "also": [],
+  "rank": 129,
+  "forms": {
+   "ms": "sûr",
+   "fs": "sûre",
+   "mp": "sûrs",
+   "fp": "sûres"
+  }
+ },
+ {
+  "lemma": "sous",
+  "cgram": "PRE",
+  "section": "other",
+  "freq": 1348.19,
+  "also": [],
+  "rank": 130
+ },
+ {
+  "lemma": "nuit",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 1324.78,
+  "also": [],
+  "rank": 131,
+  "forms": {
+   "gender": "f",
+   "pl": "nuits"
+  }
+ },
+ {
+  "lemma": "coup",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 1309.52,
+  "also": [],
+  "rank": 132,
+  "forms": {
+   "gender": "m",
+   "pl": "coups"
+  }
+ },
+ {
+  "lemma": "mourir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 1307.48,
+  "also": [],
+  "rank": 133
+ },
+ {
+  "lemma": "dieu",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 1299.9,
+  "also": [],
+  "rank": 134,
+  "forms": {
+   "gender": "m",
+   "pl": "dieux"
+  }
+ },
+ {
+  "lemma": "beau",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 1291.93,
+  "also": [
+   "ADV",
+   "NOM"
+  ],
+  "rank": 135,
+  "forms": {
+   "ms": "beau",
+   "fs": "belle",
+   "mp": "beaux",
+   "fp": "belles"
+  }
+ },
+ {
+  "lemma": "sentir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 1254.18,
+  "also": [],
+  "rank": 136
+ },
+ {
+  "lemma": "tenir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 1245.91,
+  "also": [],
+  "rank": 137
+ },
+ {
+  "lemma": "vraiment",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 1242.89,
+  "also": [],
+  "rank": 138
+ },
+ {
+  "lemma": "vrai",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 1237.1,
+  "also": [
+   "NOM"
+  ],
+  "rank": 139,
+  "forms": {
+   "ms": "vrai",
+   "fs": "vraie",
+   "mp": "vrais",
+   "fp": "vraies"
+  }
+ },
+ {
+  "lemma": "cela",
+  "cgram": "PRO:dem",
+  "section": "other",
+  "freq": 1234.38,
+  "also": [],
+  "rank": 140
+ },
+ {
+  "lemma": "entre",
+  "cgram": "PRE",
+  "section": "other",
+  "freq": 1206.71,
+  "also": [],
+  "rank": 141
+ },
+ {
+  "lemma": "moins",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 1196.93,
+  "also": [
+   "NOM"
+  ],
+  "rank": 142
+ },
+ {
+  "lemma": "vers",
+  "cgram": "PRE",
+  "section": "other",
+  "freq": 1183.92,
+  "also": [
+   "NOM"
+  ],
+  "rank": 143
+ },
+ {
+  "lemma": "dont",
+  "cgram": "PRO:int",
+  "section": "other",
+  "freq": 1183.75,
+  "also": [
+   "PRO:rel"
+  ],
+  "rank": 144
+ },
+ {
+  "lemma": "maison",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 1181.09,
+  "also": [],
+  "rank": 145,
+  "forms": {
+   "gender": "f",
+   "pl": "maisons"
+  }
+ },
+ {
+  "lemma": "air",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 1175.99,
+  "also": [],
+  "rank": 146,
+  "forms": {
+   "gender": "m",
+   "pl": "airs"
+  }
+ },
+ {
+  "lemma": "chercher",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 1161.45,
+  "also": [],
+  "rank": 147
+ },
+ {
+  "lemma": "soir",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 1138.34,
+  "also": [],
+  "rank": 148,
+  "forms": {
+   "gender": "m",
+   "pl": "soirs"
+  }
+ },
+ {
+  "lemma": "moment",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 1121.83,
+  "also": [],
+  "rank": 149,
+  "forms": {
+   "gender": "m",
+   "pl": "moments"
+  }
+ },
+ {
+  "lemma": "revenir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 1109.16,
+  "also": [],
+  "rank": 150
+ },
+ {
+  "lemma": "avant",
+  "cgram": "PRE",
+  "section": "other",
+  "freq": 1103.83,
+  "also": [
+   "ADJ",
+   "ADV",
+   "NOM"
+  ],
+  "rank": 151
+ },
+ {
+  "lemma": "ami",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 1102.1,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 152,
+  "forms": {
+   "gender": "m",
+   "pl": "amis",
+   "fem": "amie"
+  }
+ },
+ {
+  "lemma": "tuer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 1099.21,
+  "also": [],
+  "rank": 153
+ },
+ {
+  "lemma": "oh",
+  "cgram": "ONO",
+  "section": "other",
+  "freq": 1094.61,
+  "also": [],
+  "rank": 154
+ },
+ {
+  "lemma": "puis",
+  "cgram": "CON",
+  "section": "other",
+  "freq": 1092.61,
+  "also": [
+   "ADV"
+  ],
+  "rank": 155
+ },
+ {
+  "lemma": "comment",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 1087.86,
+  "also": [
+   "CON",
+   "ONO"
+  ],
+  "rank": 156
+ },
+ {
+  "lemma": "beaucoup",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 1087.42,
+  "also": [],
+  "rank": 157
+ },
+ {
+  "lemma": "monsieur",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 1063.98,
+  "also": [],
+  "rank": 158,
+  "forms": {
+   "gender": "m",
+   "pl": "messieurs"
+  }
+ },
+ {
+  "lemma": "donc",
+  "cgram": "CON",
+  "section": "other",
+  "freq": 1058.39,
+  "also": [],
+  "rank": 159
+ },
+ {
+  "lemma": "voilà",
+  "cgram": "PRE",
+  "section": "other",
+  "freq": 1055.56,
+  "also": [],
+  "rank": 160
+ },
+ {
+  "lemma": "mieux",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 1050.11,
+  "also": [
+   "NOM"
+  ],
+  "rank": 161
+ },
+ {
+  "lemma": "premier",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 1049.55,
+  "also": [
+   "NOM"
+  ],
+  "rank": 162,
+  "forms": {
+   "ms": "premier",
+   "fs": "première",
+   "mp": "premiers",
+   "fp": "premières"
+  }
+ },
+ {
+  "lemma": "trois",
+  "cgram": "ADJ:num",
+  "section": "other",
+  "freq": 1041.14,
+  "also": [],
+  "rank": 163
+ },
+ {
+  "lemma": "ni",
+  "cgram": "CON",
+  "section": "other",
+  "freq": 1040.0,
+  "also": [],
+  "rank": 164
+ },
+ {
+  "lemma": "besoin",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 1037.86,
+  "also": [],
+  "rank": 165,
+  "forms": {
+   "gender": "m",
+   "pl": "besoins"
+  }
+ },
+ {
+  "lemma": "depuis",
+  "cgram": "PRE",
+  "section": "other",
+  "freq": 1026.59,
+  "also": [
+   "ADV"
+  ],
+  "rank": 166
+ },
+ {
+  "lemma": "elles",
+  "cgram": "PRO:per",
+  "section": "other",
+  "freq": 1025.65,
+  "also": [],
+  "rank": 167
+ },
+ {
+  "lemma": "gens",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 1003.68,
+  "also": [],
+  "rank": 168,
+  "forms": {
+   "gender": ""
+  }
+ },
+ {
+  "lemma": "merci",
+  "cgram": "ONO",
+  "section": "other",
+  "freq": 978.37,
+  "also": [
+   "NOM"
+  ],
+  "rank": 169
+ },
+ {
+  "lemma": "rendre",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 976.92,
+  "also": [],
+  "rank": 170
+ },
+ {
+  "lemma": "finir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 975.58,
+  "also": [],
+  "rank": 171
+ },
+ {
+  "lemma": "devenir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 972.08,
+  "also": [
+   "NOM"
+  ],
+  "rank": 172
+ },
+ {
+  "lemma": "vivre",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 970.53,
+  "also": [
+   "NOM"
+  ],
+  "rank": 173
+ },
+ {
+  "lemma": "essayer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 967.09,
+  "also": [],
+  "rank": 174
+ },
+ {
+  "lemma": "nom",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 965.67,
+  "also": [],
+  "rank": 175,
+  "forms": {
+   "gender": "m",
+   "pl": "noms"
+  }
+ },
+ {
+  "lemma": "porte",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 951.28,
+  "also": [],
+  "rank": 176,
+  "forms": {
+   "gender": "f",
+   "pl": "portes"
+  }
+ },
+ {
+  "lemma": "perdre",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 923.44,
+  "also": [],
+  "rank": 177
+ },
+ {
+  "lemma": "quel",
+  "cgram": "ADJ:int",
+  "section": "other",
+  "freq": 923.05,
+  "also": [],
+  "rank": 178,
+  "forms": {
+   "ms": "quel",
+   "fs": "quelle",
+   "mp": "quels",
+   "fp": "quelles"
+  }
+ },
+ {
+  "lemma": "mort",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 912.75,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 179,
+  "forms": {
+   "gender": "f",
+   "pl": "morts"
+  }
+ },
+ {
+  "lemma": "jouer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 907.35,
+  "also": [],
+  "rank": 180
+ },
+ {
+  "lemma": "ouvrir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 905.82,
+  "also": [],
+  "rank": 181
+ },
+ {
+  "lemma": "contre",
+  "cgram": "PRE",
+  "section": "other",
+  "freq": 904.86,
+  "also": [
+   "NOM"
+  ],
+  "rank": 182
+ },
+ {
+  "lemma": "accord",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 902.35,
+  "also": [],
+  "rank": 183,
+  "forms": {
+   "gender": "m",
+   "pl": "accords"
+  }
+ },
+ {
+  "lemma": "devant",
+  "cgram": "PRE",
+  "section": "other",
+  "freq": 898.53,
+  "also": [
+   "ADV",
+   "NOM"
+  ],
+  "rank": 184
+ },
+ {
+  "lemma": "personne",
+  "cgram": "PRO:ind",
+  "section": "other",
+  "freq": 889.76,
+  "also": [
+   "NOM"
+  ],
+  "rank": 185
+ },
+ {
+  "lemma": "parce que",
+  "cgram": "CON",
+  "section": "other",
+  "freq": 875.95,
+  "also": [],
+  "rank": 186
+ },
+ {
+  "lemma": "ah",
+  "cgram": "ONO",
+  "section": "other",
+  "freq": 873.69,
+  "also": [],
+  "rank": 187
+ },
+ {
+  "lemma": "peur",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 868.9,
+  "also": [],
+  "rank": 188,
+  "forms": {
+   "gender": "f",
+   "pl": "peurs"
+  }
+ },
+ {
+  "lemma": "jeune",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 866.2,
+  "also": [
+   "NOM"
+  ],
+  "rank": 189,
+  "forms": {
+   "ms": "jeune",
+   "fs": "jeune",
+   "mp": "jeunes",
+   "fp": "jeunes"
+  }
+ },
+ {
+  "lemma": "amour",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 862.19,
+  "also": [],
+  "rank": 190,
+  "forms": {
+   "gender": "m",
+   "pl": "amours"
+  }
+ },
+ {
+  "lemma": "commencer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 858.72,
+  "also": [],
+  "rank": 191
+ },
+ {
+  "lemma": "côté",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 852.48,
+  "also": [],
+  "rank": 192,
+  "forms": {
+   "gender": "m",
+   "pl": "côtés"
+  }
+ },
+ {
+  "lemma": "tomber",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 849.24,
+  "also": [],
+  "rank": 193
+ },
+ {
+  "lemma": "entrer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 848.49,
+  "also": [],
+  "rank": 194
+ },
+ {
+  "lemma": "aider",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 847.36,
+  "also": [],
+  "rank": 195
+ },
+ {
+  "lemma": "vite",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 843.53,
+  "also": [],
+  "rank": 196
+ },
+ {
+  "lemma": "dernier",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 834.19,
+  "also": [
+   "NOM"
+  ],
+  "rank": 197,
+  "forms": {
+   "ms": "dernier",
+   "fs": "dernière",
+   "mp": "derniers",
+   "fp": "dernières"
+  }
+ },
+ {
+  "lemma": "mot",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 833.33,
+  "also": [],
+  "rank": 198,
+  "forms": {
+   "gender": "m",
+   "pl": "mots"
+  }
+ },
+ {
+  "lemma": "assez",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 827.89,
+  "also": [],
+  "rank": 199
+ },
+ {
+  "lemma": "tant",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 816.76,
+  "also": [],
+  "rank": 200
+ },
+ {
+  "lemma": "rentrer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 812.44,
+  "also": [],
+  "rank": 201
+ },
+ {
+  "lemma": "juste",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 810.31,
+  "also": [
+   "ADV",
+   "NOM"
+  ],
+  "rank": 202,
+  "forms": {
+   "ms": "juste",
+   "fs": "juste",
+   "mp": "justes",
+   "fp": "justes"
+  }
+ },
+ {
+  "lemma": "mal",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 803.41,
+  "also": [
+   "ADJ",
+   "NOM"
+  ],
+  "rank": 203
+ },
+ {
+  "lemma": "sembler",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 802.09,
+  "also": [],
+  "rank": 204
+ },
+ {
+  "lemma": "eux",
+  "cgram": "PRO:per",
+  "section": "other",
+  "freq": 799.61,
+  "also": [],
+  "rank": 205
+ },
+ {
+  "lemma": "tirer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 798.38,
+  "also": [],
+  "rank": 206
+ },
+ {
+  "lemma": "vieux",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 795.11,
+  "also": [
+   "NOM"
+  ],
+  "rank": 207,
+  "forms": {
+   "ms": "vieux",
+   "fs": "vieille",
+   "mp": "vieux",
+   "fp": "vieilles"
+  }
+ },
+ {
+  "lemma": "porter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 794.91,
+  "also": [
+   "NOM"
+  ],
+  "rank": 208
+ },
+ {
+  "lemma": "écouter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 784.98,
+  "also": [],
+  "rank": 209
+ },
+ {
+  "lemma": "raison",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 776.72,
+  "also": [],
+  "rank": 210,
+  "forms": {
+   "gender": "f",
+   "pl": "raisons"
+  }
+ },
+ {
+  "lemma": "oublier",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 773.92,
+  "also": [],
+  "rank": 211
+ },
+ {
+  "lemma": "place",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 769.88,
+  "also": [],
+  "rank": 212,
+  "forms": {
+   "gender": "f",
+   "pl": "places"
+  }
+ },
+ {
+  "lemma": "fait",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 767.61,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 213,
+  "forms": {
+   "gender": "m",
+   "pl": "faits"
+  }
+ },
+ {
+  "lemma": "eau",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 765.6,
+  "also": [],
+  "rank": 214,
+  "forms": {
+   "gender": "f",
+   "pl": "eaux"
+  }
+ },
+ {
+  "lemma": "pendant",
+  "cgram": "PRE",
+  "section": "other",
+  "freq": 762.76,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 215
+ },
+ {
+  "lemma": "quelqu'un",
+  "cgram": "PRO:ind",
+  "section": "other",
+  "freq": 757.92,
+  "also": [],
+  "rank": 216
+ },
+ {
+  "lemma": "manger",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 748.43,
+  "also": [
+   "NOM"
+  ],
+  "rank": 217
+ },
+ {
+  "lemma": "terre",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 747.36,
+  "also": [],
+  "rank": 218,
+  "forms": {
+   "gender": "f",
+   "pl": "terres"
+  }
+ },
+ {
+  "lemma": "plaire",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 747.01,
+  "also": [],
+  "rank": 219
+ },
+ {
+  "lemma": "voix",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 743.53,
+  "also": [],
+  "rank": 220,
+  "forms": {
+   "gender": "f"
+  }
+ },
+ {
+  "lemma": "question",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 740.27,
+  "also": [],
+  "rank": 221,
+  "forms": {
+   "gender": "f",
+   "pl": "questions"
+  }
+ },
+ {
+  "lemma": "chaque",
+  "cgram": "ADJ:ind",
+  "section": "other",
+  "freq": 732.64,
+  "also": [],
+  "rank": 222
+ },
+ {
+  "lemma": "corps",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 730.49,
+  "also": [],
+  "rank": 223,
+  "forms": {
+   "gender": "m"
+  }
+ },
+ {
+  "lemma": "fils",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 727.79,
+  "also": [],
+  "rank": 224,
+  "forms": {
+   "gender": "m"
+  }
+ },
+ {
+  "lemma": "rue",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 720.78,
+  "also": [],
+  "rank": 225,
+  "forms": {
+   "gender": "f",
+   "pl": "rues"
+  }
+ },
+ {
+  "lemma": "histoire",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 719.45,
+  "also": [],
+  "rank": 226,
+  "forms": {
+   "gender": "f",
+   "pl": "histoires"
+  }
+ },
+ {
+  "lemma": "répondre",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 718.33,
+  "also": [],
+  "rank": 227
+ },
+ {
+  "lemma": "idée",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 718.22,
+  "also": [],
+  "rank": 228,
+  "forms": {
+   "gender": "f",
+   "pl": "idées"
+  }
+ },
+ {
+  "lemma": "asseoir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 717.98,
+  "also": [],
+  "rank": 229
+ },
+ {
+  "lemma": "voiture",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 712.51,
+  "also": [],
+  "rank": 230,
+  "forms": {
+   "gender": "f",
+   "pl": "voitures"
+  }
+ },
+ {
+  "lemma": "retrouver",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 711.39,
+  "also": [],
+  "rank": 231
+ },
+ {
+  "lemma": "leur",
+  "cgram": "PRO:per",
+  "section": "other",
+  "freq": 711.32,
+  "also": [
+   "PRO:pos"
+  ],
+  "rank": 232,
+  "forms": {
+   "ms": "leur",
+   "fs": "leur",
+   "mp": "leurs",
+   "fp": "leurs"
+  }
+ },
+ {
+  "lemma": "argent",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 709.49,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 233,
+  "forms": {
+   "gender": "m",
+   "pl": "argents"
+  }
+ },
+ {
+  "lemma": "car",
+  "cgram": "CON",
+  "section": "other",
+  "freq": 706.52,
+  "also": [
+   "NOM"
+  ],
+  "rank": 234
+ },
+ {
+  "lemma": "visage",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 706.23,
+  "also": [],
+  "rank": 235,
+  "forms": {
+   "gender": "m",
+   "pl": "visages"
+  }
+ },
+ {
+  "lemma": "enfin",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 706.1,
+  "also": [],
+  "rank": 236
+ },
+ {
+  "lemma": "chambre",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 701.95,
+  "also": [],
+  "rank": 237,
+  "forms": {
+   "gender": "f",
+   "pl": "chambres"
+  }
+ },
+ {
+  "lemma": "loin",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 700.7,
+  "also": [],
+  "rank": 238
+ },
+ {
+  "lemma": "pied",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 700.5,
+  "also": [],
+  "rank": 239,
+  "forms": {
+   "gender": "m",
+   "pl": "pieds"
+  }
+ },
+ {
+  "lemma": "tard",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 694.64,
+  "also": [
+   "NOM"
+  ],
+  "rank": 240
+ },
+ {
+  "lemma": "année",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 691.79,
+  "also": [],
+  "rank": 241,
+  "forms": {
+   "gender": "f",
+   "pl": "années"
+  }
+ },
+ {
+  "lemma": "marcher",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 689.98,
+  "also": [],
+  "rank": 242
+ },
+ {
+  "lemma": "maman",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 684.6,
+  "also": [],
+  "rank": 243,
+  "forms": {
+   "gender": "f",
+   "pl": "mamans"
+  }
+ },
+ {
+  "lemma": "travailler",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 682.19,
+  "also": [],
+  "rank": 244
+ },
+ {
+  "lemma": "monter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 681.91,
+  "also": [],
+  "rank": 245
+ },
+ {
+  "lemma": "seulement",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 677.22,
+  "also": [],
+  "rank": 246
+ },
+ {
+  "lemma": "ainsi",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 677.14,
+  "also": [],
+  "rank": 247
+ },
+ {
+  "lemma": "matin",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 671.77,
+  "also": [],
+  "rank": 248,
+  "forms": {
+   "gender": "m",
+   "pl": "matins"
+  }
+ },
+ {
+  "lemma": "famille",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 659.31,
+  "also": [],
+  "rank": 249,
+  "forms": {
+   "gender": "f",
+   "pl": "familles"
+  }
+ },
+ {
+  "lemma": "changer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 658.48,
+  "also": [],
+  "rank": 250
+ },
+ {
+  "lemma": "travail",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 653.28,
+  "also": [],
+  "rank": 251,
+  "forms": {
+   "gender": "m",
+   "pl": "travaux"
+  }
+ },
+ {
+  "lemma": "dormir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 651.14,
+  "also": [],
+  "rank": 252
+ },
+ {
+  "lemma": "ville",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 648.11,
+  "also": [],
+  "rank": 253,
+  "forms": {
+   "gender": "f",
+   "pl": "villes"
+  }
+ },
+ {
+  "lemma": "écrire",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 647.74,
+  "also": [],
+  "rank": 254
+ },
+ {
+  "lemma": "presque",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 647.35,
+  "also": [],
+  "rank": 255
+ },
+ {
+  "lemma": "affaire",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 647.21,
+  "also": [],
+  "rank": 256,
+  "forms": {
+   "gender": "f",
+   "pl": "affaires"
+  }
+ },
+ {
+  "lemma": "coeur",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 640.71,
+  "also": [],
+  "rank": 257,
+  "forms": {
+   "gender": "m",
+   "pl": "coeurs"
+  }
+ },
+ {
+  "lemma": "bras",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 637.23,
+  "also": [],
+  "rank": 258,
+  "forms": {
+   "gender": "m"
+  }
+ },
+ {
+  "lemma": "apprendre",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 635.16,
+  "also": [],
+  "rank": 259
+ },
+ {
+  "lemma": "noir",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 627.04,
+  "also": [
+   "NOM"
+  ],
+  "rank": 260,
+  "forms": {
+   "ms": "noir",
+   "fs": "noire",
+   "mp": "noirs",
+   "fp": "noires"
+  }
+ },
+ {
+  "lemma": "part",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 626.3,
+  "also": [],
+  "rank": 261,
+  "forms": {
+   "gender": "f",
+   "pl": "parts"
+  }
+ },
+ {
+  "lemma": "poser",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 626.25,
+  "also": [],
+  "rank": 262
+ },
+ {
+  "lemma": "longtemps",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 625.9,
+  "also": [],
+  "rank": 263
+ },
+ {
+  "lemma": "bonjour",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 622.12,
+  "also": [],
+  "rank": 264,
+  "forms": {
+   "gender": "m",
+   "pl": "bonjours"
+  }
+ },
+ {
+  "lemma": "gros",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 620.4,
+  "also": [
+   "NOM"
+  ],
+  "rank": 265,
+  "forms": {
+   "ms": "gros",
+   "fs": "grosse",
+   "mp": "gros",
+   "fp": "grosses"
+  }
+ },
+ {
+  "lemma": "mois",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 617.17,
+  "also": [],
+  "rank": 266,
+  "forms": {
+   "gender": "m"
+  }
+ },
+ {
+  "lemma": "problème",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 615.07,
+  "also": [],
+  "rank": 267,
+  "forms": {
+   "gender": "m",
+   "pl": "problèmes"
+  }
+ },
+ {
+  "lemma": "boire",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 613.37,
+  "also": [],
+  "rank": 268
+ },
+ {
+  "lemma": "long",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 608.88,
+  "also": [
+   "NOM"
+  ],
+  "rank": 269,
+  "forms": {
+   "ms": "long",
+   "fs": "longue",
+   "mp": "longs",
+   "fp": "longues"
+  }
+ },
+ {
+  "lemma": "frère",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 606.74,
+  "also": [],
+  "rank": 270,
+  "forms": {
+   "gender": "m",
+   "pl": "frères"
+  }
+ },
+ {
+  "lemma": "lever",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 606.72,
+  "also": [
+   "NOM"
+  ],
+  "rank": 271
+ },
+ {
+  "lemma": "lire",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 605.89,
+  "also": [
+   "NOM"
+  ],
+  "rank": 272
+ },
+ {
+  "lemma": "montrer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 603.88,
+  "also": [],
+  "rank": 273
+ },
+ {
+  "lemma": "peine",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 599.28,
+  "also": [],
+  "rank": 274,
+  "forms": {
+   "gender": "f",
+   "pl": "peines"
+  }
+ },
+ {
+  "lemma": "servir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 596.03,
+  "also": [],
+  "rank": 275
+ },
+ {
+  "lemma": "garder",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 595.9,
+  "also": [],
+  "rank": 276
+ },
+ {
+  "lemma": "quitter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 594.95,
+  "also": [],
+  "rank": 277
+ },
+ {
+  "lemma": "occuper",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 594.94,
+  "also": [],
+  "rank": 278
+ },
+ {
+  "lemma": "tourner",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 581.24,
+  "also": [],
+  "rank": 279
+ },
+ {
+  "lemma": "plein",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 579.16,
+  "also": [
+   "NOM",
+   "PRE"
+  ],
+  "rank": 280,
+  "forms": {
+   "ms": "plein",
+   "fs": "pleine",
+   "mp": "pleins",
+   "fp": "pleines"
+  }
+ },
+ {
+  "lemma": "guerre",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 576.24,
+  "also": [],
+  "rank": 281,
+  "forms": {
+   "gender": "f",
+   "pl": "guerres"
+  }
+ },
+ {
+  "lemma": "foutre",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 572.97,
+  "also": [
+   "NOM"
+  ],
+  "rank": 282
+ },
+ {
+  "lemma": "paraître",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 570.25,
+  "also": [],
+  "rank": 283
+ },
+ {
+  "lemma": "celui",
+  "cgram": "PRO:dem",
+  "section": "other",
+  "freq": 569.32,
+  "also": [],
+  "rank": 284,
+  "forms": {
+   "ms": "celui",
+   "fs": "celle",
+   "mp": "ceux",
+   "fp": "celles"
+  }
+ },
+ {
+  "lemma": "payer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 566.88,
+  "also": [],
+  "rank": 285
+ },
+ {
+  "lemma": "eh",
+  "cgram": "ONO",
+  "section": "other",
+  "freq": 562.62,
+  "also": [],
+  "rank": 286
+ },
+ {
+  "lemma": "demain",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 559.97,
+  "also": [
+   "NOM"
+  ],
+  "rank": 287
+ },
+ {
+  "lemma": "continuer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 552.72,
+  "also": [],
+  "rank": 288
+ },
+ {
+  "lemma": "suite",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 551.71,
+  "also": [],
+  "rank": 289,
+  "forms": {
+   "gender": "f",
+   "pl": "suites"
+  }
+ },
+ {
+  "lemma": "blanc",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 549.28,
+  "also": [
+   "NOM"
+  ],
+  "rank": 290,
+  "forms": {
+   "ms": "blanc",
+   "fs": "blanche",
+   "mp": "blancs",
+   "fp": "blanches"
+  }
+ },
+ {
+  "lemma": "point",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 548.9,
+  "also": [
+   "ADV"
+  ],
+  "rank": 291,
+  "forms": {
+   "gender": "m",
+   "pl": "points"
+  }
+ },
+ {
+  "lemma": "train",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 543.93,
+  "also": [],
+  "rank": 292,
+  "forms": {
+   "gender": "m",
+   "pl": "trains"
+  }
+ },
+ {
+  "lemma": "minute",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 543.7,
+  "also": [],
+  "rank": 293,
+  "forms": {
+   "gender": "f",
+   "pl": "minutes"
+  }
+ },
+ {
+  "lemma": "envoyer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 537.8,
+  "also": [],
+  "rank": 294
+ },
+ {
+  "lemma": "descendre",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 537.59,
+  "also": [],
+  "rank": 295
+ },
+ {
+  "lemma": "retourner",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 536.23,
+  "also": [],
+  "rank": 296
+ },
+ {
+  "lemma": "souvenir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 530.46,
+  "also": [
+   "NOM"
+  ],
+  "rank": 297
+ },
+ {
+  "lemma": "instant",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 529.61,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 298,
+  "forms": {
+   "gender": "m",
+   "pl": "instants"
+  }
+ },
+ {
+  "lemma": "jeter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 529.0,
+  "also": [],
+  "rank": 299
+ },
+ {
+  "lemma": "fin",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 527.9,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 300,
+  "forms": {
+   "gender": "",
+   "pl": "fins"
+  }
+ },
+ {
+  "lemma": "bout",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 526.44,
+  "also": [],
+  "rank": 301,
+  "forms": {
+   "gender": "m",
+   "pl": "bouts"
+  }
+ },
+ {
+  "lemma": "lit",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 522.45,
+  "also": [],
+  "rank": 302,
+  "forms": {
+   "gender": "m",
+   "pl": "lits"
+  }
+ },
+ {
+  "lemma": "nouveau",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 522.4,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 303,
+  "forms": {
+   "gender": "m",
+   "pl": "nouveaux",
+   "fem": "nouvelle"
+  }
+ },
+ {
+  "lemma": "type",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 519.04,
+  "also": [],
+  "rank": 304,
+  "forms": {
+   "gender": "m",
+   "pl": "types"
+  }
+ },
+ {
+  "lemma": "aujourd'hui",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 518.41,
+  "also": [],
+  "rank": 305
+ },
+ {
+  "lemma": "raconter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 515.73,
+  "also": [],
+  "rank": 306
+ },
+ {
+  "lemma": "garçon",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 514.01,
+  "also": [],
+  "rank": 307,
+  "forms": {
+   "gender": "m",
+   "pl": "garçons"
+  }
+ },
+ {
+  "lemma": "sang",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 512.05,
+  "also": [],
+  "rank": 308,
+  "forms": {
+   "gender": "m",
+   "pl": "sangs"
+  }
+ },
+ {
+  "lemma": "madame",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 510.81,
+  "also": [],
+  "rank": 309,
+  "forms": {
+   "gender": "f",
+   "pl": "mesdames"
+  }
+ },
+ {
+  "lemma": "façon",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 507.78,
+  "also": [],
+  "rank": 310,
+  "forms": {
+   "gender": "f",
+   "pl": "façons"
+  }
+ },
+ {
+  "lemma": "tour",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 502.54,
+  "also": [],
+  "rank": 311,
+  "forms": {
+   "gender": "",
+   "pl": "tours"
+  }
+ },
+ {
+  "lemma": "combien",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 498.62,
+  "also": [],
+  "rank": 312
+ },
+ {
+  "lemma": "table",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 498.17,
+  "also": [],
+  "rank": 313,
+  "forms": {
+   "gender": "f",
+   "pl": "tables"
+  }
+ },
+ {
+  "lemma": "cas",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 497.95,
+  "also": [],
+  "rank": 314,
+  "forms": {
+   "gender": "m"
+  }
+ },
+ {
+  "lemma": "chance",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 496.95,
+  "also": [],
+  "rank": 315,
+  "forms": {
+   "gender": "f",
+   "pl": "chances"
+  }
+ },
+ {
+  "lemma": "force",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 496.69,
+  "also": [
+   "ADJ:ind"
+  ],
+  "rank": 316,
+  "forms": {
+   "gender": "f",
+   "pl": "forces"
+  }
+ },
+ {
+  "lemma": "plutôt",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 491.14,
+  "also": [],
+  "rank": 317
+ },
+ {
+  "lemma": "semaine",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 488.35,
+  "also": [],
+  "rank": 318,
+  "forms": {
+   "gender": "f",
+   "pl": "semaines"
+  }
+ },
+ {
+  "lemma": "fond",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 486.22,
+  "also": [],
+  "rank": 319,
+  "forms": {
+   "gender": "m"
+  }
+ },
+ {
+  "lemma": "fou",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 485.63,
+  "also": [
+   "NOM"
+  ],
+  "rank": 320,
+  "forms": {
+   "ms": "fou",
+   "fs": "folle",
+   "mp": "fous",
+   "fp": "folles"
+  }
+ },
+ {
+  "lemma": "livre",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 484.6,
+  "also": [],
+  "rank": 321,
+  "forms": {
+   "gender": "",
+   "pl": "livres"
+  }
+ },
+ {
+  "lemma": "regard",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 484.53,
+  "also": [],
+  "rank": 322,
+  "forms": {
+   "gender": "m",
+   "pl": "regards"
+  }
+ },
+ {
+  "lemma": "rappeler",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 483.98,
+  "also": [],
+  "rank": 323
+ },
+ {
+  "lemma": "gagner",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 475.32,
+  "also": [],
+  "rank": 324
+ },
+ {
+  "lemma": "ailleurs",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 475.09,
+  "also": [],
+  "rank": 325
+ },
+ {
+  "lemma": "envie",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 472.07,
+  "also": [],
+  "rank": 326,
+  "forms": {
+   "gender": "f",
+   "pl": "envies"
+  }
+ },
+ {
+  "lemma": "pourtant",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 471.48,
+  "also": [],
+  "rank": 327
+ },
+ {
+  "lemma": "feu",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 470.11,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 328,
+  "forms": {
+   "gender": "m",
+   "pl": "feux"
+  }
+ },
+ {
+  "lemma": "truc",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 469.11,
+  "also": [],
+  "rank": 329,
+  "forms": {
+   "gender": "m",
+   "pl": "trucs"
+  }
+ },
+ {
+  "lemma": "reprendre",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 467.06,
+  "also": [],
+  "rank": 330
+ },
+ {
+  "lemma": "excuser",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 461.01,
+  "also": [],
+  "rank": 331
+ },
+ {
+  "lemma": "rire",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 460.78,
+  "also": [
+   "NOM"
+  ],
+  "rank": 332
+ },
+ {
+  "lemma": "toucher",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 460.54,
+  "also": [
+   "NOM"
+  ],
+  "rank": 333
+ },
+ {
+  "lemma": "doute",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 458.25,
+  "also": [],
+  "rank": 334,
+  "forms": {
+   "gender": "m",
+   "pl": "doutes"
+  }
+ },
+ {
+  "lemma": "soleil",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 457.73,
+  "also": [],
+  "rank": 335,
+  "forms": {
+   "gender": "m",
+   "pl": "soleils"
+  }
+ },
+ {
+  "lemma": "route",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 454.76,
+  "also": [],
+  "rank": 336,
+  "forms": {
+   "gender": "f",
+   "pl": "routes"
+  }
+ },
+ {
+  "lemma": "derrière",
+  "cgram": "PRE",
+  "section": "other",
+  "freq": 454.49,
+  "also": [
+   "ADV",
+   "NOM"
+  ],
+  "rank": 337
+ },
+ {
+  "lemma": "mauvais",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 453.3,
+  "also": [
+   "NOM"
+  ],
+  "rank": 338,
+  "forms": {
+   "ms": "mauvais",
+   "fs": "mauvaise",
+   "mp": "mauvais",
+   "fp": "mauvaises"
+  }
+ },
+ {
+  "lemma": "ordre",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 452.59,
+  "also": [],
+  "rank": 339,
+  "forms": {
+   "gender": "m",
+   "pl": "ordres"
+  }
+ },
+ {
+  "lemma": "manquer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 451.58,
+  "also": [],
+  "rank": 340
+ },
+ {
+  "lemma": "lieu",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 449.57,
+  "also": [],
+  "rank": 341,
+  "forms": {
+   "gender": "m",
+   "pl": "lieux"
+  }
+ },
+ {
+  "lemma": "autour",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 448.57,
+  "also": [],
+  "rank": 342
+ },
+ {
+  "lemma": "ciel",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 447.52,
+  "also": [],
+  "rank": 343,
+  "forms": {
+   "gender": "m",
+   "pl": "ciels"
+  }
+ },
+ {
+  "lemma": "pays",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 444.12,
+  "also": [],
+  "rank": 344,
+  "forms": {
+   "gender": "m"
+  }
+ },
+ {
+  "lemma": "parfois",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 440.22,
+  "also": [],
+  "rank": 345
+ },
+ {
+  "lemma": "surtout",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 440.15,
+  "also": [],
+  "rank": 346
+ },
+ {
+  "lemma": "acheter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 439.08,
+  "also": [],
+  "rank": 347
+ },
+ {
+  "lemma": "heureux",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 438.45,
+  "also": [
+   "NOM"
+  ],
+  "rank": 348,
+  "forms": {
+   "ms": "heureux",
+   "fs": "heureuse",
+   "mp": "heureux",
+   "fp": "heureuses"
+  }
+ },
+ {
+  "lemma": "espérer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 436.01,
+  "also": [],
+  "rank": 349
+ },
+ {
+  "lemma": "prêt",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 435.92,
+  "also": [
+   "NOM"
+  ],
+  "rank": 350,
+  "forms": {
+   "ms": "prêt",
+   "fs": "prête",
+   "mp": "prêts",
+   "fp": "prêtes"
+  }
+ },
+ {
+  "lemma": "fermer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 435.81,
+  "also": [],
+  "rank": 351
+ },
+ {
+  "lemma": "imaginer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 435.44,
+  "also": [],
+  "rank": 352
+ },
+ {
+  "lemma": "expliquer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 434.85,
+  "also": [],
+  "rank": 353
+ },
+ {
+  "lemma": "quatre",
+  "cgram": "ADJ:num",
+  "section": "other",
+  "freq": 433.57,
+  "also": [],
+  "rank": 354
+ },
+ {
+  "lemma": "importer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 432.48,
+  "also": [],
+  "rank": 355
+ },
+ {
+  "lemma": "silence",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 431.97,
+  "also": [],
+  "rank": 356,
+  "forms": {
+   "gender": "m",
+   "pl": "silences"
+  }
+ },
+ {
+  "lemma": "compter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 431.5,
+  "also": [],
+  "rank": 357
+ },
+ {
+  "lemma": "rencontrer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 429.55,
+  "also": [],
+  "rank": 358
+ },
+ {
+  "lemma": "pièce",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 427.45,
+  "also": [],
+  "rank": 359,
+  "forms": {
+   "gender": "f",
+   "pl": "pièces"
+  }
+ },
+ {
+  "lemma": "souvent",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 422.5,
+  "also": [],
+  "rank": 360
+ },
+ {
+  "lemma": "décider",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 421.95,
+  "also": [],
+  "rank": 361
+ },
+ {
+  "lemma": "sorte",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 421.89,
+  "also": [],
+  "rank": 362,
+  "forms": {
+   "gender": "f",
+   "pl": "sortes"
+  }
+ },
+ {
+  "lemma": "plaisir",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 420.22,
+  "also": [],
+  "rank": 363,
+  "forms": {
+   "gender": "m",
+   "pl": "plaisirs"
+  }
+ },
+ {
+  "lemma": "près",
+  "cgram": "PRE",
+  "section": "other",
+  "freq": 419.54,
+  "also": [
+   "ADV"
+  ],
+  "rank": 364
+ },
+ {
+  "lemma": "prier",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 418.86,
+  "also": [],
+  "rank": 365
+ },
+ {
+  "lemma": "dès",
+  "cgram": "PRE",
+  "section": "other",
+  "freq": 418.79,
+  "also": [],
+  "rank": 366
+ },
+ {
+  "lemma": "recevoir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 417.19,
+  "also": [],
+  "rank": 367
+ },
+ {
+  "lemma": "cause",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 415.9,
+  "also": [],
+  "rank": 368,
+  "forms": {
+   "gender": "f",
+   "pl": "causes"
+  }
+ },
+ {
+  "lemma": "agir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 415.67,
+  "also": [],
+  "rank": 369
+ },
+ {
+  "lemma": "bois",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 415.02,
+  "also": [],
+  "rank": 370,
+  "forms": {
+   "gender": "m"
+  }
+ },
+ {
+  "lemma": "pousser",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 414.53,
+  "also": [],
+  "rank": 371
+ },
+ {
+  "lemma": "possible",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 413.37,
+  "also": [
+   "NOM"
+  ],
+  "rank": 372,
+  "forms": {
+   "ms": "possible",
+   "fs": "possible",
+   "mp": "possibles",
+   "fp": "possibles"
+  }
+ },
+ {
+  "lemma": "lettre",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 412.78,
+  "also": [],
+  "rank": 373,
+  "forms": {
+   "gender": "f",
+   "pl": "lettres"
+  }
+ },
+ {
+  "lemma": "valoir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 411.81,
+  "also": [],
+  "rank": 374
+ },
+ {
+  "lemma": "chef",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 411.21,
+  "also": [],
+  "rank": 375,
+  "forms": {
+   "gender": "",
+   "pl": "chefs"
+  }
+ },
+ {
+  "lemma": "courir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 409.88,
+  "also": [],
+  "rank": 376
+ },
+ {
+  "lemma": "lumière",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 409.09,
+  "also": [],
+  "rank": 377,
+  "forms": {
+   "gender": "f",
+   "pl": "lumières"
+  }
+ },
+ {
+  "lemma": "chien",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 408.12,
+  "also": [],
+  "rank": 378,
+  "forms": {
+   "gender": "m",
+   "pl": "chiens",
+   "fem": "chienne"
+  }
+ },
+ {
+  "lemma": "mur",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 406.7,
+  "also": [],
+  "rank": 379,
+  "forms": {
+   "gender": "m",
+   "pl": "murs"
+  }
+ },
+ {
+  "lemma": "verre",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 406.64,
+  "also": [],
+  "rank": 380,
+  "forms": {
+   "gender": "m",
+   "pl": "verres"
+  }
+ },
+ {
+  "lemma": "partie",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 402.68,
+  "also": [],
+  "rank": 381,
+  "forms": {
+   "gender": "f",
+   "pl": "parties"
+  }
+ },
+ {
+  "lemma": "ensemble",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 398.54,
+  "also": [
+   "NOM"
+  ],
+  "rank": 382
+ },
+ {
+  "lemma": "mec",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 397.84,
+  "also": [],
+  "rank": 383,
+  "forms": {
+   "gender": "m",
+   "pl": "mecs"
+  }
+ },
+ {
+  "lemma": "face",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 396.2,
+  "also": [],
+  "rank": 384,
+  "forms": {
+   "gender": "f",
+   "pl": "faces"
+  }
+ },
+ {
+  "lemma": "autant",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 392.57,
+  "also": [],
+  "rank": 385
+ },
+ {
+  "lemma": "cheveu",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 391.95,
+  "also": [],
+  "rank": 386,
+  "forms": {
+   "gender": "m",
+   "pl": "cheveux"
+  }
+ },
+ {
+  "lemma": "offrir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 391.79,
+  "also": [],
+  "rank": 387
+ },
+ {
+  "lemma": "suffire",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 391.47,
+  "also": [],
+  "rank": 388
+ },
+ {
+  "lemma": "mari",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 388.41,
+  "also": [],
+  "rank": 389,
+  "forms": {
+   "gender": "m",
+   "pl": "maris"
+  }
+ },
+ {
+  "lemma": "cacher",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 386.02,
+  "also": [],
+  "rank": 390
+ },
+ {
+  "lemma": "fort",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 384.68,
+  "also": [
+   "ADJ",
+   "NOM"
+  ],
+  "rank": 391
+ },
+ {
+  "lemma": "reste",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 383.12,
+  "also": [],
+  "rank": 392,
+  "forms": {
+   "gender": "m",
+   "pl": "restes"
+  }
+ },
+ {
+  "lemma": "battre",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 382.71,
+  "also": [],
+  "rank": 393
+ },
+ {
+  "lemma": "cinq",
+  "cgram": "ADJ:num",
+  "section": "other",
+  "freq": 382.57,
+  "also": [],
+  "rank": 394
+ },
+ {
+  "lemma": "là-bas",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 380.85,
+  "also": [],
+  "rank": 395
+ },
+ {
+  "lemma": "genre",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 379.42,
+  "also": [],
+  "rank": 396,
+  "forms": {
+   "gender": "m",
+   "pl": "genres"
+  }
+ },
+ {
+  "lemma": "coucher",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 378.18,
+  "also": [
+   "NOM"
+  ],
+  "rank": 397
+ },
+ {
+  "lemma": "emmener",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 378.18,
+  "also": [],
+  "rank": 398
+ },
+ {
+  "lemma": "rouge",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 376.17,
+  "also": [
+   "NOM"
+  ],
+  "rank": 399,
+  "forms": {
+   "ms": "rouge",
+   "fs": "rouge",
+   "mp": "rouges",
+   "fp": "rouges"
+  }
+ },
+ {
+  "lemma": "bruit",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 375.62,
+  "also": [],
+  "rank": 400,
+  "forms": {
+   "gender": "m",
+   "pl": "bruits"
+  }
+ },
+ {
+  "lemma": "voici",
+  "cgram": "PRE",
+  "section": "other",
+  "freq": 374.89,
+  "also": [],
+  "rank": 401
+ },
+ {
+  "lemma": "bouche",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 373.48,
+  "also": [],
+  "rank": 402,
+  "forms": {
+   "gender": "f",
+   "pl": "bouches"
+  }
+ },
+ {
+  "lemma": "esprit",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 372.1,
+  "also": [],
+  "rank": 403,
+  "forms": {
+   "gender": "m",
+   "pl": "esprits"
+  }
+ },
+ {
+  "lemma": "droit",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 371.34,
+  "also": [
+   "ADJ",
+   "ADV"
+  ],
+  "rank": 404,
+  "forms": {
+   "gender": "m",
+   "pl": "droits"
+  }
+ },
+ {
+  "lemma": "fenêtre",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 370.75,
+  "also": [],
+  "rank": 405,
+  "forms": {
+   "gender": "f",
+   "pl": "fenêtres"
+  }
+ },
+ {
+  "lemma": "propre",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 370.74,
+  "also": [
+   "NOM"
+  ],
+  "rank": 406,
+  "forms": {
+   "ms": "propre",
+   "fs": "propre",
+   "mp": "propres",
+   "fp": "propres"
+  }
+ },
+ {
+  "lemma": "âge",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 370.02,
+  "also": [],
+  "rank": 407,
+  "forms": {
+   "gender": "m",
+   "pl": "âges"
+  }
+ },
+ {
+  "lemma": "reconnaître",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 369.92,
+  "also": [],
+  "rank": 408
+ },
+ {
+  "lemma": "compte",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 369.33,
+  "also": [],
+  "rank": 409,
+  "forms": {
+   "gender": "m",
+   "pl": "comptes"
+  }
+ },
+ {
+  "lemma": "apporter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 369.23,
+  "also": [],
+  "rank": 410
+ },
+ {
+  "lemma": "bouger",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 368.66,
+  "also": [],
+  "rank": 411
+ },
+ {
+  "lemma": "pauvre",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 365.8,
+  "also": [
+   "NOM"
+  ],
+  "rank": 412,
+  "forms": {
+   "ms": "pauvre",
+   "fs": "pauvre",
+   "mp": "pauvres",
+   "fp": "pauvres"
+  }
+ },
+ {
+  "lemma": "mer",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 364.18,
+  "also": [],
+  "rank": 413,
+  "forms": {
+   "gender": "f",
+   "pl": "mers"
+  }
+ },
+ {
+  "lemma": "état",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 363.9,
+  "also": [],
+  "rank": 414,
+  "forms": {
+   "gender": "m",
+   "pl": "états"
+  }
+ },
+ {
+  "lemma": "jeu",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 363.75,
+  "also": [],
+  "rank": 415,
+  "forms": {
+   "gender": "m",
+   "pl": "jeux"
+  }
+ },
+ {
+  "lemma": "général",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 361.72,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 416,
+  "forms": {
+   "gender": "m",
+   "pl": "généraux",
+   "fem": "générale"
+  }
+ },
+ {
+  "lemma": "police",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 359.93,
+  "also": [],
+  "rank": 417,
+  "forms": {
+   "gender": "f",
+   "pl": "polices"
+  }
+ },
+ {
+  "lemma": "permettre",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 357.05,
+  "also": [],
+  "rank": 418
+ },
+ {
+  "lemma": "aucun",
+  "cgram": "ADJ:ind",
+  "section": "other",
+  "freq": 356.73,
+  "also": [
+   "PRO:ind"
+  ],
+  "rank": 419,
+  "forms": {
+   "ms": "aucun",
+   "fs": "aucune",
+   "mp": "aucuns",
+   "fp": "aucunes"
+  }
+ },
+ {
+  "lemma": "crier",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 356.67,
+  "also": [],
+  "rank": 420
+ },
+ {
+  "lemma": "chemin",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 356.6,
+  "also": [],
+  "rank": 421,
+  "forms": {
+   "gender": "m",
+   "pl": "chemins"
+  }
+ },
+ {
+  "lemma": "endroit",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 355.81,
+  "also": [],
+  "rank": 422,
+  "forms": {
+   "gender": "m",
+   "pl": "endroits"
+  }
+ },
+ {
+  "lemma": "pleurer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 354.95,
+  "also": [],
+  "rank": 423
+ },
+ {
+  "lemma": "bientôt",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 354.55,
+  "also": [],
+  "rank": 424
+ },
+ {
+  "lemma": "journée",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 354.28,
+  "also": [],
+  "rank": 425,
+  "forms": {
+   "gender": "f",
+   "pl": "journées"
+  }
+ },
+ {
+  "lemma": "tellement",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 352.21,
+  "also": [],
+  "rank": 426
+ },
+ {
+  "lemma": "école",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 350.87,
+  "also": [],
+  "rank": 427,
+  "forms": {
+   "gender": "f",
+   "pl": "écoles"
+  }
+ },
+ {
+  "lemma": "disparaître",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 349.44,
+  "also": [],
+  "rank": 428
+ },
+ {
+  "lemma": "gars",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 348.89,
+  "also": [],
+  "rank": 429,
+  "forms": {
+   "gender": "m"
+  }
+ },
+ {
+  "lemma": "remettre",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 347.49,
+  "also": [],
+  "rank": 430
+ },
+ {
+  "lemma": "putain",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 347.15,
+  "also": [],
+  "rank": 431,
+  "forms": {
+   "gender": "f",
+   "pl": "putains"
+  }
+ },
+ {
+  "lemma": "joli",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 346.45,
+  "also": [],
+  "rank": 432,
+  "forms": {
+   "ms": "joli",
+   "fs": "jolie",
+   "mp": "jolis",
+   "fp": "jolies"
+  }
+ },
+ {
+  "lemma": "soeur",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 346.0,
+  "also": [],
+  "rank": 433,
+  "forms": {
+   "gender": "f",
+   "pl": "soeurs"
+  }
+ },
+ {
+  "lemma": "sauver",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 345.59,
+  "also": [],
+  "rank": 434
+ },
+ {
+  "lemma": "d'abord",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 344.77,
+  "also": [],
+  "rank": 435
+ },
+ {
+  "lemma": "français",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 341.91,
+  "also": [
+   "NOM"
+  ],
+  "rank": 436,
+  "forms": {
+   "ms": "français",
+   "fs": "française",
+   "mp": "français",
+   "fp": "françaises"
+  }
+ },
+ {
+  "lemma": "doigt",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 341.84,
+  "also": [],
+  "rank": 437,
+  "forms": {
+   "gender": "m",
+   "pl": "doigts"
+  }
+ },
+ {
+  "lemma": "café",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 340.86,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 438,
+  "forms": {
+   "gender": "m",
+   "pl": "cafés"
+  }
+ },
+ {
+  "lemma": "cher",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 339.4,
+  "also": [
+   "ADV",
+   "NOM"
+  ],
+  "rank": 439,
+  "forms": {
+   "ms": "cher",
+   "fs": "chère",
+   "mp": "chers",
+   "fp": "chères"
+  }
+ },
+ {
+  "lemma": "salut",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 339.24,
+  "also": [
+   "ONO"
+  ],
+  "rank": 440,
+  "forms": {
+   "gender": "m",
+   "pl": "saluts"
+  }
+ },
+ {
+  "lemma": "papa",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 336.17,
+  "also": [],
+  "rank": 441,
+  "forms": {
+   "gender": "m"
+  }
+ },
+ {
+  "lemma": "sens",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 335.07,
+  "also": [],
+  "rank": 442,
+  "forms": {
+   "gender": "m"
+  }
+ },
+ {
+  "lemma": "jambe",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 334.77,
+  "also": [],
+  "rank": 443,
+  "forms": {
+   "gender": "f"
+  }
+ },
+ {
+  "lemma": "parent",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 334.73,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 444,
+  "forms": {
+   "gender": "m",
+   "pl": "parents",
+   "fem": "parente"
+  }
+ },
+ {
+  "lemma": "dur",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 334.53,
+  "also": [
+   "NOM"
+  ],
+  "rank": 445,
+  "forms": {
+   "ms": "dur",
+   "fs": "dure",
+   "mp": "durs",
+   "fp": "dures"
+  }
+ },
+ {
+  "lemma": "vérité",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 334.12,
+  "also": [],
+  "rank": 446,
+  "forms": {
+   "gender": "f",
+   "pl": "vérités"
+  }
+ },
+ {
+  "lemma": "salle",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 332.72,
+  "also": [],
+  "rank": 447,
+  "forms": {
+   "gender": "f",
+   "pl": "salles"
+  }
+ },
+ {
+  "lemma": "arme",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 331.71,
+  "also": [],
+  "rank": 448,
+  "forms": {
+   "gender": "f",
+   "pl": "armes"
+  }
+ },
+ {
+  "lemma": "service",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 330.44,
+  "also": [],
+  "rank": 449,
+  "forms": {
+   "gender": "m",
+   "pl": "services"
+  }
+ },
+ {
+  "lemma": "préparer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 328.45,
+  "also": [],
+  "rank": 450
+ },
+ {
+  "lemma": "frapper",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 328.35,
+  "also": [],
+  "rank": 451
+ },
+ {
+  "lemma": "dix",
+  "cgram": "ADJ:num",
+  "section": "other",
+  "freq": 328.15,
+  "also": [],
+  "rank": 452
+ },
+ {
+  "lemma": "voler",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 327.47,
+  "also": [],
+  "rank": 453
+ },
+ {
+  "lemma": "film",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 326.78,
+  "also": [],
+  "rank": 454,
+  "forms": {
+   "gender": "m",
+   "pl": "films"
+  }
+ },
+ {
+  "lemma": "milieu",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 326.35,
+  "also": [],
+  "rank": 455,
+  "forms": {
+   "gender": "m",
+   "pl": "milieux"
+  }
+ },
+ {
+  "lemma": "papier",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 323.62,
+  "also": [],
+  "rank": 456,
+  "forms": {
+   "gender": "m",
+   "pl": "papiers"
+  }
+ },
+ {
+  "lemma": "découvrir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 322.38,
+  "also": [],
+  "rank": 457
+ },
+ {
+  "lemma": "partout",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 321.33,
+  "also": [],
+  "rank": 458
+ },
+ {
+  "lemma": "docteur",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 321.22,
+  "also": [],
+  "rank": 459,
+  "forms": {
+   "gender": "m",
+   "pl": "docteurs",
+   "fem": "doctoresse"
+  }
+ },
+ {
+  "lemma": "épaule",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 321.13,
+  "also": [],
+  "rank": 460,
+  "forms": {
+   "gender": "f",
+   "pl": "épaules"
+  }
+ },
+ {
+  "lemma": "cours",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 319.81,
+  "also": [],
+  "rank": 461,
+  "forms": {
+   "gender": ""
+  }
+ },
+ {
+  "lemma": "hé",
+  "cgram": "ONO",
+  "section": "other",
+  "freq": 318.29,
+  "also": [],
+  "rank": 462
+ },
+ {
+  "lemma": "bureau",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 317.2,
+  "also": [],
+  "rank": 463,
+  "forms": {
+   "gender": "m",
+   "pl": "bureaux"
+  }
+ },
+ {
+  "lemma": "sourire",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 316.88,
+  "also": [
+   "NOM"
+  ],
+  "rank": 464
+ },
+ {
+  "lemma": "hier",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 316.41,
+  "also": [],
+  "rank": 465
+ },
+ {
+  "lemma": "important",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 316.12,
+  "also": [
+   "NOM"
+  ],
+  "rank": 466,
+  "forms": {
+   "ms": "important",
+   "fs": "importante",
+   "mp": "importants",
+   "fp": "importantes"
+  }
+ },
+ {
+  "lemma": "dos",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 314.33,
+  "also": [],
+  "rank": 467,
+  "forms": {
+   "gender": "m"
+  }
+ },
+ {
+  "lemma": "conduire",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 314.3,
+  "also": [],
+  "rank": 468
+ },
+ {
+  "lemma": "approcher",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 313.8,
+  "also": [],
+  "rank": 469
+ },
+ {
+  "lemma": "travers",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 313.24,
+  "also": [],
+  "rank": 470,
+  "forms": {
+   "gender": "m"
+  }
+ },
+ {
+  "lemma": "préférer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 312.82,
+  "also": [],
+  "rank": 471
+ },
+ {
+  "lemma": "geste",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 311.86,
+  "also": [],
+  "rank": 472,
+  "forms": {
+   "gender": "",
+   "pl": "gestes"
+  }
+ },
+ {
+  "lemma": "désoler",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 311.73,
+  "also": [],
+  "rank": 473
+ },
+ {
+  "lemma": "accepter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 310.5,
+  "also": [],
+  "rank": 474
+ },
+ {
+  "lemma": "effet",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 309.11,
+  "also": [],
+  "rank": 475,
+  "forms": {
+   "gender": "m",
+   "pl": "effets"
+  }
+ },
+ {
+  "lemma": "journal",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 308.5,
+  "also": [],
+  "rank": 476,
+  "forms": {
+   "gender": "m",
+   "pl": "journaux"
+  }
+ },
+ {
+  "lemma": "cheval",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 308.38,
+  "also": [],
+  "rank": 477,
+  "forms": {
+   "gender": "m",
+   "pl": "chevaux"
+  }
+ },
+ {
+  "lemma": "bord",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 308.01,
+  "also": [],
+  "rank": 478,
+  "forms": {
+   "gender": "m",
+   "pl": "bords"
+  }
+ },
+ {
+  "lemma": "meilleur",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 307.99,
+  "also": [
+   "NOM"
+  ],
+  "rank": 479,
+  "forms": {
+   "ms": "meilleur",
+   "fs": "meilleure",
+   "mp": "meilleurs",
+   "fp": "meilleures"
+  }
+ },
+ {
+  "lemma": "ressembler",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 306.12,
+  "also": [],
+  "rank": 480
+ },
+ {
+  "lemma": "choisir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 304.4,
+  "also": [],
+  "rank": 481
+ },
+ {
+  "lemma": "photo",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 303.69,
+  "also": [],
+  "rank": 482,
+  "forms": {
+   "gender": "f",
+   "pl": "photos"
+  }
+ },
+ {
+  "lemma": "libre",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 302.33,
+  "also": [],
+  "rank": 483,
+  "forms": {
+   "ms": "libre",
+   "fs": "libre",
+   "mp": "libres",
+   "fp": "libres"
+  }
+ },
+ {
+  "lemma": "revoir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 302.3,
+  "also": [
+   "NOM"
+  ],
+  "rank": 484
+ },
+ {
+  "lemma": "réveiller",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 301.35,
+  "also": [],
+  "rank": 485
+ },
+ {
+  "lemma": "présenter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 301.02,
+  "also": [],
+  "rank": 486
+ },
+ {
+  "lemma": "vendre",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 299.59,
+  "also": [],
+  "rank": 487
+ },
+ {
+  "lemma": "sac",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 298.86,
+  "also": [],
+  "rank": 488,
+  "forms": {
+   "gender": "m",
+   "pl": "sacs"
+  }
+ },
+ {
+  "lemma": "coin",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 298.77,
+  "also": [],
+  "rank": 489,
+  "forms": {
+   "gender": "m",
+   "pl": "coins"
+  }
+ },
+ {
+  "lemma": "répéter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 298.45,
+  "also": [],
+  "rank": 490
+ },
+ {
+  "lemma": "vent",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 297.61,
+  "also": [],
+  "rank": 491,
+  "forms": {
+   "gender": "m",
+   "pl": "vents"
+  }
+ },
+ {
+  "lemma": "retour",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 297.59,
+  "also": [],
+  "rank": 492,
+  "forms": {
+   "gender": "m",
+   "pl": "retours"
+  }
+ },
+ {
+  "lemma": "ensuite",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 297.11,
+  "also": [],
+  "rank": 493
+ },
+ {
+  "lemma": "refuser",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 296.73,
+  "also": [],
+  "rank": 494
+ },
+ {
+  "lemma": "couper",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 296.7,
+  "also": [],
+  "rank": 495
+ },
+ {
+  "lemma": "tiens",
+  "cgram": "ONO",
+  "section": "other",
+  "freq": 294.88,
+  "also": [
+   "PRO:pos"
+  ],
+  "rank": 496
+ },
+ {
+  "lemma": "taire",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 294.26,
+  "also": [],
+  "rank": 497
+ },
+ {
+  "lemma": "âme",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 293.21,
+  "also": [],
+  "rank": 498,
+  "forms": {
+   "gender": "f",
+   "pl": "âmes"
+  }
+ },
+ {
+  "lemma": "empêcher",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 293.13,
+  "also": [],
+  "rank": 499
+ },
+ {
+  "lemma": "chanter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 292.15,
+  "also": [],
+  "rank": 500
+ },
+ {
+  "lemma": "avancer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 290.62,
+  "also": [],
+  "rank": 501
+ },
+ {
+  "lemma": "arbre",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 290.27,
+  "also": [],
+  "rank": 502,
+  "forms": {
+   "gender": "m",
+   "pl": "arbres"
+  }
+ },
+ {
+  "lemma": "dehors",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 289.84,
+  "also": [
+   "NOM",
+   "ONO"
+  ],
+  "rank": 503
+ },
+ {
+  "lemma": "désolé",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 289.09,
+  "also": [],
+  "rank": 504,
+  "forms": {
+   "ms": "désolé",
+   "fs": "désolée",
+   "mp": "désolés",
+   "fp": "désolées"
+  }
+ },
+ {
+  "lemma": "froid",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 288.91,
+  "also": [
+   "NOM"
+  ],
+  "rank": 505,
+  "forms": {
+   "ms": "froid",
+   "fs": "froide",
+   "mp": "froids",
+   "fp": "froides"
+  }
+ },
+ {
+  "lemma": "rêve",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 287.33,
+  "also": [],
+  "rank": 506,
+  "forms": {
+   "gender": "m",
+   "pl": "rêves"
+  }
+ },
+ {
+  "lemma": "promettre",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 286.68,
+  "also": [],
+  "rank": 507
+ },
+ {
+  "lemma": "simple",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 286.27,
+  "also": [
+   "NOM"
+  ],
+  "rank": 508,
+  "forms": {
+   "ms": "simple",
+   "fs": "simple",
+   "mp": "simples",
+   "fp": "simples"
+  }
+ },
+ {
+  "lemma": "certain",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 286.21,
+  "also": [
+   "ADJ:ind"
+  ],
+  "rank": 509,
+  "forms": {
+   "ms": "certain",
+   "fs": "certaine",
+   "mp": "certains",
+   "fp": "certaines"
+  }
+ },
+ {
+  "lemma": "marier",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 285.58,
+  "also": [],
+  "rank": 510
+ },
+ {
+  "lemma": "exister",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 284.42,
+  "also": [],
+  "rank": 511
+ },
+ {
+  "lemma": "amener",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 284.24,
+  "also": [],
+  "rank": 512
+ },
+ {
+  "lemma": "musique",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 284.12,
+  "also": [],
+  "rank": 513,
+  "forms": {
+   "gender": "f",
+   "pl": "musiques"
+  }
+ },
+ {
+  "lemma": "inquiéter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 283.17,
+  "also": [],
+  "rank": 514
+ },
+ {
+  "lemma": "pareil",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 283.11,
+  "also": [
+   "ADV",
+   "NOM"
+  ],
+  "rank": 515,
+  "forms": {
+   "ms": "pareil",
+   "fs": "pareille",
+   "mp": "pareils",
+   "fp": "pareilles"
+  }
+ },
+ {
+  "lemma": "attention",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 283.05,
+  "also": [
+   "ONO"
+  ],
+  "rank": 516,
+  "forms": {
+   "gender": "f",
+   "pl": "attentions"
+  }
+ },
+ {
+  "lemma": "ramener",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 281.96,
+  "also": [],
+  "rank": 517
+ },
+ {
+  "lemma": "parole",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 281.79,
+  "also": [],
+  "rank": 518,
+  "forms": {
+   "gender": "f",
+   "pl": "paroles"
+  }
+ },
+ {
+  "lemma": "chacun",
+  "cgram": "PRO:ind",
+  "section": "other",
+  "freq": 281.45,
+  "also": [],
+  "rank": 519
+ },
+ {
+  "lemma": "couleur",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 280.97,
+  "also": [],
+  "rank": 520,
+  "forms": {
+   "gender": "f",
+   "pl": "couleurs"
+  }
+ },
+ {
+  "lemma": "maître",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 280.04,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 521,
+  "forms": {
+   "gender": "m",
+   "pl": "maîtres"
+  }
+ },
+ {
+  "lemma": "clair",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 279.38,
+  "also": [
+   "NOM"
+  ],
+  "rank": 522,
+  "forms": {
+   "ms": "clair",
+   "fs": "claire",
+   "mp": "clairs",
+   "fp": "claires"
+  }
+ },
+ {
+  "lemma": "ombre",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 279.12,
+  "also": [],
+  "rank": 523,
+  "forms": {
+   "gender": "",
+   "pl": "ombres"
+  }
+ },
+ {
+  "lemma": "bleu",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 278.25,
+  "also": [
+   "NOM"
+  ],
+  "rank": 524,
+  "forms": {
+   "ms": "bleu",
+   "fs": "bleue",
+   "mp": "bleus",
+   "fp": "bleues"
+  }
+ },
+ {
+  "lemma": "embrasser",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 276.47,
+  "also": [],
+  "rank": 525
+ },
+ {
+  "lemma": "roi",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 276.45,
+  "also": [],
+  "rank": 526,
+  "forms": {
+   "gender": "m",
+   "pl": "rois"
+  }
+ },
+ {
+  "lemma": "merde",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 275.82,
+  "also": [
+   "ONO"
+  ],
+  "rank": 527,
+  "forms": {
+   "gender": "f",
+   "pl": "merdes"
+  }
+ },
+ {
+  "lemma": "peau",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 275.24,
+  "also": [],
+  "rank": 528,
+  "forms": {
+   "gender": "f",
+   "pl": "peaux"
+  }
+ },
+ {
+  "lemma": "patron",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 273.96,
+  "also": [],
+  "rank": 529,
+  "forms": {
+   "gender": "m",
+   "pl": "patrons",
+   "fem": "patronne"
+  }
+ },
+ {
+  "lemma": "hôtel",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 273.59,
+  "also": [],
+  "rank": 530,
+  "forms": {
+   "gender": "m",
+   "pl": "hôtels"
+  }
+ },
+ {
+  "lemma": "six",
+  "cgram": "ADJ:num",
+  "section": "other",
+  "freq": 273.59,
+  "also": [],
+  "rank": 531
+ },
+ {
+  "lemma": "traverser",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 273.07,
+  "also": [],
+  "rank": 532
+ },
+ {
+  "lemma": "bas",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 272.65,
+  "also": [
+   "ADV",
+   "NOM"
+  ],
+  "rank": 533,
+  "forms": {
+   "ms": "bas",
+   "fs": "basse",
+   "mp": "bas",
+   "fp": "basses"
+  }
+ },
+ {
+  "lemma": "image",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 271.05,
+  "also": [],
+  "rank": 534,
+  "forms": {
+   "gender": "f",
+   "pl": "images"
+  }
+ },
+ {
+  "lemma": "rapport",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 271.03,
+  "also": [],
+  "rank": 535,
+  "forms": {
+   "gender": "m",
+   "pl": "rapports"
+  }
+ },
+ {
+  "lemma": "forme",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 270.88,
+  "also": [],
+  "rank": 536,
+  "forms": {
+   "gender": "f",
+   "pl": "formes"
+  }
+ },
+ {
+  "lemma": "plusieurs",
+  "cgram": "ADJ:ind",
+  "section": "other",
+  "freq": 270.56,
+  "also": [
+   "PRO:ind"
+  ],
+  "rank": 537
+ },
+ {
+  "lemma": "difficile",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 268.69,
+  "also": [],
+  "rank": 538,
+  "forms": {
+   "ms": "difficile",
+   "fs": "difficile",
+   "mp": "difficiles",
+   "fp": "difficiles"
+  }
+ },
+ {
+  "lemma": "apercevoir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 267.67,
+  "also": [],
+  "rank": 539
+ },
+ {
+  "lemma": "oreille",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 267.66,
+  "also": [],
+  "rank": 540,
+  "forms": {
+   "gender": "f",
+   "pl": "oreilles"
+  }
+ },
+ {
+  "lemma": "content",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 265.43,
+  "also": [
+   "NOM"
+  ],
+  "rank": 541,
+  "forms": {
+   "ms": "content",
+   "fs": "contente",
+   "mp": "contents",
+   "fp": "contentes"
+  }
+ },
+ {
+  "lemma": "ignorer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 265.0,
+  "also": [],
+  "rank": 542
+ },
+ {
+  "lemma": "haut",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 264.81,
+  "also": [
+   "ADV",
+   "NOM"
+  ],
+  "rank": 543,
+  "forms": {
+   "ms": "haut",
+   "fs": "haute",
+   "mp": "hauts",
+   "fp": "hautes"
+  }
+ },
+ {
+  "lemma": "faute",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 264.46,
+  "also": [],
+  "rank": 544,
+  "forms": {
+   "gender": "f",
+   "pl": "fautes"
+  }
+ },
+ {
+  "lemma": "fleur",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 264.14,
+  "also": [],
+  "rank": 545,
+  "forms": {
+   "gender": "f",
+   "pl": "fleurs"
+  }
+ },
+ {
+  "lemma": "glisser",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 264.07,
+  "also": [],
+  "rank": 546
+ },
+ {
+  "lemma": "ajouter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 263.54,
+  "also": [],
+  "rank": 547
+ },
+ {
+  "lemma": "voyage",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 263.24,
+  "also": [],
+  "rank": 548,
+  "forms": {
+   "gender": "m",
+   "pl": "voyages"
+  }
+ },
+ {
+  "lemma": "dame",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 262.55,
+  "also": [],
+  "rank": 549,
+  "forms": {
+   "gender": "f",
+   "pl": "dames"
+  }
+ },
+ {
+  "lemma": "amuser",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 262.36,
+  "also": [],
+  "rank": 550
+ },
+ {
+  "lemma": "copain",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 262.0,
+  "also": [],
+  "rank": 551,
+  "forms": {
+   "gender": "m",
+   "pl": "copains",
+   "fem": "copine"
+  }
+ },
+ {
+  "lemma": "lâcher",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 260.27,
+  "also": [],
+  "rank": 552
+ },
+ {
+  "lemma": "lèvre",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 259.94,
+  "also": [],
+  "rank": 553,
+  "forms": {
+   "gender": "f",
+   "pl": "lèvres"
+  }
+ },
+ {
+  "lemma": "serrer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 258.49,
+  "also": [],
+  "rank": 554
+ },
+ {
+  "lemma": "espèce",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 258.2,
+  "also": [],
+  "rank": 555,
+  "forms": {
+   "gender": "f",
+   "pl": "espèces"
+  }
+ },
+ {
+  "lemma": "intéresser",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 258.16,
+  "also": [],
+  "rank": 556
+ },
+ {
+  "lemma": "facile",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 258.0,
+  "also": [],
+  "rank": 557,
+  "forms": {
+   "ms": "facile",
+   "fs": "facile",
+   "mp": "faciles",
+   "fp": "faciles"
+  }
+ },
+ {
+  "lemma": "sauter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 257.62,
+  "also": [],
+  "rank": 558
+ },
+ {
+  "lemma": "téléphone",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 257.62,
+  "also": [],
+  "rank": 559,
+  "forms": {
+   "gender": "m",
+   "pl": "téléphones"
+  }
+ },
+ {
+  "lemma": "gentil",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 257.5,
+  "also": [
+   "NOM"
+  ],
+  "rank": 560,
+  "forms": {
+   "ms": "gentil",
+   "fs": "gentille",
+   "mp": "gentils",
+   "fp": "gentilles"
+  }
+ },
+ {
+  "lemma": "pierre",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 257.03,
+  "also": [],
+  "rank": 561,
+  "forms": {
+   "gender": "f",
+   "pl": "pierres"
+  }
+ },
+ {
+  "lemma": "tôt",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 256.74,
+  "also": [],
+  "rank": 562
+ },
+ {
+  "lemma": "lorsque",
+  "cgram": "CON",
+  "section": "other",
+  "freq": 256.45,
+  "also": [],
+  "rank": 563
+ },
+ {
+  "lemma": "carte",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 256.38,
+  "also": [],
+  "rank": 564,
+  "forms": {
+   "gender": "f",
+   "pl": "cartes"
+  }
+ },
+ {
+  "lemma": "début",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 255.8,
+  "also": [],
+  "rank": 565,
+  "forms": {
+   "gender": "m",
+   "pl": "débuts"
+  }
+ },
+ {
+  "lemma": "confiance",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 254.86,
+  "also": [],
+  "rank": 566,
+  "forms": {
+   "gender": "f",
+   "pl": "confiances"
+  }
+ },
+ {
+  "lemma": "oncle",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 254.41,
+  "also": [],
+  "rank": 567,
+  "forms": {
+   "gender": "m",
+   "pl": "oncles"
+  }
+ },
+ {
+  "lemma": "sinon",
+  "cgram": "CON",
+  "section": "other",
+  "freq": 254.11,
+  "also": [],
+  "rank": 568
+ },
+ {
+  "lemma": "réussir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 254.04,
+  "also": [],
+  "rank": 569
+ },
+ {
+  "lemma": "casser",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 253.31,
+  "also": [],
+  "rank": 570
+ },
+ {
+  "lemma": "nez",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 252.82,
+  "also": [],
+  "rank": 571,
+  "forms": {
+   "gender": "m"
+  }
+ },
+ {
+  "lemma": "habitude",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 252.68,
+  "also": [],
+  "rank": 572,
+  "forms": {
+   "gender": "f",
+   "pl": "habitudes"
+  }
+ },
+ {
+  "lemma": "ligne",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 252.13,
+  "also": [],
+  "rank": 573,
+  "forms": {
+   "gender": "f",
+   "pl": "lignes"
+  }
+ },
+ {
+  "lemma": "enlever",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 251.25,
+  "also": [],
+  "rank": 574
+ },
+ {
+  "lemma": "rêver",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 251.13,
+  "also": [],
+  "rank": 575
+ },
+ {
+  "lemma": "debout",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 250.66,
+  "also": [],
+  "rank": 576
+ },
+ {
+  "lemma": "fête",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 250.02,
+  "also": [],
+  "rank": 577,
+  "forms": {
+   "gender": "f",
+   "pl": "fêtes"
+  }
+ },
+ {
+  "lemma": "sale",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 248.89,
+  "also": [],
+  "rank": 578,
+  "forms": {
+   "ms": "sale",
+   "fs": "sale",
+   "mp": "sales",
+   "fp": "sales"
+  }
+ },
+ {
+  "lemma": "lui-même",
+  "cgram": "PRO:per",
+  "section": "other",
+  "freq": 248.88,
+  "also": [],
+  "rank": 579
+ },
+ {
+  "lemma": "paix",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 248.58,
+  "also": [],
+  "rank": 580,
+  "forms": {
+   "gender": "f"
+  }
+ },
+ {
+  "lemma": "armée",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 247.62,
+  "also": [],
+  "rank": 581,
+  "forms": {
+   "gender": "f",
+   "pl": "armées"
+  }
+ },
+ {
+  "lemma": "tromper",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 246.39,
+  "also": [],
+  "rank": 582
+ },
+ {
+  "lemma": "mariage",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 246.11,
+  "also": [],
+  "rank": 583,
+  "forms": {
+   "gender": "m",
+   "pl": "mariages"
+  }
+ },
+ {
+  "lemma": "seconde",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 246.03,
+  "also": [],
+  "rank": 584,
+  "forms": {
+   "gender": "f",
+   "pl": "secondes"
+  }
+ },
+ {
+  "lemma": "jardin",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 246.02,
+  "also": [],
+  "rank": 585,
+  "forms": {
+   "gender": "m",
+   "pl": "jardins"
+  }
+ },
+ {
+  "lemma": "cesser",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 245.88,
+  "also": [],
+  "rank": 586
+ },
+ {
+  "lemma": "oser",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 245.74,
+  "also": [],
+  "rank": 587
+ },
+ {
+  "lemma": "impression",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 245.46,
+  "also": [],
+  "rank": 588,
+  "forms": {
+   "gender": "f",
+   "pl": "impressions"
+  }
+ },
+ {
+  "lemma": "capitaine",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 245.26,
+  "also": [],
+  "rank": 589,
+  "forms": {
+   "gender": "m",
+   "pl": "capitaines"
+  }
+ },
+ {
+  "lemma": "odeur",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 245.25,
+  "also": [],
+  "rank": 590,
+  "forms": {
+   "gender": "f",
+   "pl": "odeurs"
+  }
+ },
+ {
+  "lemma": "tendre",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 245.01,
+  "also": [
+   "ADJ",
+   "NOM"
+  ],
+  "rank": 591
+ },
+ {
+  "lemma": "signe",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 244.01,
+  "also": [],
+  "rank": 592,
+  "forms": {
+   "gender": "m",
+   "pl": "signes"
+  }
+ },
+ {
+  "lemma": "numéro",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 243.55,
+  "also": [],
+  "rank": 593,
+  "forms": {
+   "gender": "m",
+   "pl": "numéros"
+  }
+ },
+ {
+  "lemma": "terminer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 242.38,
+  "also": [],
+  "rank": 594
+ },
+ {
+  "lemma": "parmi",
+  "cgram": "PRE",
+  "section": "other",
+  "freq": 241.13,
+  "also": [],
+  "rank": 595
+ },
+ {
+  "lemma": "bonheur",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 241.1,
+  "also": [],
+  "rank": 596,
+  "forms": {
+   "gender": "m",
+   "pl": "bonheurs"
+  }
+ },
+ {
+  "lemma": "habiter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 240.8,
+  "also": [],
+  "rank": 597
+ },
+ {
+  "lemma": "lancer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 240.29,
+  "also": [
+   "NOM"
+  ],
+  "rank": 598
+ },
+ {
+  "lemma": "or",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 240.28,
+  "also": [
+   "ADJ",
+   "CON"
+  ],
+  "rank": 599,
+  "forms": {
+   "gender": "m",
+   "pl": "ors"
+  }
+ },
+ {
+  "lemma": "village",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 239.81,
+  "also": [],
+  "rank": 600,
+  "forms": {
+   "gender": "m",
+   "pl": "villages"
+  }
+ },
+ {
+  "lemma": "drôle",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 239.55,
+  "also": [
+   "NOM"
+  ],
+  "rank": 601,
+  "forms": {
+   "ms": "drôle",
+   "fs": "drôle",
+   "mp": "drôles",
+   "fp": "drôles"
+  }
+ },
+ {
+  "lemma": "abandonner",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 239.32,
+  "also": [],
+  "rank": 602
+ },
+ {
+  "lemma": "boulot",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 238.58,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 603,
+  "forms": {
+   "gender": "m",
+   "pl": "boulots"
+  }
+ },
+ {
+  "lemma": "adorer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 238.26,
+  "also": [],
+  "rank": 604
+ },
+ {
+  "lemma": "malgré",
+  "cgram": "PRE",
+  "section": "other",
+  "freq": 238.05,
+  "also": [],
+  "rank": 605
+ },
+ {
+  "lemma": "mener",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 237.56,
+  "also": [],
+  "rank": 606
+ },
+ {
+  "lemma": "mentir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 237.19,
+  "also": [],
+  "rank": 607
+ },
+ {
+  "lemma": "exactement",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 236.98,
+  "also": [],
+  "rank": 608
+ },
+ {
+  "lemma": "soldat",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 236.84,
+  "also": [],
+  "rank": 609,
+  "forms": {
+   "gender": "m",
+   "pl": "soldats",
+   "fem": "soldate"
+  }
+ },
+ {
+  "lemma": "bébé",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 236.83,
+  "also": [],
+  "rank": 610,
+  "forms": {
+   "gender": "m",
+   "pl": "bébés"
+  }
+ },
+ {
+  "lemma": "plan",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 236.53,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 611,
+  "forms": {
+   "gender": "m",
+   "pl": "plans"
+  }
+ },
+ {
+  "lemma": "grave",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 236.26,
+  "also": [
+   "NOM"
+  ],
+  "rank": 612,
+  "forms": {
+   "ms": "grave",
+   "fs": "grave",
+   "mp": "graves",
+   "fp": "graves"
+  }
+ },
+ {
+  "lemma": "naître",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 235.43,
+  "also": [],
+  "rank": 613
+ },
+ {
+  "lemma": "gueule",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 235.15,
+  "also": [],
+  "rank": 614,
+  "forms": {
+   "gender": "f",
+   "pl": "gueules"
+  }
+ },
+ {
+  "lemma": "assurer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 234.26,
+  "also": [],
+  "rank": 615
+ },
+ {
+  "lemma": "doux",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 234.21,
+  "also": [
+   "ADV",
+   "NOM"
+  ],
+  "rank": 616,
+  "forms": {
+   "ms": "doux",
+   "fs": "douce",
+   "mp": "doux",
+   "fp": "douces"
+  }
+ },
+ {
+  "lemma": "prix",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 234.05,
+  "also": [],
+  "rank": 617,
+  "forms": {
+   "gender": "m"
+  }
+ },
+ {
+  "lemma": "souffrir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 233.09,
+  "also": [],
+  "rank": 618
+ },
+ {
+  "lemma": "sentiment",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 233.02,
+  "also": [],
+  "rank": 619,
+  "forms": {
+   "gender": "m",
+   "pl": "sentiments"
+  }
+ },
+ {
+  "lemma": "installer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 232.99,
+  "also": [],
+  "rank": 620
+ },
+ {
+  "lemma": "robe",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 232.61,
+  "also": [],
+  "rank": 621,
+  "forms": {
+   "gender": "f",
+   "pl": "robes"
+  }
+ },
+ {
+  "lemma": "vue",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 232.23,
+  "also": [],
+  "rank": 622,
+  "forms": {
+   "gender": "f",
+   "pl": "vues"
+  }
+ },
+ {
+  "lemma": "doucement",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 232.19,
+  "also": [],
+  "rank": 623
+ },
+ {
+  "lemma": "malade",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 232.19,
+  "also": [
+   "NOM"
+  ],
+  "rank": 624,
+  "forms": {
+   "ms": "malade",
+   "fs": "malade",
+   "mp": "malades",
+   "fp": "malades"
+  }
+ },
+ {
+  "lemma": "faux",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 231.82,
+  "also": [
+   "ADV",
+   "NOM"
+  ],
+  "rank": 625,
+  "forms": {
+   "ms": "faux",
+   "fs": "fausse",
+   "mp": "faux",
+   "fp": "fausses"
+  }
+ },
+ {
+  "lemma": "rejoindre",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 231.78,
+  "also": [],
+  "rank": 626
+ },
+ {
+  "lemma": "remonter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 231.47,
+  "also": [],
+  "rank": 627
+ },
+ {
+  "lemma": "aide",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 231.13,
+  "also": [],
+  "rank": 628,
+  "forms": {
+   "gender": "",
+   "pl": "aides"
+  }
+ },
+ {
+  "lemma": "jurer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 230.17,
+  "also": [],
+  "rank": 629
+ },
+ {
+  "lemma": "manière",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 230.08,
+  "also": [],
+  "rank": 630,
+  "forms": {
+   "gender": "f",
+   "pl": "manières"
+  }
+ },
+ {
+  "lemma": "danser",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 229.93,
+  "also": [],
+  "rank": 631
+ },
+ {
+  "lemma": "soudain",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 228.46,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 632
+ },
+ {
+  "lemma": "honneur",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 228.05,
+  "also": [],
+  "rank": 633,
+  "forms": {
+   "gender": "m",
+   "pl": "honneurs"
+  }
+ },
+ {
+  "lemma": "ancien",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 228.02,
+  "also": [
+   "NOM"
+  ],
+  "rank": 634,
+  "forms": {
+   "ms": "ancien",
+   "fs": "ancienne",
+   "mp": "anciens",
+   "fp": "anciennes"
+  }
+ },
+ {
+  "lemma": "différent",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 227.83,
+  "also": [],
+  "rank": 635,
+  "forms": {
+   "ms": "différent",
+   "fs": "différente",
+   "mp": "différents",
+   "fp": "différentes"
+  }
+ },
+ {
+  "lemma": "échapper",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 227.71,
+  "also": [],
+  "rank": 636
+ },
+ {
+  "lemma": "pardon",
+  "cgram": "ONO",
+  "section": "other",
+  "freq": 227.17,
+  "also": [
+   "NOM"
+  ],
+  "rank": 637
+ },
+ {
+  "lemma": "groupe",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 226.88,
+  "also": [],
+  "rank": 638,
+  "forms": {
+   "gender": "m",
+   "pl": "groupes"
+  }
+ },
+ {
+  "lemma": "sujet",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 226.16,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 639,
+  "forms": {
+   "gender": "m",
+   "pl": "sujets"
+  }
+ },
+ {
+  "lemma": "intérieur",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 225.99,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 640,
+  "forms": {
+   "gender": "m",
+   "pl": "intérieurs"
+  }
+ },
+ {
+  "lemma": "utiliser",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 225.95,
+  "also": [],
+  "rank": 641
+ },
+ {
+  "lemma": "flic",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 225.93,
+  "also": [],
+  "rank": 642,
+  "forms": {
+   "gender": "m",
+   "pl": "flics"
+  }
+ },
+ {
+  "lemma": "craindre",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 225.75,
+  "also": [],
+  "rank": 643
+ },
+ {
+  "lemma": "joie",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 225.29,
+  "also": [],
+  "rank": 644,
+  "forms": {
+   "gender": "f",
+   "pl": "joies"
+  }
+ },
+ {
+  "lemma": "rouler",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 225.27,
+  "also": [],
+  "rank": 645
+ },
+ {
+  "lemma": "entier",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 223.92,
+  "also": [
+   "NOM"
+  ],
+  "rank": 646,
+  "forms": {
+   "ms": "entier",
+   "fs": "entière",
+   "mp": "entiers",
+   "fp": "entières"
+  }
+ },
+ {
+  "lemma": "chat",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 223.74,
+  "also": [],
+  "rank": 647,
+  "forms": {
+   "gender": "m",
+   "pl": "chats",
+   "fem": "chatte"
+  }
+ },
+ {
+  "lemma": "cuisine",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 223.33,
+  "also": [],
+  "rank": 648,
+  "forms": {
+   "gender": "f",
+   "pl": "cuisines"
+  }
+ },
+ {
+  "lemma": "mouvement",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 223.3,
+  "also": [],
+  "rank": 649,
+  "forms": {
+   "gender": "m",
+   "pl": "mouvements"
+  }
+ },
+ {
+  "lemma": "président",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 223.05,
+  "also": [],
+  "rank": 650,
+  "forms": {
+   "gender": "m",
+   "pl": "présidents",
+   "fem": "présidente"
+  }
+ },
+ {
+  "lemma": "scène",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 222.89,
+  "also": [],
+  "rank": 651,
+  "forms": {
+   "gender": "f",
+   "pl": "scènes"
+  }
+ },
+ {
+  "lemma": "boîte",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 222.86,
+  "also": [],
+  "rank": 652,
+  "forms": {
+   "gender": "f",
+   "pl": "boîtes"
+  }
+ },
+ {
+  "lemma": "remarquer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 222.72,
+  "also": [],
+  "rank": 653
+ },
+ {
+  "lemma": "cour",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 221.94,
+  "also": [],
+  "rank": 654,
+  "forms": {
+   "gender": "f"
+  }
+ },
+ {
+  "lemma": "couvrir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 221.8,
+  "also": [],
+  "rank": 655
+ },
+ {
+  "lemma": "propos",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 221.49,
+  "also": [],
+  "rank": 656,
+  "forms": {
+   "gender": "m"
+  }
+ },
+ {
+  "lemma": "impossible",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 220.55,
+  "also": [
+   "NOM"
+  ],
+  "rank": 657,
+  "forms": {
+   "ms": "impossible",
+   "fs": "impossible",
+   "mp": "impossibles",
+   "fp": "impossibles"
+  }
+ },
+ {
+  "lemma": "au-dessus",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 220.3,
+  "also": [],
+  "rank": 658
+ },
+ {
+  "lemma": "prison",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 219.92,
+  "also": [],
+  "rank": 659,
+  "forms": {
+   "gender": "f",
+   "pl": "prisons"
+  }
+ },
+ {
+  "lemma": "maintenir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 219.83,
+  "also": [],
+  "rank": 660
+ },
+ {
+  "lemma": "exemple",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 219.82,
+  "also": [],
+  "rank": 661,
+  "forms": {
+   "gender": "m",
+   "pl": "exemples"
+  }
+ },
+ {
+  "lemma": "prochain",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 219.59,
+  "also": [
+   "NOM"
+  ],
+  "rank": 662,
+  "forms": {
+   "ms": "prochain",
+   "fs": "prochaine",
+   "mp": "prochains",
+   "fp": "prochaines"
+  }
+ },
+ {
+  "lemma": "cul",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 219.12,
+  "also": [],
+  "rank": 663,
+  "forms": {
+   "gender": "m",
+   "pl": "culs"
+  }
+ },
+ {
+  "lemma": "simplement",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 219.08,
+  "also": [],
+  "rank": 664
+ },
+ {
+  "lemma": "peuple",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 218.66,
+  "also": [],
+  "rank": 665,
+  "forms": {
+   "gender": "m",
+   "pl": "peuples"
+  }
+ },
+ {
+  "lemma": "humain",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 218.65,
+  "also": [
+   "NOM"
+  ],
+  "rank": 666,
+  "forms": {
+   "ms": "humain",
+   "fs": "humaine",
+   "mp": "humains",
+   "fp": "humaines"
+  }
+ },
+ {
+  "lemma": "nu",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 217.91,
+  "also": [
+   "NOM"
+  ],
+  "rank": 667,
+  "forms": {
+   "ms": "nu",
+   "fs": "nue",
+   "mp": "nus",
+   "fp": "nues"
+  }
+ },
+ {
+  "lemma": "vivant",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 217.2,
+  "also": [
+   "NOM"
+  ],
+  "rank": 668,
+  "forms": {
+   "ms": "vivant",
+   "fs": "vivante",
+   "mp": "vivants",
+   "fp": "vivantes"
+  }
+ },
+ {
+  "lemma": "balle",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 216.66,
+  "also": [],
+  "rank": 669,
+  "forms": {
+   "gender": "f",
+   "pl": "balles"
+  }
+ },
+ {
+  "lemma": "garde",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 216.56,
+  "also": [],
+  "rank": 670,
+  "forms": {
+   "gender": "",
+   "pl": "gardes"
+  }
+ },
+ {
+  "lemma": "médecin",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 215.8,
+  "also": [],
+  "rank": 671,
+  "forms": {
+   "gender": "m",
+   "pl": "médecins"
+  }
+ },
+ {
+  "lemma": "retenir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 215.5,
+  "also": [],
+  "rank": 672
+ },
+ {
+  "lemma": "charger",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 215.18,
+  "also": [],
+  "rank": 673
+ },
+ {
+  "lemma": "accompagner",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 215.02,
+  "also": [],
+  "rank": 674
+ },
+ {
+  "lemma": "brûler",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 215.01,
+  "also": [],
+  "rank": 675
+ },
+ {
+  "lemma": "seigneur",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 213.96,
+  "also": [],
+  "rank": 676,
+  "forms": {
+   "gender": "m",
+   "pl": "seigneurs"
+  }
+ },
+ {
+  "lemma": "situation",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 213.85,
+  "also": [],
+  "rank": 677,
+  "forms": {
+   "gender": "f",
+   "pl": "situations"
+  }
+ },
+ {
+  "lemma": "calmer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 213.61,
+  "also": [],
+  "rank": 678
+ },
+ {
+  "lemma": "camp",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 212.16,
+  "also": [],
+  "rank": 679,
+  "forms": {
+   "gender": "m",
+   "pl": "camps"
+  }
+ },
+ {
+  "lemma": "tranquille",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 211.65,
+  "also": [],
+  "rank": 680,
+  "forms": {
+   "ms": "tranquille",
+   "fs": "tranquille",
+   "mp": "tranquilles",
+   "fp": "tranquilles"
+  }
+ },
+ {
+  "lemma": "église",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 209.82,
+  "also": [],
+  "rank": 681,
+  "forms": {
+   "gender": "f",
+   "pl": "églises"
+  }
+ },
+ {
+  "lemma": "pensée",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 209.42,
+  "also": [],
+  "rank": 682,
+  "forms": {
+   "gender": "f",
+   "pl": "pensées"
+  }
+ },
+ {
+  "lemma": "triste",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 209.05,
+  "also": [],
+  "rank": 683,
+  "forms": {
+   "ms": "triste",
+   "fs": "triste",
+   "mp": "tristes",
+   "fp": "tristes"
+  }
+ },
+ {
+  "lemma": "chéri",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 208.26,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 684,
+  "forms": {
+   "gender": "f",
+   "pl": "chéries"
+  }
+ },
+ {
+  "lemma": "vide",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 207.83,
+  "also": [
+   "NOM"
+  ],
+  "rank": 685,
+  "forms": {
+   "ms": "vide",
+   "fs": "vide",
+   "mp": "vides",
+   "fp": "vides"
+  }
+ },
+ {
+  "lemma": "sûrement",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 207.79,
+  "also": [],
+  "rank": 686
+ },
+ {
+  "lemma": "présent",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 207.73,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 687,
+  "forms": {
+   "gender": "m",
+   "pl": "présents"
+  }
+ },
+ {
+  "lemma": "bateau",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 207.18,
+  "also": [],
+  "rank": 688,
+  "forms": {
+   "gender": "m",
+   "pl": "bateaux"
+  }
+ },
+ {
+  "lemma": "époque",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 206.95,
+  "also": [],
+  "rank": 689,
+  "forms": {
+   "gender": "f",
+   "pl": "époques"
+  }
+ },
+ {
+  "lemma": "tenter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 206.71,
+  "also": [],
+  "rank": 690
+ },
+ {
+  "lemma": "avion",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 206.39,
+  "also": [],
+  "rank": 691,
+  "forms": {
+   "gender": "m",
+   "pl": "avions"
+  }
+ },
+ {
+  "lemma": "gauche",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 206.37,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 692,
+  "forms": {
+   "gender": "",
+   "pl": "gauches"
+  }
+ },
+ {
+  "lemma": "marche",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 206.14,
+  "also": [],
+  "rank": 693,
+  "forms": {
+   "gender": "f",
+   "pl": "marches"
+  }
+ },
+ {
+  "lemma": "réfléchir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 205.76,
+  "also": [],
+  "rank": 694
+ },
+ {
+  "lemma": "avis",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 204.36,
+  "also": [],
+  "rank": 695,
+  "forms": {
+   "gender": "m"
+  }
+ },
+ {
+  "lemma": "ennemi",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 204.33,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 696,
+  "forms": {
+   "gender": "m",
+   "pl": "ennemis",
+   "fem": "ennemie"
+  }
+ },
+ {
+  "lemma": "faim",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 203.99,
+  "also": [],
+  "rank": 697,
+  "forms": {
+   "gender": "f",
+   "pl": "faims"
+  }
+ },
+ {
+  "lemma": "aussitôt",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 203.45,
+  "also": [],
+  "rank": 698
+ },
+ {
+  "lemma": "apparaître",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 203.04,
+  "also": [],
+  "rank": 699
+ },
+ {
+  "lemma": "prévenir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 203.0,
+  "also": [],
+  "rank": 700
+ },
+ {
+  "lemma": "protéger",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 202.94,
+  "also": [],
+  "rank": 701
+ },
+ {
+  "lemma": "lequel",
+  "cgram": "PRO:int",
+  "section": "other",
+  "freq": 201.4,
+  "also": [
+   "PRO:rel"
+  ],
+  "rank": 702,
+  "forms": {
+   "ms": "lequel",
+   "fs": "laquelle",
+   "mp": "lesquels",
+   "fp": "lesquelles"
+  }
+ },
+ {
+  "lemma": "cri",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 200.99,
+  "also": [],
+  "rank": 703,
+  "forms": {
+   "gender": "m",
+   "pl": "cris"
+  }
+ },
+ {
+  "lemma": "front",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 200.15,
+  "also": [],
+  "rank": 704,
+  "forms": {
+   "gender": "m",
+   "pl": "fronts"
+  }
+ },
+ {
+  "lemma": "prince",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 200.12,
+  "also": [],
+  "rank": 705,
+  "forms": {
+   "gender": "m",
+   "pl": "princes",
+   "fem": "princesse"
+  }
+ },
+ {
+  "lemma": "dent",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 199.88,
+  "also": [],
+  "rank": 706,
+  "forms": {
+   "gender": "f",
+   "pl": "dents"
+  }
+ },
+ {
+  "lemma": "goût",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 199.76,
+  "also": [],
+  "rank": 707,
+  "forms": {
+   "gender": "m",
+   "pl": "goûts"
+  }
+ },
+ {
+  "lemma": "risquer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 199.72,
+  "also": [],
+  "rank": 708
+ },
+ {
+  "lemma": "secret",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 199.5,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 709,
+  "forms": {
+   "gender": "m",
+   "pl": "secrets"
+  }
+ },
+ {
+  "lemma": "visite",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 199.27,
+  "also": [],
+  "rank": 710,
+  "forms": {
+   "gender": "f",
+   "pl": "visites"
+  }
+ },
+ {
+  "lemma": "obliger",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 199.2,
+  "also": [],
+  "rank": 711
+ },
+ {
+  "lemma": "inviter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 199.13,
+  "also": [],
+  "rank": 712
+ },
+ {
+  "lemma": "passage",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 199.12,
+  "also": [],
+  "rank": 713,
+  "forms": {
+   "gender": "m",
+   "pl": "passages"
+  }
+ },
+ {
+  "lemma": "trou",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 199.1,
+  "also": [],
+  "rank": 714,
+  "forms": {
+   "gender": "m",
+   "pl": "trous"
+  }
+ },
+ {
+  "lemma": "éviter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 197.94,
+  "also": [],
+  "rank": 715
+ },
+ {
+  "lemma": "vert",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 197.73,
+  "also": [
+   "NOM"
+  ],
+  "rank": 716,
+  "forms": {
+   "ms": "vert",
+   "fs": "verte",
+   "mp": "verts",
+   "fp": "vertes"
+  }
+ },
+ {
+  "lemma": "mille",
+  "cgram": "ADJ:num",
+  "section": "other",
+  "freq": 197.52,
+  "also": [
+   "NOM"
+  ],
+  "rank": 717
+ },
+ {
+  "lemma": "sol",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 197.51,
+  "also": [],
+  "rank": 718,
+  "forms": {
+   "gender": "m",
+   "pl": "sols"
+  }
+ },
+ {
+  "lemma": "chaud",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 197.47,
+  "also": [
+   "ADV",
+   "NOM"
+  ],
+  "rank": 719,
+  "forms": {
+   "ms": "chaud",
+   "fs": "chaude",
+   "mp": "chauds",
+   "fp": "chaudes"
+  }
+ },
+ {
+  "lemma": "vin",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 197.33,
+  "also": [],
+  "rank": 720,
+  "forms": {
+   "gender": "m",
+   "pl": "vins"
+  }
+ },
+ {
+  "lemma": "réponse",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 196.99,
+  "also": [],
+  "rank": 721,
+  "forms": {
+   "gender": "f",
+   "pl": "réponses"
+  }
+ },
+ {
+  "lemma": "poche",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 195.93,
+  "also": [],
+  "rank": 722,
+  "forms": {
+   "gender": "",
+   "pl": "poches"
+  }
+ },
+ {
+  "lemma": "langue",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 195.39,
+  "also": [],
+  "rank": 723,
+  "forms": {
+   "gender": "f",
+   "pl": "langues"
+  }
+ },
+ {
+  "lemma": "tante",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 195.0,
+  "also": [],
+  "rank": 724,
+  "forms": {
+   "gender": "f",
+   "pl": "tantes"
+  }
+ },
+ {
+  "lemma": "gouvernement",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 194.69,
+  "also": [],
+  "rank": 725,
+  "forms": {
+   "gender": "m",
+   "pl": "gouvernements"
+  }
+ },
+ {
+  "lemma": "client",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 193.67,
+  "also": [],
+  "rank": 726,
+  "forms": {
+   "gender": "m",
+   "pl": "clients",
+   "fem": "cliente"
+  }
+ },
+ {
+  "lemma": "été",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 192.74,
+  "also": [],
+  "rank": 727,
+  "forms": {
+   "gender": "m",
+   "pl": "étés"
+  }
+ },
+ {
+  "lemma": "sauf",
+  "cgram": "PRE",
+  "section": "other",
+  "freq": 192.53,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 728
+ },
+ {
+  "lemma": "selon",
+  "cgram": "PRE",
+  "section": "other",
+  "freq": 192.28,
+  "also": [],
+  "rank": 729
+ },
+ {
+  "lemma": "arranger",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 191.95,
+  "also": [],
+  "rank": 730
+ },
+ {
+  "lemma": "con",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 191.61,
+  "also": [
+   "ADJ",
+   "PRO:per"
+  ],
+  "rank": 731,
+  "forms": {
+   "gender": "m",
+   "pl": "cons",
+   "fem": "conne"
+  }
+ },
+ {
+  "lemma": "départ",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 191.53,
+  "also": [],
+  "rank": 732,
+  "forms": {
+   "gender": "m",
+   "pl": "départs"
+  }
+ },
+ {
+  "lemma": "courant",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 191.31,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 733,
+  "forms": {
+   "gender": "m",
+   "pl": "courants"
+  }
+ },
+ {
+  "lemma": "puisque",
+  "cgram": "CON",
+  "section": "other",
+  "freq": 190.91,
+  "also": [],
+  "rank": 734
+ },
+ {
+  "lemma": "oiseau",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 190.77,
+  "also": [],
+  "rank": 735,
+  "forms": {
+   "gender": "m",
+   "pl": "oiseaux"
+  }
+ },
+ {
+  "lemma": "moi-même",
+  "cgram": "PRO:per",
+  "section": "other",
+  "freq": 190.55,
+  "also": [],
+  "rank": 736
+ },
+ {
+  "lemma": "moyen",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 190.5,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 737,
+  "forms": {
+   "gender": "m",
+   "pl": "moyens"
+  }
+ },
+ {
+  "lemma": "emporter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 190.3,
+  "also": [],
+  "rank": 738
+ },
+ {
+  "lemma": "normal",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 189.92,
+  "also": [
+   "NOM"
+  ],
+  "rank": 739,
+  "forms": {
+   "ms": "normal",
+   "fs": "normale",
+   "mp": "normaux",
+   "fp": "normales"
+  }
+ },
+ {
+  "lemma": "proposer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 189.68,
+  "also": [],
+  "rank": 740
+ },
+ {
+  "lemma": "annoncer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 189.59,
+  "also": [],
+  "rank": 741
+ },
+ {
+  "lemma": "filer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 189.48,
+  "also": [],
+  "rank": 742
+ },
+ {
+  "lemma": "étrange",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 189.19,
+  "also": [
+   "NOM"
+  ],
+  "rank": 743,
+  "forms": {
+   "ms": "étrange",
+   "fs": "étrange",
+   "mp": "étranges",
+   "fp": "étranges"
+  }
+ },
+ {
+  "lemma": "ventre",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 188.87,
+  "also": [],
+  "rank": 744,
+  "forms": {
+   "gender": "m",
+   "pl": "ventres"
+  }
+ },
+ {
+  "lemma": "léger",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 188.78,
+  "also": [],
+  "rank": 745,
+  "forms": {
+   "ms": "léger",
+   "fs": "légère",
+   "mp": "légers",
+   "fp": "légères"
+  }
+ },
+ {
+  "lemma": "atteindre",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 188.59,
+  "also": [],
+  "rank": 746
+ },
+ {
+  "lemma": "traîner",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 188.26,
+  "also": [],
+  "rank": 747
+ },
+ {
+  "lemma": "contraire",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 188.14,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 748,
+  "forms": {
+   "gender": "m",
+   "pl": "contraires"
+  }
+ },
+ {
+  "lemma": "hôpital",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 188.08,
+  "also": [],
+  "rank": 749,
+  "forms": {
+   "gender": "m",
+   "pl": "hôpitaux"
+  }
+ },
+ {
+  "lemma": "classe",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 187.91,
+  "also": [],
+  "rank": 750,
+  "forms": {
+   "gender": "f",
+   "pl": "classes"
+  }
+ },
+ {
+  "lemma": "ceci",
+  "cgram": "PRO:dem",
+  "section": "other",
+  "freq": 186.85,
+  "also": [],
+  "rank": 751
+ },
+ {
+  "lemma": "honte",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 186.85,
+  "also": [],
+  "rank": 752,
+  "forms": {
+   "gender": "f",
+   "pl": "hontes"
+  }
+ },
+ {
+  "lemma": "complètement",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 186.82,
+  "also": [],
+  "rank": 753
+ },
+ {
+  "lemma": "avenir",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 186.33,
+  "also": [],
+  "rank": 754,
+  "forms": {
+   "gender": "m",
+   "pl": "avenirs"
+  }
+ },
+ {
+  "lemma": "sec",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 185.86,
+  "also": [],
+  "rank": 755,
+  "forms": {
+   "ms": "sec",
+   "fs": "sèche",
+   "mp": "secs",
+   "fp": "sèches"
+  }
+ },
+ {
+  "lemma": "détester",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 185.51,
+  "also": [],
+  "rank": 756
+ },
+ {
+  "lemma": "deviner",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 185.07,
+  "also": [],
+  "rank": 757
+ },
+ {
+  "lemma": "bête",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 185.03,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 758,
+  "forms": {
+   "gender": "f",
+   "pl": "bêtes"
+  }
+ },
+ {
+  "lemma": "vingt",
+  "cgram": "ADJ:num",
+  "section": "other",
+  "freq": 184.06,
+  "also": [],
+  "rank": 759
+ },
+ {
+  "lemma": "pardonner",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 184.05,
+  "also": [],
+  "rank": 760
+ },
+ {
+  "lemma": "bizarre",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 183.64,
+  "also": [],
+  "rank": 761,
+  "forms": {
+   "ms": "bizarre",
+   "fs": "bizarre",
+   "mp": "bizarres",
+   "fp": "bizarres"
+  }
+ },
+ {
+  "lemma": "bonsoir",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 183.4,
+  "also": [],
+  "rank": 762,
+  "forms": {
+   "gender": "m",
+   "pl": "bonsoirs"
+  }
+ },
+ {
+  "lemma": "lentement",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 183.03,
+  "also": [],
+  "rank": 763
+ },
+ {
+  "lemma": "fumer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 182.88,
+  "also": [],
+  "rank": 764
+ },
+ {
+  "lemma": "supposer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 182.81,
+  "also": [],
+  "rank": 765
+ },
+ {
+  "lemma": "tel",
+  "cgram": "ADJ:ind",
+  "section": "other",
+  "freq": 182.64,
+  "also": [
+   "PRO:ind"
+  ],
+  "rank": 766,
+  "forms": {
+   "ms": "tel",
+   "fs": "telle",
+   "mp": "tels",
+   "fp": "telles"
+  }
+ },
+ {
+  "lemma": "loi",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 182.42,
+  "also": [],
+  "rank": 767,
+  "forms": {
+   "gender": "f",
+   "pl": "lois"
+  }
+ },
+ {
+  "lemma": "genou",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 182.15,
+  "also": [],
+  "rank": 768,
+  "forms": {
+   "gender": "m",
+   "pl": "genoux"
+  }
+ },
+ {
+  "lemma": "escalier",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 181.14,
+  "also": [],
+  "rank": 769,
+  "forms": {
+   "gender": "m",
+   "pl": "escaliers"
+  }
+ },
+ {
+  "lemma": "présence",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 180.57,
+  "also": [],
+  "rank": 770,
+  "forms": {
+   "gender": "f",
+   "pl": "présences"
+  }
+ },
+ {
+  "lemma": "cigarette",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 180.5,
+  "also": [],
+  "rank": 771,
+  "forms": {
+   "gender": "f",
+   "pl": "cigarettes"
+  }
+ },
+ {
+  "lemma": "moindre",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 180.39,
+  "also": [],
+  "rank": 772,
+  "forms": {
+   "ms": "moindre",
+   "fs": "moindre",
+   "mp": "moindres",
+   "fp": "moindres"
+  }
+ },
+ {
+  "lemma": "effort",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 179.32,
+  "also": [],
+  "rank": 773,
+  "forms": {
+   "gender": "m",
+   "pl": "efforts"
+  }
+ },
+ {
+  "lemma": "larme",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 179.22,
+  "also": [],
+  "rank": 774,
+  "forms": {
+   "gender": "f",
+   "pl": "larmes"
+  }
+ },
+ {
+  "lemma": "parvenir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 179.15,
+  "also": [],
+  "rank": 775
+ },
+ {
+  "lemma": "reposer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 179.12,
+  "also": [],
+  "rank": 776
+ },
+ {
+  "lemma": "soirée",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 179.06,
+  "also": [],
+  "rank": 777,
+  "forms": {
+   "gender": "f",
+   "pl": "soirées"
+  }
+ },
+ {
+  "lemma": "baisser",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 178.96,
+  "also": [],
+  "rank": 778
+ },
+ {
+  "lemma": "million",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 178.75,
+  "also": [],
+  "rank": 779,
+  "forms": {
+   "gender": "m",
+   "pl": "millions"
+  }
+ },
+ {
+  "lemma": "siècle",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 178.68,
+  "also": [],
+  "rank": 780,
+  "forms": {
+   "gender": "m",
+   "pl": "siècles"
+  }
+ },
+ {
+  "lemma": "retirer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 178.57,
+  "also": [],
+  "rank": 781
+ },
+ {
+  "lemma": "lendemain",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 178.55,
+  "also": [],
+  "rank": 782,
+  "forms": {
+   "gender": "m",
+   "pl": "lendemains"
+  }
+ },
+ {
+  "lemma": "respirer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 178.51,
+  "also": [],
+  "rank": 783
+ },
+ {
+  "lemma": "cent",
+  "cgram": "ADJ:num",
+  "section": "other",
+  "freq": 178.46,
+  "also": [
+   "NOM"
+  ],
+  "rank": 784
+ },
+ {
+  "lemma": "intérêt",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 178.45,
+  "also": [],
+  "rank": 785,
+  "forms": {
+   "gender": "m",
+   "pl": "intérêts"
+  }
+ },
+ {
+  "lemma": "détruire",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 178.44,
+  "also": [],
+  "rank": 786
+ },
+ {
+  "lemma": "épouser",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 178.04,
+  "also": [],
+  "rank": 787
+ },
+ {
+  "lemma": "quartier",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 177.86,
+  "also": [],
+  "rank": 788,
+  "forms": {
+   "gender": "m",
+   "pl": "quartiers"
+  }
+ },
+ {
+  "lemma": "passé",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 177.83,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 789,
+  "forms": {
+   "gender": "m",
+   "pl": "passés"
+  }
+ },
+ {
+  "lemma": "liberté",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 177.5,
+  "also": [],
+  "rank": 790,
+  "forms": {
+   "gender": "f",
+   "pl": "libertés"
+  }
+ },
+ {
+  "lemma": "camarade",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 176.8,
+  "also": [],
+  "rank": 791,
+  "forms": {
+   "gender": "",
+   "pl": "camarades"
+  }
+ },
+ {
+  "lemma": "droite",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 176.67,
+  "also": [],
+  "rank": 792,
+  "forms": {
+   "gender": "f",
+   "pl": "droites"
+  }
+ },
+ {
+  "lemma": "cadeau",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 176.6,
+  "also": [],
+  "rank": 793,
+  "forms": {
+   "gender": "m",
+   "pl": "cadeaux"
+  }
+ },
+ {
+  "lemma": "sérieux",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 176.49,
+  "also": [
+   "NOM"
+  ],
+  "rank": 794,
+  "forms": {
+   "ms": "sérieux",
+   "fs": "sérieuse",
+   "mp": "sérieux",
+   "fp": "sérieuses"
+  }
+ },
+ {
+  "lemma": "erreur",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 176.24,
+  "also": [],
+  "rank": 795,
+  "forms": {
+   "gender": "f",
+   "pl": "erreurs"
+  }
+ },
+ {
+  "lemma": "séparer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 176.02,
+  "also": [],
+  "rank": 796
+ },
+ {
+  "lemma": "durer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 176.01,
+  "also": [],
+  "rank": 797
+ },
+ {
+  "lemma": "terrible",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 175.77,
+  "also": [],
+  "rank": 798,
+  "forms": {
+   "ms": "terrible",
+   "fs": "terrible",
+   "mp": "terribles",
+   "fp": "terribles"
+  }
+ },
+ {
+  "lemma": "appartement",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 175.59,
+  "also": [],
+  "rank": 799,
+  "forms": {
+   "gender": "m",
+   "pl": "appartements"
+  }
+ },
+ {
+  "lemma": "lourd",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 175.33,
+  "also": [
+   "ADV",
+   "NOM"
+  ],
+  "rank": 800,
+  "forms": {
+   "ms": "lourd",
+   "fs": "lourde",
+   "mp": "lourds",
+   "fp": "lourdes"
+  }
+ },
+ {
+  "lemma": "gris",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 174.5,
+  "also": [
+   "NOM"
+  ],
+  "rank": 801,
+  "forms": {
+   "ms": "gris",
+   "fs": "grise",
+   "mp": "gris",
+   "fp": "grises"
+  }
+ },
+ {
+  "lemma": "éloigner",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 174.26,
+  "also": [],
+  "rank": 802
+ },
+ {
+  "lemma": "traiter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 173.97,
+  "also": [],
+  "rank": 803
+ },
+ {
+  "lemma": "fixer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 173.68,
+  "also": [],
+  "rank": 804
+ },
+ {
+  "lemma": "appel",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 173.63,
+  "also": [],
+  "rank": 805,
+  "forms": {
+   "gender": "m",
+   "pl": "appels"
+  }
+ },
+ {
+  "lemma": "mètre",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 173.56,
+  "also": [],
+  "rank": 806,
+  "forms": {
+   "gender": "m",
+   "pl": "mètres"
+  }
+ },
+ {
+  "lemma": "poste",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 173.55,
+  "also": [],
+  "rank": 807,
+  "forms": {
+   "gender": "",
+   "pl": "postes"
+  }
+ },
+ {
+  "lemma": "surprendre",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 173.42,
+  "also": [],
+  "rank": 808
+ },
+ {
+  "lemma": "retard",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 173.07,
+  "also": [],
+  "rank": 809,
+  "forms": {
+   "gender": "m",
+   "pl": "retards"
+  }
+ },
+ {
+  "lemma": "pain",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 172.99,
+  "also": [],
+  "rank": 810,
+  "forms": {
+   "gender": "m",
+   "pl": "pains"
+  }
+ },
+ {
+  "lemma": "appartenir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 172.93,
+  "also": [],
+  "rank": 811
+ },
+ {
+  "lemma": "preuve",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 172.88,
+  "also": [],
+  "rank": 812,
+  "forms": {
+   "gender": "f",
+   "pl": "preuves"
+  }
+ },
+ {
+  "lemma": "pencher",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 172.78,
+  "also": [],
+  "rank": 813
+ },
+ {
+  "lemma": "neuf",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 172.63,
+  "also": [
+   "ADJ:num"
+  ],
+  "rank": 814,
+  "forms": {
+   "ms": "neuf",
+   "fs": "neuve",
+   "mp": "neufs",
+   "fp": "neuves"
+  }
+ },
+ {
+  "lemma": "saisir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 172.55,
+  "also": [],
+  "rank": 815
+ },
+ {
+  "lemma": "ouvert",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 172.33,
+  "also": [],
+  "rank": 816,
+  "forms": {
+   "ms": "ouvert",
+   "fs": "ouverte",
+   "mp": "ouverts",
+   "fp": "ouvertes"
+  }
+ },
+ {
+  "lemma": "hasard",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 172.26,
+  "also": [],
+  "rank": 817,
+  "forms": {
+   "gender": "m",
+   "pl": "hasards"
+  }
+ },
+ {
+  "lemma": "grand-père",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 172.13,
+  "also": [],
+  "rank": 818,
+  "forms": {
+   "gender": "m",
+   "pl": "grands-pères"
+  }
+ },
+ {
+  "lemma": "mémoire",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 171.75,
+  "also": [],
+  "rank": 819,
+  "forms": {
+   "gender": "",
+   "pl": "mémoires"
+  }
+ },
+ {
+  "lemma": "gosse",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 171.72,
+  "also": [],
+  "rank": 820,
+  "forms": {
+   "gender": "",
+   "pl": "gosses"
+  }
+ },
+ {
+  "lemma": "conseil",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 171.6,
+  "also": [],
+  "rank": 821,
+  "forms": {
+   "gender": "m",
+   "pl": "conseils"
+  }
+ },
+ {
+  "lemma": "poursuivre",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 171.25,
+  "also": [],
+  "rank": 822
+ },
+ {
+  "lemma": "allumer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 171.08,
+  "also": [],
+  "rank": 823
+ },
+ {
+  "lemma": "compagnie",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 170.94,
+  "also": [],
+  "rank": 824,
+  "forms": {
+   "gender": "f",
+   "pl": "compagnies"
+  }
+ },
+ {
+  "lemma": "déranger",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 170.94,
+  "also": [],
+  "rank": 825
+ },
+ {
+  "lemma": "objet",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 170.26,
+  "also": [],
+  "rank": 826,
+  "forms": {
+   "gender": "m",
+   "pl": "objets"
+  }
+ },
+ {
+  "lemma": "étonner",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 170.18,
+  "also": [],
+  "rank": 827
+ },
+ {
+  "lemma": "attaquer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 170.04,
+  "also": [],
+  "rank": 828
+ },
+ {
+  "lemma": "défendre",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 169.63,
+  "also": [],
+  "rank": 829
+ },
+ {
+  "lemma": "énorme",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 169.27,
+  "also": [],
+  "rank": 830,
+  "forms": {
+   "ms": "énorme",
+   "fs": "énorme",
+   "mp": "énormes",
+   "fp": "énormes"
+  }
+ },
+ {
+  "lemma": "obtenir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 169.03,
+  "also": [],
+  "rank": 831
+ },
+ {
+  "lemma": "colère",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 168.97,
+  "also": [],
+  "rank": 832,
+  "forms": {
+   "gender": "f",
+   "pl": "colères"
+  }
+ },
+ {
+  "lemma": "dessus",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 168.76,
+  "also": [
+   "NOM"
+  ],
+  "rank": 833
+ },
+ {
+  "lemma": "couler",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 168.71,
+  "also": [],
+  "rank": 834
+ },
+ {
+  "lemma": "pluie",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 168.67,
+  "also": [],
+  "rank": 835,
+  "forms": {
+   "gender": "f",
+   "pl": "pluies"
+  }
+ },
+ {
+  "lemma": "remercier",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 168.16,
+  "also": [],
+  "rank": 836
+ },
+ {
+  "lemma": "feuille",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 168.14,
+  "also": [],
+  "rank": 837,
+  "forms": {
+   "gender": "f",
+   "pl": "feuilles"
+  }
+ },
+ {
+  "lemma": "recommencer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 168.0,
+  "also": [],
+  "rank": 838
+ },
+ {
+  "lemma": "attraper",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 167.86,
+  "also": [],
+  "rank": 839
+ },
+ {
+  "lemma": "grand-mère",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 167.81,
+  "also": [],
+  "rank": 840,
+  "forms": {
+   "gender": "f",
+   "pl": "grand-mères"
+  }
+ },
+ {
+  "lemma": "douleur",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 167.78,
+  "also": [],
+  "rank": 841,
+  "forms": {
+   "gender": "f",
+   "pl": "douleurs"
+  }
+ },
+ {
+  "lemma": "souhaiter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 167.75,
+  "also": [],
+  "rank": 842
+ },
+ {
+  "lemma": "occasion",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 167.63,
+  "also": [],
+  "rank": 843,
+  "forms": {
+   "gender": "f",
+   "pl": "occasions"
+  }
+ },
+ {
+  "lemma": "arracher",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 167.57,
+  "also": [],
+  "rank": 844
+ },
+ {
+  "lemma": "supporter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 167.26,
+  "also": [
+   "NOM"
+  ],
+  "rank": 845
+ },
+ {
+  "lemma": "appuyer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 166.96,
+  "also": [],
+  "rank": 846
+ },
+ {
+  "lemma": "entrée",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 166.86,
+  "also": [],
+  "rank": 847,
+  "forms": {
+   "gender": "f",
+   "pl": "entrées"
+  }
+ },
+ {
+  "lemma": "clé",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 166.71,
+  "also": [],
+  "rank": 848,
+  "forms": {
+   "gender": "f",
+   "pl": "clés"
+  }
+ },
+ {
+  "lemma": "île",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 166.59,
+  "also": [],
+  "rank": 849,
+  "forms": {
+   "gender": "f",
+   "pl": "îles"
+  }
+ },
+ {
+  "lemma": "mêler",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 166.48,
+  "also": [],
+  "rank": 850
+ },
+ {
+  "lemma": "rôle",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 166.34,
+  "also": [],
+  "rank": 851,
+  "forms": {
+   "gender": "m",
+   "pl": "rôles"
+  }
+ },
+ {
+  "lemma": "amoureux",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 166.24,
+  "also": [
+   "NOM"
+  ],
+  "rank": 852,
+  "forms": {
+   "ms": "amoureux",
+   "fs": "amoureuse",
+   "mp": "amoureux",
+   "fp": "amoureuses"
+  }
+ },
+ {
+  "lemma": "sonner",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 166.24,
+  "also": [],
+  "rank": 853
+ },
+ {
+  "lemma": "espoir",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 166.11,
+  "also": [],
+  "rank": 854,
+  "forms": {
+   "gender": "m",
+   "pl": "espoirs"
+  }
+ },
+ {
+  "lemma": "douter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 165.88,
+  "also": [],
+  "rank": 855
+ },
+ {
+  "lemma": "beauté",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 165.2,
+  "also": [],
+  "rank": 856,
+  "forms": {
+   "gender": "f",
+   "pl": "beautés"
+  }
+ },
+ {
+  "lemma": "dimanche",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 165.13,
+  "also": [],
+  "rank": 857,
+  "forms": {
+   "gender": "m",
+   "pl": "dimanches"
+  }
+ },
+ {
+  "lemma": "mesure",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 164.99,
+  "also": [],
+  "rank": 858,
+  "forms": {
+   "gender": "f",
+   "pl": "mesures"
+  }
+ },
+ {
+  "lemma": "regretter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 164.99,
+  "also": [],
+  "rank": 859
+ },
+ {
+  "lemma": "choix",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 164.77,
+  "also": [],
+  "rank": 860,
+  "forms": {
+   "gender": "m"
+  }
+ },
+ {
+  "lemma": "fil",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 164.65,
+  "also": [],
+  "rank": 861,
+  "forms": {
+   "gender": "m",
+   "pl": "fils"
+  }
+ },
+ {
+  "lemma": "grâce",
+  "cgram": "PRE",
+  "section": "other",
+  "freq": 164.46,
+  "also": [
+   "NOM"
+  ],
+  "rank": 862
+ },
+ {
+  "lemma": "relever",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 164.42,
+  "also": [],
+  "rank": 863
+ },
+ {
+  "lemma": "hors",
+  "cgram": "PRE",
+  "section": "other",
+  "freq": 164.37,
+  "also": [],
+  "rank": 864
+ },
+ {
+  "lemma": "équipe",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 164.29,
+  "also": [],
+  "rank": 865,
+  "forms": {
+   "gender": "f",
+   "pl": "équipes"
+  }
+ },
+ {
+  "lemma": "art",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 164.28,
+  "also": [],
+  "rank": 866,
+  "forms": {
+   "gender": "m",
+   "pl": "arts"
+  }
+ },
+ {
+  "lemma": "morceau",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 164.1,
+  "also": [],
+  "rank": 867,
+  "forms": {
+   "gender": "m",
+   "pl": "morceaux"
+  }
+ },
+ {
+  "lemma": "cousin",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 163.8,
+  "also": [],
+  "rank": 868,
+  "forms": {
+   "gender": "m",
+   "pl": "cousins",
+   "fem": "cousine"
+  }
+ },
+ {
+  "lemma": "champ",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 163.71,
+  "also": [],
+  "rank": 869,
+  "forms": {
+   "gender": "m",
+   "pl": "champs"
+  }
+ },
+ {
+  "lemma": "capable",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 163.2,
+  "also": [],
+  "rank": 870,
+  "forms": {
+   "ms": "capable",
+   "fs": "capable",
+   "mp": "capables",
+   "fp": "capables"
+  }
+ },
+ {
+  "lemma": "animal",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 163.14,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 871,
+  "forms": {
+   "gender": "m",
+   "pl": "animaux"
+  }
+ },
+ {
+  "lemma": "engager",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 162.81,
+  "also": [],
+  "rank": 872
+ },
+ {
+  "lemma": "phrase",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 162.48,
+  "also": [],
+  "rank": 873,
+  "forms": {
+   "gender": "f",
+   "pl": "phrases"
+  }
+ },
+ {
+  "lemma": "professeur",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 162.47,
+  "also": [],
+  "rank": 874,
+  "forms": {
+   "gender": "f",
+   "pl": "professeurs"
+  }
+ },
+ {
+  "lemma": "désir",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 162.44,
+  "also": [],
+  "rank": 875,
+  "forms": {
+   "gender": "m",
+   "pl": "désirs"
+  }
+ },
+ {
+  "lemma": "super",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 161.92,
+  "also": [
+   "NOM"
+  ],
+  "rank": 876,
+  "forms": {
+   "ms": "super",
+   "fs": "super",
+   "mp": "supers",
+   "fp": "supers"
+  }
+ },
+ {
+  "lemma": "bouteille",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 161.29,
+  "also": [],
+  "rank": 877,
+  "forms": {
+   "gender": "f",
+   "pl": "bouteilles"
+  }
+ },
+ {
+  "lemma": "huit",
+  "cgram": "ADJ:num",
+  "section": "other",
+  "freq": 160.97,
+  "also": [],
+  "rank": 878
+ },
+ {
+  "lemma": "diriger",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 160.78,
+  "also": [],
+  "rank": 879
+ },
+ {
+  "lemma": "dégager",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 160.51,
+  "also": [],
+  "rank": 880
+ },
+ {
+  "lemma": "surprise",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 160.1,
+  "also": [],
+  "rank": 881,
+  "forms": {
+   "gender": "f",
+   "pl": "surprises"
+  }
+ },
+ {
+  "lemma": "cependant",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 159.8,
+  "also": [
+   "CON"
+  ],
+  "rank": 882
+ },
+ {
+  "lemma": "message",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 159.68,
+  "also": [],
+  "rank": 883,
+  "forms": {
+   "gender": "m",
+   "pl": "messages"
+  }
+ },
+ {
+  "lemma": "cou",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 159.43,
+  "also": [],
+  "rank": 884,
+  "forms": {
+   "gender": "m",
+   "pl": "cous"
+  }
+ },
+ {
+  "lemma": "sommeil",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 159.33,
+  "also": [],
+  "rank": 885,
+  "forms": {
+   "gender": "m",
+   "pl": "sommeils"
+  }
+ },
+ {
+  "lemma": "observer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 158.67,
+  "also": [],
+  "rank": 886
+ },
+ {
+  "lemma": "coller",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 158.47,
+  "also": [],
+  "rank": 887
+ },
+ {
+  "lemma": "calme",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 158.44,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 888,
+  "forms": {
+   "gender": "m",
+   "pl": "calmes"
+  }
+ },
+ {
+  "lemma": "profiter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 158.42,
+  "also": [],
+  "rank": 889
+ },
+ {
+  "lemma": "campagne",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 158.35,
+  "also": [],
+  "rank": 890,
+  "forms": {
+   "gender": "f",
+   "pl": "campagnes"
+  }
+ },
+ {
+  "lemma": "chaise",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 158.33,
+  "also": [],
+  "rank": 891,
+  "forms": {
+   "gender": "f",
+   "pl": "chaises"
+  }
+ },
+ {
+  "lemma": "frais",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 158.12,
+  "also": [
+   "NOM"
+  ],
+  "rank": 892,
+  "forms": {
+   "ms": "frais",
+   "fs": "fraîche",
+   "mp": "frais",
+   "fp": "fraîches"
+  }
+ },
+ {
+  "lemma": "partager",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 158.07,
+  "also": [],
+  "rank": 893
+ },
+ {
+  "lemma": "glace",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 157.83,
+  "also": [],
+  "rank": 894,
+  "forms": {
+   "gender": "f",
+   "pl": "glaces"
+  }
+ },
+ {
+  "lemma": "avouer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 157.78,
+  "also": [],
+  "rank": 895
+ },
+ {
+  "lemma": "sombre",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 157.6,
+  "also": [],
+  "rank": 896,
+  "forms": {
+   "ms": "sombre",
+   "fs": "sombre",
+   "mp": "sombres",
+   "fp": "sombres"
+  }
+ },
+ {
+  "lemma": "bain",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 157.52,
+  "also": [],
+  "rank": 897,
+  "forms": {
+   "gender": "m",
+   "pl": "bains"
+  }
+ },
+ {
+  "lemma": "conversation",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 157.51,
+  "also": [],
+  "rank": 898,
+  "forms": {
+   "gender": "f",
+   "pl": "conversations"
+  }
+ },
+ {
+  "lemma": "agent",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 157.16,
+  "also": [],
+  "rank": 899,
+  "forms": {
+   "gender": "m",
+   "pl": "agents",
+   "fem": "agente"
+  }
+ },
+ {
+  "lemma": "dîner",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 157.03,
+  "also": [
+   "VER"
+  ],
+  "rank": 900,
+  "forms": {
+   "gender": "m",
+   "pl": "dîners"
+  }
+ },
+ {
+  "lemma": "baiser",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 156.94,
+  "also": [
+   "NOM"
+  ],
+  "rank": 901
+ },
+ {
+  "lemma": "action",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 156.7,
+  "also": [],
+  "rank": 902,
+  "forms": {
+   "gender": "f",
+   "pl": "actions"
+  }
+ },
+ {
+  "lemma": "pire",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 156.53,
+  "also": [
+   "NOM"
+  ],
+  "rank": 903,
+  "forms": {
+   "ms": "pire",
+   "fs": "pire",
+   "mp": "pires",
+   "fp": "pires"
+  }
+ },
+ {
+  "lemma": "nature",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 156.08,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 904,
+  "forms": {
+   "gender": "f",
+   "pl": "natures"
+  }
+ },
+ {
+  "lemma": "élever",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 155.88,
+  "also": [],
+  "rank": 905
+ },
+ {
+  "lemma": "chaleur",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 155.35,
+  "also": [],
+  "rank": 906,
+  "forms": {
+   "gender": "f",
+   "pl": "chaleurs"
+  }
+ },
+ {
+  "lemma": "prévoir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 155.31,
+  "also": [],
+  "rank": 907
+ },
+ {
+  "lemma": "discuter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 155.07,
+  "also": [],
+  "rank": 908
+ },
+ {
+  "lemma": "page",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 154.95,
+  "also": [],
+  "rank": 909,
+  "forms": {
+   "gender": "",
+   "pl": "pages"
+  }
+ },
+ {
+  "lemma": "placer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 154.7,
+  "also": [],
+  "rank": 910
+ },
+ {
+  "lemma": "joue",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 154.04,
+  "also": [],
+  "rank": 911,
+  "forms": {
+   "gender": "f",
+   "pl": "joues"
+  }
+ },
+ {
+  "lemma": "signer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 154.0,
+  "also": [],
+  "rank": 912
+ },
+ {
+  "lemma": "moitié",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 153.82,
+  "also": [
+   "ADV"
+  ],
+  "rank": 913,
+  "forms": {
+   "gender": "f",
+   "pl": "moitiés"
+  }
+ },
+ {
+  "lemma": "course",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 153.7,
+  "also": [],
+  "rank": 914,
+  "forms": {
+   "gender": "f",
+   "pl": "courses"
+  }
+ },
+ {
+  "lemma": "herbe",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 153.32,
+  "also": [],
+  "rank": 915,
+  "forms": {
+   "gender": "f",
+   "pl": "herbes"
+  }
+ },
+ {
+  "lemma": "absolument",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 153.24,
+  "also": [],
+  "rank": 916
+ },
+ {
+  "lemma": "fuir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 153.24,
+  "also": [],
+  "rank": 917
+ },
+ {
+  "lemma": "direction",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 153.1,
+  "also": [],
+  "rank": 918,
+  "forms": {
+   "gender": "f",
+   "pl": "directions"
+  }
+ },
+ {
+  "lemma": "juger",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 153.08,
+  "also": [],
+  "rank": 919
+ },
+ {
+  "lemma": "accident",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 153.01,
+  "also": [],
+  "rank": 920,
+  "forms": {
+   "gender": "m",
+   "pl": "accidents"
+  }
+ },
+ {
+  "lemma": "machine",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 152.72,
+  "also": [],
+  "rank": 921,
+  "forms": {
+   "gender": "f",
+   "pl": "machines"
+  }
+ },
+ {
+  "lemma": "hésiter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 152.49,
+  "also": [],
+  "rank": 922
+ },
+ {
+  "lemma": "victime",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 152.47,
+  "also": [],
+  "rank": 923,
+  "forms": {
+   "gender": "f",
+   "pl": "victimes"
+  }
+ },
+ {
+  "lemma": "sécurité",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 152.29,
+  "also": [],
+  "rank": 924,
+  "forms": {
+   "gender": "f",
+   "pl": "sécurités"
+  }
+ },
+ {
+  "lemma": "entraîner",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 151.76,
+  "also": [],
+  "rank": 925
+ },
+ {
+  "lemma": "vêtement",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 151.62,
+  "also": [],
+  "rank": 926,
+  "forms": {
+   "gender": "m",
+   "pl": "vêtements"
+  }
+ },
+ {
+  "lemma": "mériter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 151.59,
+  "also": [],
+  "rank": 927
+ },
+ {
+  "lemma": "avance",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 151.55,
+  "also": [],
+  "rank": 928,
+  "forms": {
+   "gender": "f",
+   "pl": "avances"
+  }
+ },
+ {
+  "lemma": "accrocher",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 151.49,
+  "also": [],
+  "rank": 929
+ },
+ {
+  "lemma": "fer",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 151.27,
+  "also": [],
+  "rank": 930,
+  "forms": {
+   "gender": "m",
+   "pl": "fers",
+   "fem": "fère"
+  }
+ },
+ {
+  "lemma": "tandis que",
+  "cgram": "CON",
+  "section": "other",
+  "freq": 151.19,
+  "also": [],
+  "rank": 931
+ },
+ {
+  "lemma": "vérifier",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 151.14,
+  "also": [],
+  "rank": 932
+ },
+ {
+  "lemma": "dollar",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 151.06,
+  "also": [],
+  "rank": 933,
+  "forms": {
+   "gender": "m",
+   "pl": "dollars"
+  }
+ },
+ {
+  "lemma": "colonel",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 150.73,
+  "also": [],
+  "rank": 934,
+  "forms": {
+   "gender": "m",
+   "pl": "colonels",
+   "fem": "colonelle"
+  }
+ },
+ {
+  "lemma": "bande",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 150.59,
+  "also": [],
+  "rank": 935,
+  "forms": {
+   "gender": "f",
+   "pl": "bandes"
+  }
+ },
+ {
+  "lemma": "vacance",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 150.47,
+  "also": [],
+  "rank": 936,
+  "forms": {
+   "gender": "f",
+   "pl": "vacances"
+  }
+ },
+ {
+  "lemma": "éprouver",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 150.44,
+  "also": [],
+  "rank": 937
+ },
+ {
+  "lemma": "avocat",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 150.33,
+  "also": [],
+  "rank": 938,
+  "forms": {
+   "gender": "m",
+   "pl": "avocats",
+   "fem": "avocate"
+  }
+ },
+ {
+  "lemma": "court",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 150.14,
+  "also": [
+   "ADV",
+   "NOM"
+  ],
+  "rank": 939,
+  "forms": {
+   "ms": "court",
+   "fs": "courte",
+   "mp": "courts",
+   "fp": "courtes"
+  }
+ },
+ {
+  "lemma": "former",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 149.96,
+  "also": [],
+  "rank": 940
+ },
+ {
+  "lemma": "malheur",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 149.53,
+  "also": [],
+  "rank": 941,
+  "forms": {
+   "gender": "m",
+   "pl": "malheurs"
+  }
+ },
+ {
+  "lemma": "dangereux",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 149.41,
+  "also": [],
+  "rank": 942,
+  "forms": {
+   "ms": "dangereux",
+   "fs": "dangereuse",
+   "mp": "dangereux",
+   "fp": "dangereuses"
+  }
+ },
+ {
+  "lemma": "crime",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 149.14,
+  "also": [],
+  "rank": 943,
+  "forms": {
+   "gender": "m",
+   "pl": "crimes"
+  }
+ },
+ {
+  "lemma": "prêter",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 149.09,
+  "also": [],
+  "rank": 944
+ },
+ {
+  "lemma": "tas",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 149.06,
+  "also": [],
+  "rank": 945,
+  "forms": {
+   "gender": "m"
+  }
+ },
+ {
+  "lemma": "ressentir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 148.92,
+  "also": [],
+  "rank": 946
+ },
+ {
+  "lemma": "pur",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 148.8,
+  "also": [],
+  "rank": 947,
+  "forms": {
+   "ms": "pur",
+   "fs": "pure",
+   "mp": "purs",
+   "fp": "pures"
+  }
+ },
+ {
+  "lemma": "forêt",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 148.25,
+  "also": [],
+  "rank": 948,
+  "forms": {
+   "gender": "f",
+   "pl": "forêts"
+  }
+ },
+ {
+  "lemma": "profond",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 148.15,
+  "also": [],
+  "rank": 949,
+  "forms": {
+   "ms": "profond",
+   "fs": "profonde",
+   "mp": "profonds",
+   "fp": "profondes"
+  }
+ },
+ {
+  "lemma": "diable",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 148.14,
+  "also": [
+   "ONO"
+  ],
+  "rank": 950,
+  "forms": {
+   "gender": "m",
+   "pl": "diables"
+  }
+ },
+ {
+  "lemma": "côte",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 147.66,
+  "also": [],
+  "rank": 951,
+  "forms": {
+   "gender": "f",
+   "pl": "côtes"
+  }
+ },
+ {
+  "lemma": "billet",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 147.45,
+  "also": [],
+  "rank": 952,
+  "forms": {
+   "gender": "m",
+   "pl": "billets"
+  }
+ },
+ {
+  "lemma": "pont",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 147.24,
+  "also": [],
+  "rank": 953,
+  "forms": {
+   "gender": "m",
+   "pl": "ponts"
+  }
+ },
+ {
+  "lemma": "arrière",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 147.15,
+  "also": [
+   "ADJ",
+   "ADV"
+  ],
+  "rank": 954,
+  "forms": {
+   "gender": "m",
+   "pl": "arrières"
+  }
+ },
+ {
+  "lemma": "blesser",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 147.05,
+  "also": [],
+  "rank": 955
+ },
+ {
+  "lemma": "détail",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 146.93,
+  "also": [],
+  "rank": 956,
+  "forms": {
+   "gender": "m",
+   "pl": "détails"
+  }
+ },
+ {
+  "lemma": "crever",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 146.5,
+  "also": [],
+  "rank": 957
+ },
+ {
+  "lemma": "repartir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 146.41,
+  "also": [],
+  "rank": 958
+ },
+ {
+  "lemma": "rendez-vous",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 145.67,
+  "also": [],
+  "rank": 959,
+  "forms": {
+   "gender": "m"
+  }
+ },
+ {
+  "lemma": "écraser",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 145.23,
+  "also": [],
+  "rank": 960
+ },
+ {
+  "lemma": "marquer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 144.86,
+  "also": [],
+  "rank": 961
+ },
+ {
+  "lemma": "génial",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 144.67,
+  "also": [],
+  "rank": 962,
+  "forms": {
+   "ms": "génial",
+   "fs": "géniale",
+   "mp": "géniaux",
+   "fp": "géniales"
+  }
+ },
+ {
+  "lemma": "laver",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 143.88,
+  "also": [],
+  "rank": 963
+ },
+ {
+  "lemma": "commander",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 143.83,
+  "also": [],
+  "rank": 964
+ },
+ {
+  "lemma": "montagne",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 143.83,
+  "also": [],
+  "rank": 965,
+  "forms": {
+   "gender": "f",
+   "pl": "montagnes"
+  }
+ },
+ {
+  "lemma": "inutile",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 143.05,
+  "also": [
+   "NOM"
+  ],
+  "rank": 966,
+  "forms": {
+   "ms": "inutile",
+   "fs": "inutile",
+   "mp": "inutiles",
+   "fp": "inutiles"
+  }
+ },
+ {
+  "lemma": "étage",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 143.0,
+  "also": [],
+  "rank": 967,
+  "forms": {
+   "gender": "m",
+   "pl": "étages"
+  }
+ },
+ {
+  "lemma": "chapeau",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 142.95,
+  "also": [],
+  "rank": 968,
+  "forms": {
+   "gender": "m",
+   "pl": "chapeaux"
+  }
+ },
+ {
+  "lemma": "remplir",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 142.63,
+  "also": [],
+  "rank": 969
+ },
+ {
+  "lemma": "demeurer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 142.03,
+  "also": [],
+  "rank": 970
+ },
+ {
+  "lemma": "cinéma",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 142.0,
+  "also": [],
+  "rank": 971,
+  "forms": {
+   "gender": "m",
+   "pl": "cinémas"
+  }
+ },
+ {
+  "lemma": "éclater",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 141.8,
+  "also": [],
+  "rank": 972
+ },
+ {
+  "lemma": "sept",
+  "cgram": "ADJ:num",
+  "section": "other",
+  "freq": 141.68,
+  "also": [],
+  "rank": 973
+ },
+ {
+  "lemma": "centre",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 141.46,
+  "also": [],
+  "rank": 974,
+  "forms": {
+   "gender": "m",
+   "pl": "centres"
+  }
+ },
+ {
+  "lemma": "livrer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 141.46,
+  "also": [],
+  "rank": 975
+ },
+ {
+  "lemma": "santé",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 141.39,
+  "also": [],
+  "rank": 976,
+  "forms": {
+   "gender": "f",
+   "pl": "santés"
+  }
+ },
+ {
+  "lemma": "prouver",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 141.26,
+  "also": [],
+  "rank": 977
+ },
+ {
+  "lemma": "second",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 141.08,
+  "also": [
+   "NOM"
+  ],
+  "rank": 978,
+  "forms": {
+   "ms": "second",
+   "fs": "seconde",
+   "mp": "seconds",
+   "fp": "secondes"
+  }
+ },
+ {
+  "lemma": "courage",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 141.07,
+  "also": [],
+  "rank": 979,
+  "forms": {
+   "gender": "m",
+   "pl": "courages"
+  }
+ },
+ {
+  "lemma": "toit",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 140.77,
+  "also": [],
+  "rank": 980,
+  "forms": {
+   "gender": "m",
+   "pl": "toits"
+  }
+ },
+ {
+  "lemma": "allemand",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 140.63,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 981,
+  "forms": {
+   "gender": "m",
+   "pl": "allemands",
+   "fem": "allemande"
+  }
+ },
+ {
+  "lemma": "salon",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 140.46,
+  "also": [],
+  "rank": 982,
+  "forms": {
+   "gender": "m",
+   "pl": "salons"
+  }
+ },
+ {
+  "lemma": "trace",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 140.45,
+  "also": [],
+  "rank": 983,
+  "forms": {
+   "gender": "f",
+   "pl": "traces"
+  }
+ },
+ {
+  "lemma": "justement",
+  "cgram": "ADV",
+  "section": "adv",
+  "freq": 140.26,
+  "also": [],
+  "rank": 984
+ },
+ {
+  "lemma": "note",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 140.25,
+  "also": [],
+  "rank": 985,
+  "forms": {
+   "gender": "f",
+   "pl": "notes"
+  }
+ },
+ {
+  "lemma": "soin",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 140.23,
+  "also": [],
+  "rank": 986,
+  "forms": {
+   "gender": "m",
+   "pl": "soins"
+  }
+ },
+ {
+  "lemma": "foule",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 140.11,
+  "also": [],
+  "rank": 987,
+  "forms": {
+   "gender": "f",
+   "pl": "foules"
+  }
+ },
+ {
+  "lemma": "tableau",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 140.11,
+  "also": [],
+  "rank": 988,
+  "forms": {
+   "gender": "m",
+   "pl": "tableaux"
+  }
+ },
+ {
+  "lemma": "forcer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 140.05,
+  "also": [],
+  "rank": 989
+ },
+ {
+  "lemma": "régler",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 140.0,
+  "also": [],
+  "rank": 990
+ },
+ {
+  "lemma": "créer",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 139.97,
+  "also": [],
+  "rank": 991
+ },
+ {
+  "lemma": "militaire",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 139.95,
+  "also": [
+   "NOM"
+  ],
+  "rank": 992,
+  "forms": {
+   "ms": "militaire",
+   "fs": "militaire",
+   "mp": "militaires",
+   "fp": "militaires"
+  }
+ },
+ {
+  "lemma": "projet",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 139.59,
+  "also": [],
+  "rank": 993,
+  "forms": {
+   "gender": "m",
+   "pl": "projets"
+  }
+ },
+ {
+  "lemma": "métier",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 139.56,
+  "also": [],
+  "rank": 994,
+  "forms": {
+   "gender": "m",
+   "pl": "métiers"
+  }
+ },
+ {
+  "lemma": "riche",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 139.32,
+  "also": [
+   "NOM"
+  ],
+  "rank": 995,
+  "forms": {
+   "ms": "riche",
+   "fs": "riche",
+   "mp": "riches",
+   "fp": "riches"
+  }
+ },
+ {
+  "lemma": "surveiller",
+  "cgram": "VER",
+  "section": "verb",
+  "freq": 139.21,
+  "also": [],
+  "rank": 996
+ },
+ {
+  "lemma": "but",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 138.84,
+  "also": [],
+  "rank": 997,
+  "forms": {
+   "gender": "m",
+   "pl": "buts"
+  }
+ },
+ {
+  "lemma": "chair",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 138.76,
+  "also": [
+   "ADJ"
+  ],
+  "rank": 998,
+  "forms": {
+   "gender": "f",
+   "pl": "chairs"
+  }
+ },
+ {
+  "lemma": "américain",
+  "cgram": "ADJ",
+  "section": "adj",
+  "freq": 138.65,
+  "also": [
+   "NOM"
+  ],
+  "rank": 999,
+  "forms": {
+   "ms": "américain",
+   "fs": "américaine",
+   "mp": "américains",
+   "fp": "américaines"
+  }
+ },
+ {
+  "lemma": "hiver",
+  "cgram": "NOM",
+  "section": "noun",
+  "freq": 138.49,
+  "also": [],
+  "rank": 1000,
+  "forms": {
+   "gender": "m",
+   "pl": "hivers"
+  }
+ }
+]
