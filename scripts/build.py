@@ -360,6 +360,72 @@ def load_lexique(words):
     return fem, pron
 
 
+ARTICLE_PR = {'le': 'luh', 'la': 'la', 'les': 'leh', 'un': 'ẽ', 'une': 'ün', 'des': 'deh', 'de': 'duh'}
+LIAISON = {'les': 'z', 'des': 'z', 'un': 'n'}
+
+
+def phrase_pron(text, syll_by_ortho):
+    """Respell a short noun phrase word by word ("la salle de bain"); None if a word is unknown."""
+    out = []
+    words = text.replace("'", "' ").split()
+    for i, w in enumerate(words):
+        low = w.lower().strip(',.')
+        nxt = words[i + 1].lower() if i + 1 < len(words) else ''
+        if low.endswith("'"):
+            out.append(('l' if low == "l'" else low[0]) + '\u2060')
+            continue
+        if low in ARTICLE_PR and i < len(words) - 1:
+            sound = ARTICLE_PR[low]
+            if low in LIAISON and nxt[:1] in VOWELS | {'h'}:
+                sound += LIAISON[low]
+            out.append(sound)
+            continue
+        if low not in syll_by_ortho:
+            return None
+        out.append(respell(syll_by_ortho[low]))
+    return ' '.join(out).replace('\u2060 ', '')
+
+
+def load_ortho_syll(needed):
+    best, score = {}, {}
+    with open('data/Lexique383.tsv', encoding='utf-8') as fh:
+        for r in csv.DictReader(fh, delimiter='\t'):
+            o = r['ortho']
+            if o in needed and r['syll']:
+                f = float(r['freqfilms2']) + float(r['freqlivres'])
+                if f > score.get(o, -1):
+                    score[o], best[o] = f, r['syll']
+    return best
+
+
+def load_montreal():
+    scen = json.load(open('data/montreal.json', encoding='utf-8'))
+    needed = set()
+    for s in scen:
+        for b in s['blocks']:
+            if b['kind'] == 'words':
+                for it in b['items']:
+                    needed |= {w.lower() for w in it['f'].replace("'", "' ").split()}
+    syll = load_ortho_syll(needed)
+    missing = []
+    for s in scen:
+        for b in s['blocks']:
+            if b['kind'] != 'words':
+                continue
+            for it in b['items']:
+                if 'p' in it:
+                    it['pr'] = it.pop('p')
+                    continue
+                p = phrase_pron(it['f'], syll)
+                if p:
+                    it['pr'] = p
+                else:
+                    missing.append(it['f'])
+    if missing:
+        print('  ! Montréal words without pronunciation:', missing, file=sys.stderr)
+    return scen
+
+
 def main():
     words = json.load(open('data/words.json', encoding='utf-8'))
     conj = json.load(open('data/conj.json', encoding='utf-8'))
@@ -456,8 +522,11 @@ def main():
         sections[sec].append(e)
 
     assign_colors()
+    montreal = load_montreal()
+    stats = {k: len(v) for k, v in sections.items()}
+    stats['mtl'] = sum(len(b['items']) for s in montreal for b in s['blocks'])
     data = {'sections': sections, 'patterns': pattern_list, 'persons': PERSON_LABELS,
-            'stats': {k: len(v) for k, v in sections.items()}}
+            'stats': stats, 'montreal': montreal}
     js = json.dumps(data, ensure_ascii=False, separators=(',', ':'))
     tpl = open('src/template.html', encoding='utf-8').read()
     css = open('src/style.css', encoding='utf-8').read()

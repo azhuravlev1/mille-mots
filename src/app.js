@@ -223,6 +223,48 @@
 
   const RENDER = { noun: nounEntry, verb: verbEntry, adj: adjEntry, adv: advEntry, other: otherEntry };
 
+  // ---------------------------------------------------------------- Montréal travel course
+  const ROLE = { say: ['say', 'You say it'], hear: ['hear', "You'll hear it"], see: ['sign', "You'll see it written"] };
+  const MTL = { id: 'mtl', title: 'Montréal', fr: 'guide de voyage' };
+  function mtlWrap(it, kind, inner) {
+    const k = 'mtl|' + it.f;
+    const search = [it.f, it.e, it.n].filter(Boolean).join(' ').toLowerCase();
+    return `<div class="entry mtl-${kind}${known.has(k) ? ' known' : ''}" data-k="${esc(k)}" data-pats="" data-s="${esc(search)}">` +
+      `<button class="known-btn" title="I know this">✓</button>${inner}</div>`;
+  }
+  const qcBadge = (it) => (it.qc ? '<span class="badge b-qc" title="Québec usage">QC</span>' : '');
+  const fauxBadge = (it) => (it.faux ? '<span class="badge b-faux" title="False friend">faux ami</span>' : '');
+  const sayText = (s) => s.replace(/\[[^\]]*\]/g, '').replace(/[·/]/g, ',');
+  function mtlWord(it) {
+    const prs = it.pr ? `<span class="pr">[${esc(it.pr).replace(/eu|[üãõẽ]/g, (m) => `<b>${m}</b>`)}]</span>` : '';
+    const hw = `<span class="fw say" data-say="${esc(sayText(it.f))}">${esc(it.f)}</span>${prs} ${qcBadge(it)}${fauxBadge(it)}`;
+    const more = it.n ? `<div class="more"><span class="note">${esc(it.n)}</span></div>` : '';
+    return mtlWrap(it, 'word', `<div class="hw">${hw}</div><div class="tr">${esc(it.e)}</div>${more}`);
+  }
+  function mtlPhrase(it) {
+    const [label, title] = ROLE[it.r] || ROLE.say;
+    const hw = `<span class="role r-${label}" title="${title}">${label}</span><span class="fp say" data-say="${esc(sayText(it.f))}">${esc(it.f)}</span> ${qcBadge(it)}`;
+    const more = it.n ? `<div class="more"><span class="note">${esc(it.n)}</span></div>` : '';
+    return mtlWrap(it, 'phrase', `<div class="hw">${hw}</div><div class="tr">${esc(it.e)}</div>${more}`);
+  }
+  function montrealHTML() {
+    const scen = D.montreal || [];
+    let html = `<section class="section mtl" id="mtl"><div class="sec-head"><h2>${MTL.title}</h2><span class="fr">${MTL.fr}</span><span class="count">${D.stats.mtl} words &amp; phrases</span></div>`;
+    html += `<p class="sec-intro">A quick course for the trip: the words, the things you'll need to say, the announcements and replies you'll hear, and the signs you'll see. <span class="role r-say">say</span> <span class="role r-hear">hear</span> <span class="role r-sign">sign</span> <span class="badge b-qc">QC</span> = Québec usage.<span class="ext"> Tap any word or phrase to hear it.</span></p>`;
+    html += `<div class="mtl-jump">${scen.map((s) => `<a href="#mtl-${s.id}">${esc(s.title)}</a>`).join('')}</div>`;
+    for (const s of scen) {
+      html += `<div class="group mtl-scen" id="mtl-${s.id}"><div class="group-head"><h3>${esc(s.title)}</h3><span class="gdesc">${esc(s.sub || '')}</span></div>`;
+      html += `<p class="mtl-intro">${esc(s.intro)}</p>`;
+      if (s.tips && s.tips.length) html += `<ul class="mtl-tips">${s.tips.map((t) => `<li>${esc(t)}</li>`).join('')}</ul>`;
+      for (const b of s.blocks) {
+        const render = b.kind === 'words' ? mtlWord : mtlPhrase;
+        html += `<div class="subgroup-head">${esc(b.title)}</div><div class="entries ${b.kind === 'words' ? '' : 'phrases'}">${b.items.map(render).join('')}</div>`;
+      }
+      html += '</div>';
+    }
+    return html + '</section>';
+  }
+
   // ---------------------------------------------------------------- grouping
   function sorted(list) {
     const l = list.slice();
@@ -372,7 +414,7 @@
     const sw = $('modeSwitch');
     sw.dataset.mode = state.mode;
     sw.querySelectorAll('button').forEach((b) => b.classList.toggle('on', b.dataset.mode === state.mode));
-    app.innerHTML = intro() + SECTIONS.map(sectionHTML).join('');
+    app.innerHTML = intro() + SECTIONS.map(sectionHTML).join('') + montrealHTML();
     applyFilters();
   }
 
@@ -409,11 +451,12 @@
   }
 
   // ---------------------------------------------------------------- nav + events
-  $('nav').innerHTML = SECTIONS.map((s) => `<a href="#${s.id}" data-sec="${s.id}">${s.title}<small>${D.stats[s.id] || 0}</small></a>`).join('');
+  const PAGE_ORDER = [...SECTIONS, MTL];
+  $('nav').innerHTML = [MTL, ...SECTIONS].map((s) => `<a href="#${s.id}" data-sec="${s.id}"${s === MTL ? ' class="nav-mtl"' : ''}>${s.title}<small>${D.stats[s.id] || 0}</small></a>`).join('');
   const navLinks = [...document.querySelectorAll('#nav a')];
   const spy = () => {
     let cur = null;
-    for (const s of SECTIONS) {
+    for (const s of PAGE_ORDER) {
       const el = document.getElementById(s.id);
       if (el && el.getBoundingClientRect().top < 140) cur = s.id;
     }
@@ -432,7 +475,7 @@
   });
   function currentAnchor() {
     let cur = null;
-    for (const s of SECTIONS) {
+    for (const s of PAGE_ORDER) {
       const el = document.getElementById(s.id);
       if (el && el.getBoundingClientRect().top < 140) cur = s.id;
     }

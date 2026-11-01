@@ -1,0 +1,1344 @@
+[
+ {
+  "id": "qc",
+  "title": "Québec French survival kit",
+  "sub": "what is different from textbook French",
+  "intro": "Montreal is bilingual, but start every exchange with \"Bonjour\": it is polite and people often answer \"Bonjour-Hi\" so you can choose. Québécois switch to \"tu\" quickly; answering with \"tu\" is fine with people your age.",
+  "tips": [
+   "Meals shift one step: déjeuner = breakfast, dîner = lunch, souper = dinner.",
+   "Prices on tags exclude tax (about 15 % is added at the till). Tip 15–20 % in restaurants and bars; card terminals ask you to pick the percentage.",
+   "Times are written on the 24-hour clock: 19 h 30 = 7:30 pm, said \"dix-neuf heures trente\".",
+   "Accent: \"tu\" and \"di\" sound like \"tsu\" and \"dzi\" (tu dis → tsu dzi), and \"moi\" can sound like \"mwé\". Don't be thrown by it."
+  ],
+  "blocks": [
+   {
+    "title": "Words that differ in Québec",
+    "kind": "words",
+    "items": [
+     {
+      "f": "le dépanneur",
+      "e": "corner store (open late; snacks, drinks)",
+      "n": "Often shortened to « le dép ».",
+      "qc": true
+     },
+     {
+      "f": "le déjeuner",
+      "e": "breakfast",
+      "n": "In France: lunch.",
+      "qc": true
+     },
+     {
+      "f": "le dîner",
+      "e": "lunch",
+      "n": "In France: dinner.",
+      "qc": true
+     },
+     {
+      "f": "le souper",
+      "e": "dinner, supper",
+      "qc": true
+     },
+     {
+      "f": "la fin de semaine",
+      "e": "weekend",
+      "n": "France says « le week-end ».",
+      "qc": true
+     },
+     {
+      "f": "magasiner",
+      "e": "to go shopping",
+      "qc": true
+     },
+     {
+      "f": "la piastre",
+      "e": "dollar (colloquial)",
+      "n": "Pronounced « piasse ». Also « une cenne » = a cent.",
+      "qc": true,
+      "p": "la pyas"
+     },
+     {
+      "f": "la liqueur",
+      "e": "soft drink, pop",
+      "n": "Faux ami! Not liquor (= alcool, spiritueux).",
+      "qc": true,
+      "faux": true
+     },
+     {
+      "f": "le breuvage",
+      "e": "drink, beverage",
+      "qc": true
+     },
+     {
+      "f": "pour emporter",
+      "e": "to go, take-away",
+      "n": "« Pour ici ou pour emporter ? » = for here or to go?"
+     },
+     {
+      "f": "l'addition",
+      "e": "the bill (restaurant)",
+      "n": "In Québec you'll also hear « la facture »."
+     },
+     {
+      "f": "le pourboire",
+      "e": "tip"
+     },
+     {
+      "f": "le char",
+      "e": "car (colloquial)",
+      "qc": true
+     },
+     {
+      "f": "le chum",
+      "e": "boyfriend; buddy",
+      "n": "« Ma blonde » = my girlfriend.",
+      "qc": true,
+      "p": "luh chom"
+     },
+     {
+      "f": "la tuque",
+      "e": "winter hat, beanie",
+      "qc": true
+     },
+     {
+      "f": "frette",
+      "e": "freezing cold (colloquial froid)",
+      "qc": true
+     },
+     {
+      "f": "tantôt",
+      "e": "a little while ago / in a little while",
+      "n": "Context decides: « à tantôt » = see you later.",
+      "qc": true
+     },
+     {
+      "f": "c'est plate",
+      "e": "it's boring, it's a shame",
+      "qc": true
+     }
+    ]
+   },
+   {
+    "title": "Everyday phrases",
+    "kind": "phrases",
+    "items": [
+     {
+      "f": "Bonjour !",
+      "e": "Hello (any time until evening)",
+      "r": "say"
+     },
+     {
+      "f": "Bonsoir !",
+      "e": "Good evening",
+      "r": "say"
+     },
+     {
+      "f": "Allô !",
+      "e": "Hi! (casual, also on the phone)",
+      "r": "hear",
+      "qc": true
+     },
+     {
+      "f": "Merci beaucoup !",
+      "e": "Thanks a lot",
+      "r": "say"
+     },
+     {
+      "f": "Bienvenue !",
+      "e": "You're welcome",
+      "r": "hear",
+      "n": "Québec reply to merci (France: de rien).",
+      "qc": true
+     },
+     {
+      "f": "Pas de trouble.",
+      "e": "No problem.",
+      "r": "hear",
+      "qc": true
+     },
+     {
+      "f": "C'est correct.",
+      "e": "It's OK / that's fine.",
+      "r": "hear",
+      "qc": true
+     },
+     {
+      "f": "Excusez-moi, est-ce que vous parlez anglais ?",
+      "e": "Excuse me, do you speak English?",
+      "r": "say"
+     },
+     {
+      "f": "Pouvez-vous répéter plus lentement, s'il vous plaît ?",
+      "e": "Can you repeat more slowly, please?",
+      "r": "say"
+     },
+     {
+      "f": "Je ne comprends pas.",
+      "e": "I don't understand.",
+      "r": "say"
+     },
+     {
+      "f": "Je suis désolé(e), je parle un peu français.",
+      "e": "Sorry, I speak a little French.",
+      "r": "say"
+     },
+     {
+      "f": "Où sont les toilettes ?",
+      "e": "Where are the restrooms?",
+      "r": "say",
+      "n": "Also « la salle de bain »."
+     },
+     {
+      "f": "C'est combien ?",
+      "e": "How much is it?",
+      "r": "say"
+     },
+     {
+      "f": "Débit ou crédit ?",
+      "e": "Debit or credit?",
+      "r": "hear"
+     },
+     {
+      "f": "Voulez-vous votre reçu ?",
+      "e": "Do you want your receipt?",
+      "r": "hear"
+     },
+     {
+      "f": "Pour ici ou pour emporter ?",
+      "e": "For here or to go?",
+      "r": "hear"
+     },
+     {
+      "f": "Bonne journée ! / Bonne soirée !",
+      "e": "Have a good day / evening!",
+      "r": "hear"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "train",
+  "title": "Train station",
+  "sub": "Gare Centrale, VIA Rail and commuter trains",
+  "intro": "Montreal's main station is Gare Centrale (VIA Rail intercity trains and exo commuter trains), connected underground to Bonaventure metro (orange line). Watch the departures board: look for your train number, the destination, and the track.",
+  "tips": [
+   "On a train, « une voiture » is a carriage, not a car. Your ticket shows voiture + place (seat).",
+   "« À l'heure » = on time; « retardé » = delayed; « annulé » = cancelled.",
+   "Have your ticket and photo ID ready at boarding: « billet et pièce d'identité »."
+  ],
+  "blocks": [
+   {
+    "title": "Key words",
+    "kind": "words",
+    "items": [
+     {
+      "f": "la gare",
+      "e": "train station"
+     },
+     {
+      "f": "le train",
+      "e": "train"
+     },
+     {
+      "f": "le billet",
+      "e": "ticket"
+     },
+     {
+      "f": "un aller simple",
+      "e": "one-way ticket"
+     },
+     {
+      "f": "un aller-retour",
+      "e": "return / round-trip ticket"
+     },
+     {
+      "f": "les départs",
+      "e": "departures"
+     },
+     {
+      "f": "les arrivées",
+      "e": "arrivals"
+     },
+     {
+      "f": "la voie",
+      "e": "track (where the train leaves from)"
+     },
+     {
+      "f": "le quai",
+      "e": "platform"
+     },
+     {
+      "f": "la voiture",
+      "e": "train carriage, car",
+      "n": "On a train, not an automobile."
+     },
+     {
+      "f": "la place",
+      "e": "seat (reserved)",
+      "n": "Also « le siège » = the seat itself."
+     },
+     {
+      "f": "l'embarquement",
+      "e": "boarding"
+     },
+     {
+      "f": "le retard",
+      "e": "delay",
+      "faux": true,
+      "n": "Faux ami: means delay, nothing else."
+     },
+     {
+      "f": "annulé",
+      "e": "cancelled"
+     },
+     {
+      "f": "la correspondance",
+      "e": "connection, transfer",
+      "faux": true,
+      "n": "Not letters: a change between trains/lines."
+     },
+     {
+      "f": "le guichet",
+      "e": "ticket counter, window"
+     },
+     {
+      "f": "la billetterie automatique",
+      "e": "ticket machine"
+     },
+     {
+      "f": "la consigne",
+      "e": "left-luggage, lockers"
+     },
+     {
+      "f": "les bagages",
+      "e": "luggage"
+     },
+     {
+      "f": "le contrôleur",
+      "e": "ticket inspector, conductor"
+     },
+     {
+      "f": "la sortie",
+      "e": "exit"
+     }
+    ]
+   },
+   {
+    "title": "You'll hear (announcements)",
+    "kind": "phrases",
+    "items": [
+     {
+      "f": "Le train numéro 64 à destination de Toronto partira de la voie 15.",
+      "e": "Train number 64 to Toronto will leave from track 15.",
+      "r": "hear"
+     },
+     {
+      "f": "L'embarquement commencera dans dix minutes.",
+      "e": "Boarding will begin in ten minutes.",
+      "r": "hear"
+     },
+     {
+      "f": "Veuillez avoir votre billet et une pièce d'identité en main.",
+      "e": "Please have your ticket and a photo ID in hand.",
+      "r": "hear",
+      "n": "« Veuillez… » = please… (formal, used in all announcements)."
+     },
+     {
+      "f": "Le train en provenance d'Ottawa arrive en retard d'environ vingt minutes.",
+      "e": "The train from Ottawa is arriving about 20 minutes late.",
+      "r": "hear",
+      "n": "en provenance de = coming from; à destination de = going to."
+     },
+     {
+      "f": "Nous nous excusons pour ce retard.",
+      "e": "We apologize for this delay.",
+      "r": "hear"
+     },
+     {
+      "f": "Prochain arrêt : Dorval.",
+      "e": "Next stop: Dorval.",
+      "r": "hear"
+     },
+     {
+      "f": "Votre billet, s'il vous plaît.",
+      "e": "Your ticket, please.",
+      "r": "hear"
+     }
+    ]
+   },
+   {
+    "title": "You'll say",
+    "kind": "phrases",
+    "items": [
+     {
+      "f": "Un aller simple pour Québec, s'il vous plaît.",
+      "e": "A one-way ticket to Québec City, please.",
+      "r": "say"
+     },
+     {
+      "f": "Le train pour Toronto part de quelle voie ?",
+      "e": "Which track does the Toronto train leave from?",
+      "r": "say"
+     },
+     {
+      "f": "Est-ce que le train est à l'heure ?",
+      "e": "Is the train on time?",
+      "r": "say"
+     },
+     {
+      "f": "Excusez-moi, je pense que c'est ma place.",
+      "e": "Excuse me, I think this is my seat.",
+      "r": "say"
+     },
+     {
+      "f": "Où est la station de métro ?",
+      "e": "Where is the metro station?",
+      "r": "say"
+     }
+    ]
+   },
+   {
+    "title": "You'll see (signs)",
+    "kind": "phrases",
+    "items": [
+     {
+      "f": "Départs / Arrivées",
+      "e": "Departures / Arrivals",
+      "r": "see"
+     },
+     {
+      "f": "À l'heure · Retardé · Annulé",
+      "e": "On time · Delayed · Cancelled",
+      "r": "see"
+     },
+     {
+      "f": "Embarquement",
+      "e": "Boarding",
+      "r": "see"
+     },
+     {
+      "f": "Accès aux quais",
+      "e": "To the platforms",
+      "r": "see"
+     },
+     {
+      "f": "Billets",
+      "e": "Tickets",
+      "r": "see"
+     },
+     {
+      "f": "Métro Bonaventure",
+      "e": "Way to Bonaventure metro station",
+      "r": "see"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "metro",
+  "title": "Montreal metro (STM)",
+  "sub": "lines, announcements, buying fares",
+  "intro": "Four lines, named by colour: verte (green, Angrignon ↔ Honoré-Beaugrand), orange (Côte-Vertu ↔ Montmorency), jaune (yellow, Berri-UQAM ↔ Longueuil) and bleue (blue, Snowdon ↔ Saint-Michel). Direction signs show the END station of the line, so know which terminus you are heading towards. Announcements are in French.",
+  "tips": [
+   "Find your direction by the last station: « Direction Montmorency » means the orange line towards Montmorency.",
+   "Big transfer stations: Berri-UQAM (green/orange/yellow), Lionel-Groulx (green/orange), Snowdon and Jean-Talon (orange/blue).",
+   "In announcements listen for three words: « prochaine station » (next station), « correspondance » (transfer) and « interruption » / « ralentissement » (service down / slowed)."
+  ],
+  "blocks": [
+   {
+    "title": "Key words",
+    "kind": "words",
+    "items": [
+     {
+      "f": "le métro",
+      "e": "subway, metro"
+     },
+     {
+      "f": "la station",
+      "e": "metro station",
+      "n": "« La gare » is for trains, « la station » for the metro."
+     },
+     {
+      "f": "la ligne",
+      "e": "line (verte, orange, jaune, bleue)"
+     },
+     {
+      "f": "la direction",
+      "e": "direction (= the end station of the line)"
+     },
+     {
+      "f": "la correspondance",
+      "e": "transfer to another line"
+     },
+     {
+      "f": "le quai",
+      "e": "platform"
+     },
+     {
+      "f": "la rame",
+      "e": "train (the set of metro cars)"
+     },
+     {
+      "f": "le titre de transport",
+      "e": "fare, ticket (any type)",
+      "n": "Official STM word for tickets and passes."
+     },
+     {
+      "f": "la carte OPUS",
+      "e": "OPUS card (rechargeable transit card)"
+     },
+     {
+      "f": "le passage",
+      "e": "a single ride (on a fare card)"
+     },
+     {
+      "f": "la distributrice",
+      "e": "vending / ticket machine",
+      "qc": true
+     },
+     {
+      "f": "le tourniquet",
+      "e": "turnstile"
+     },
+     {
+      "f": "valider",
+      "e": "to tap / validate your card"
+     },
+     {
+      "f": "l'interruption de service",
+      "e": "service stoppage"
+     },
+     {
+      "f": "le ralentissement",
+      "e": "slowdown"
+     },
+     {
+      "f": "la reprise",
+      "e": "resumption (of service)"
+     },
+     {
+      "f": "la navette",
+      "e": "shuttle (replacement bus)"
+     },
+     {
+      "f": "l'autobus",
+      "e": "bus",
+      "n": "Québec says « l'autobus » more than « le bus »."
+     },
+     {
+      "f": "l'arrêt",
+      "e": "stop (bus stop)"
+     },
+     {
+      "f": "l'escalier mécanique",
+      "e": "escalator",
+      "n": "Also « l'escalier roulant »."
+     },
+     {
+      "f": "l'ascenseur",
+      "e": "elevator"
+     }
+    ]
+   },
+   {
+    "title": "You'll hear (announcements)",
+    "kind": "phrases",
+    "items": [
+     {
+      "f": "Prochaine station : Berri-UQAM.",
+      "e": "Next station: Berri-UQAM.",
+      "r": "hear"
+     },
+     {
+      "f": "Correspondance avec les lignes orange et jaune.",
+      "e": "Transfer to the orange and yellow lines.",
+      "r": "hear"
+     },
+     {
+      "f": "Veuillez ne pas retenir les portes.",
+      "e": "Please do not hold the doors.",
+      "r": "hear"
+     },
+     {
+      "f": "Veuillez vous éloigner des portes.",
+      "e": "Please stand clear of the doors.",
+      "r": "hear"
+     },
+     {
+      "f": "En raison d'un incident, le service est interrompu sur la ligne orange entre les stations Lionel-Groulx et Berri-UQAM.",
+      "e": "Due to an incident, service is stopped on the orange line between Lionel-Groulx and Berri-UQAM.",
+      "r": "hear",
+      "n": "« En raison de » = because of. The key part is the two station names: no trains between them."
+     },
+     {
+      "f": "La reprise du service est prévue vers quinze heures.",
+      "e": "Service is expected to resume around 3 pm.",
+      "r": "hear"
+     },
+     {
+      "f": "Un service de navettes par autobus est offert.",
+      "e": "A replacement shuttle bus service is available.",
+      "r": "hear"
+     },
+     {
+      "f": "Le service est maintenant rétabli sur toute la ligne.",
+      "e": "Service is now restored on the whole line.",
+      "r": "hear"
+     },
+     {
+      "f": "Nous vous remercions de votre patience.",
+      "e": "Thank you for your patience.",
+      "r": "hear"
+     },
+     {
+      "f": "Terminus. Tous les passagers doivent descendre.",
+      "e": "End of the line. All passengers must get off.",
+      "r": "hear"
+     }
+    ]
+   },
+   {
+    "title": "You'll say",
+    "kind": "phrases",
+    "items": [
+     {
+      "f": "Je voudrais une carte pour trois jours, s'il vous plaît.",
+      "e": "I'd like a 3-day pass, please.",
+      "r": "say"
+     },
+     {
+      "f": "C'est quelle direction pour aller au Vieux-Port ?",
+      "e": "Which direction to go to the Old Port?",
+      "r": "say"
+     },
+     {
+      "f": "Est-ce que je dois changer de ligne ?",
+      "e": "Do I have to change lines?",
+      "r": "say"
+     },
+     {
+      "f": "C'est quelle sortie pour la rue Sainte-Catherine ?",
+      "e": "Which exit for Sainte-Catherine Street?",
+      "r": "say"
+     },
+     {
+      "f": "Ma carte ne fonctionne pas.",
+      "e": "My card doesn't work.",
+      "r": "say"
+     }
+    ]
+   },
+   {
+    "title": "You'll see (signs)",
+    "kind": "phrases",
+    "items": [
+     {
+      "f": "Direction Côte-Vertu",
+      "e": "Trains towards Côte-Vertu (orange line terminus)",
+      "r": "see"
+     },
+     {
+      "f": "Correspondance",
+      "e": "Transfer to another line",
+      "r": "see"
+     },
+     {
+      "f": "Sortie",
+      "e": "Exit",
+      "r": "see"
+     },
+     {
+      "f": "Accès aux quais",
+      "e": "To the platforms",
+      "r": "see"
+     },
+     {
+      "f": "Ne pas s'appuyer sur les portes",
+      "e": "Do not lean on the doors",
+      "r": "see"
+     },
+     {
+      "f": "Places réservées",
+      "e": "Priority seating",
+      "r": "see"
+     },
+     {
+      "f": "Interdit de fumer",
+      "e": "No smoking",
+      "r": "see"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "hostel",
+  "title": "Hostel check-in",
+  "sub": "five people, one dorm room",
+  "intro": "You'll be in « un dortoir » (dorm). Check-in is « l'arrivée » or « l'enregistrement », check-out is « le départ ». Ask about lockers (bring a padlock: « un cadenas »), sheets and towels, and breakfast (« le déjeuner » in Québec!).",
+  "tips": [
+   "« Le départ est à 11 h » = check-out is at 11 am.",
+   "Roommates will likely use « tu » straight away; do the same.",
+   "« Le lit du haut / du bas » = top / bottom bunk."
+  ],
+  "blocks": [
+   {
+    "title": "Key words",
+    "kind": "words",
+    "items": [
+     {
+      "f": "l'auberge de jeunesse",
+      "e": "youth hostel"
+     },
+     {
+      "f": "la réception",
+      "e": "front desk"
+     },
+     {
+      "f": "la réservation",
+      "e": "booking"
+     },
+     {
+      "f": "l'arrivée",
+      "e": "check-in (arrival)",
+      "n": "Also « l'enregistrement »."
+     },
+     {
+      "f": "le départ",
+      "e": "check-out (departure)"
+     },
+     {
+      "f": "le dortoir",
+      "e": "dorm room"
+     },
+     {
+      "f": "la chambre partagée",
+      "e": "shared room"
+     },
+     {
+      "f": "le lit superposé",
+      "e": "bunk bed"
+     },
+     {
+      "f": "le casier",
+      "e": "locker"
+     },
+     {
+      "f": "le cadenas",
+      "e": "padlock"
+     },
+     {
+      "f": "les draps",
+      "e": "bed sheets"
+     },
+     {
+      "f": "la serviette",
+      "e": "towel",
+      "faux": true,
+      "n": "Faux ami: a towel, not a napkin first (napkin = serviette de table)."
+     },
+     {
+      "f": "l'oreiller",
+      "e": "pillow"
+     },
+     {
+      "f": "la couverture",
+      "e": "blanket"
+     },
+     {
+      "f": "la carte magnétique",
+      "e": "key card"
+     },
+     {
+      "f": "la salle de bain partagée",
+      "e": "shared bathroom"
+     },
+     {
+      "f": "la douche",
+      "e": "shower",
+      "n": "RU: душ."
+     },
+     {
+      "f": "la cuisine commune",
+      "e": "shared kitchen"
+     },
+     {
+      "f": "le mot de passe",
+      "e": "password (Wi-Fi)"
+     },
+     {
+      "f": "la consigne à bagages",
+      "e": "luggage storage"
+     },
+     {
+      "f": "le dépôt",
+      "e": "deposit (key card, towel)"
+     },
+     {
+      "f": "la prise",
+      "e": "power outlet",
+      "n": "« Une prise de courant » = outlet; « un chargeur » = charger."
+     },
+     {
+      "f": "le bouchon",
+      "e": "earplug (bouchon d'oreille); also traffic jam",
+      "n": "Two meanings: earplug and traffic jam."
+     }
+    ]
+   },
+   {
+    "title": "At the front desk — you'll say",
+    "kind": "phrases",
+    "items": [
+     {
+      "f": "Bonjour, j'ai une réservation au nom de [nom de famille].",
+      "e": "Hello, I have a booking under the name [surname].",
+      "r": "say"
+     },
+     {
+      "f": "C'est pour quatre nuits, dans un dortoir de cinq personnes.",
+      "e": "It's for four nights, in a five-person dorm.",
+      "r": "say"
+     },
+     {
+      "f": "À quelle heure est le départ ?",
+      "e": "What time is check-out?",
+      "r": "say"
+     },
+     {
+      "f": "Est-ce que le déjeuner est inclus ?",
+      "e": "Is breakfast included?",
+      "r": "say"
+     },
+     {
+      "f": "Est-ce qu'il y a des casiers ?",
+      "e": "Are there lockers?",
+      "r": "say"
+     },
+     {
+      "f": "Est-ce que je peux louer un cadenas / une serviette ?",
+      "e": "Can I rent a padlock / a towel?",
+      "r": "say"
+     },
+     {
+      "f": "Quel est le mot de passe du wifi ?",
+      "e": "What's the Wi-Fi password?",
+      "r": "say"
+     },
+     {
+      "f": "Est-ce que je peux laisser mes bagages ici après le départ ?",
+      "e": "Can I leave my luggage here after check-out?",
+      "r": "say"
+     },
+     {
+      "f": "La douche ne marche pas.",
+      "e": "The shower isn't working.",
+      "r": "say"
+     }
+    ]
+   },
+   {
+    "title": "At the front desk — you'll hear",
+    "kind": "phrases",
+    "items": [
+     {
+      "f": "Avez-vous une pièce d'identité ?",
+      "e": "Do you have ID?",
+      "r": "hear"
+     },
+     {
+      "f": "Je vais avoir besoin de votre passeport.",
+      "e": "I'll need your passport.",
+      "r": "hear"
+     },
+     {
+      "f": "Il reste un montant à payer de…",
+      "e": "There's a balance remaining of…",
+      "r": "hear"
+     },
+     {
+      "f": "Il y a un dépôt de vingt dollars pour la carte.",
+      "e": "There's a $20 deposit for the key card.",
+      "r": "hear"
+     },
+     {
+      "f": "Votre chambre est au troisième étage, lit numéro deux.",
+      "e": "Your room is on the third floor, bed number two.",
+      "r": "hear",
+      "n": "Québec counts floors like North America: 1er étage = ground floor."
+     },
+     {
+      "f": "Les draps sont sur le lit.",
+      "e": "The sheets are on the bed.",
+      "r": "hear"
+     },
+     {
+      "f": "Le déjeuner est servi de sept heures à dix heures.",
+      "e": "Breakfast is served from 7 to 10.",
+      "r": "hear"
+     },
+     {
+      "f": "Les heures de silence sont de 23 h à 7 h.",
+      "e": "Quiet hours are from 11 pm to 7 am.",
+      "r": "hear"
+     }
+    ]
+   },
+   {
+    "title": "With your roommates",
+    "kind": "phrases",
+    "items": [
+     {
+      "f": "Salut ! Moi, c'est [prénom]. Toi, c'est quoi ton nom ?",
+      "e": "Hi! I'm [first name]. What's your name?",
+      "r": "say"
+     },
+     {
+      "f": "Tu viens d'où ?",
+      "e": "Where are you from?",
+      "r": "hear"
+     },
+     {
+      "f": "C'est ton lit ?",
+      "e": "Is this your bed?",
+      "r": "say"
+     },
+     {
+      "f": "Je prends le lit du haut, ça te va ?",
+      "e": "I'll take the top bunk, is that OK?",
+      "r": "say"
+     },
+     {
+      "f": "Est-ce que je peux éteindre la lumière ?",
+      "e": "Can I turn off the light?",
+      "r": "say"
+     },
+     {
+      "f": "Désolé, je ne voulais pas te réveiller.",
+      "e": "Sorry, I didn't mean to wake you.",
+      "r": "say"
+     },
+     {
+      "f": "Je pars tôt demain matin.",
+      "e": "I'm leaving early tomorrow morning.",
+      "r": "say"
+     },
+     {
+      "f": "Tu as un chargeur ?",
+      "e": "Do you have a charger?",
+      "r": "say"
+     },
+     {
+      "f": "On va prendre une bière, tu viens ?",
+      "e": "We're going for a beer, are you coming?",
+      "r": "hear"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "museum",
+  "title": "Buying museum tickets",
+  "sub": "billets, rates, coat check",
+  "intro": "At the ticket desk (« la billetterie ») you'll choose a rate (« tarif »), and between the permanent collection and a temporary exhibition. In winter, use « le vestiaire » (coat check): many museums require large bags and coats to be left there.",
+  "tips": [
+   "Ask « Est-ce qu'il y a un tarif réduit ? » — reduced rates exist for students, youth and seniors; bring the ID.",
+   "« L'exposition temporaire » often costs extra; « la collection permanente » is the regular galleries.",
+   "« Gratuit » = free; « complet » = sold out."
+  ],
+  "blocks": [
+   {
+    "title": "Key words",
+    "kind": "words",
+    "items": [
+     {
+      "f": "le musée",
+      "e": "museum"
+     },
+     {
+      "f": "la billetterie",
+      "e": "ticket office"
+     },
+     {
+      "f": "le billet",
+      "e": "ticket"
+     },
+     {
+      "f": "le tarif",
+      "e": "rate, price category",
+      "n": "tarif adulte / étudiant / réduit."
+     },
+     {
+      "f": "l'entrée",
+      "e": "admission; entrance",
+      "n": "« L'entrée est gratuite » = admission is free."
+     },
+     {
+      "f": "gratuit",
+      "e": "free (no cost)"
+     },
+     {
+      "f": "l'exposition",
+      "e": "exhibition",
+      "n": "Often shortened to « l'expo »."
+     },
+     {
+      "f": "la collection permanente",
+      "e": "permanent collection"
+     },
+     {
+      "f": "le vestiaire",
+      "e": "coat check, cloakroom"
+     },
+     {
+      "f": "l'audioguide",
+      "e": "audio guide",
+      "p": "loh·dyoh·geed"
+     },
+     {
+      "f": "le plan",
+      "e": "map (of the museum)"
+     },
+     {
+      "f": "la salle",
+      "e": "gallery room"
+     },
+     {
+      "f": "l'étage",
+      "e": "floor, level"
+     },
+     {
+      "f": "la visite guidée",
+      "e": "guided tour"
+     },
+     {
+      "f": "l'œuvre",
+      "e": "work of art",
+      "p": "leuvr"
+     },
+     {
+      "f": "le tableau",
+      "e": "painting",
+      "faux": true,
+      "n": "Faux ami: not a table; « tableau » = painting (also board)."
+     },
+     {
+      "f": "la boutique",
+      "e": "gift shop"
+     },
+     {
+      "f": "le casier",
+      "e": "locker"
+     }
+    ]
+   },
+   {
+    "title": "You'll say",
+    "kind": "phrases",
+    "items": [
+     {
+      "f": "Un billet adulte, s'il vous plaît.",
+      "e": "One adult ticket, please.",
+      "r": "say"
+     },
+     {
+      "f": "Est-ce qu'il y a un tarif étudiant ?",
+      "e": "Is there a student rate?",
+      "r": "say"
+     },
+     {
+      "f": "Est-ce que l'exposition temporaire est incluse ?",
+      "e": "Is the temporary exhibition included?",
+      "r": "say"
+     },
+     {
+      "f": "Où est le vestiaire ?",
+      "e": "Where is the coat check?",
+      "r": "say"
+     },
+     {
+      "f": "Est-ce qu'on peut prendre des photos ?",
+      "e": "Can we take photos?",
+      "r": "say"
+     },
+     {
+      "f": "Le musée ferme à quelle heure ?",
+      "e": "What time does the museum close?",
+      "r": "say"
+     }
+    ]
+   },
+   {
+    "title": "You'll hear",
+    "kind": "phrases",
+    "items": [
+     {
+      "f": "C'est pour la collection ou pour l'exposition ?",
+      "e": "Is it for the collection or the exhibition?",
+      "r": "hear"
+     },
+     {
+      "f": "Avez-vous une carte étudiante ?",
+      "e": "Do you have a student card?",
+      "r": "hear"
+     },
+     {
+      "f": "Les sacs à dos doivent être laissés au vestiaire.",
+      "e": "Backpacks must be left at the coat check.",
+      "r": "hear"
+     },
+     {
+      "f": "Le musée ferme dans quinze minutes.",
+      "e": "The museum closes in fifteen minutes.",
+      "r": "hear"
+     },
+     {
+      "f": "Gardez votre billet, il est valide toute la journée.",
+      "e": "Keep your ticket, it's valid all day.",
+      "r": "hear"
+     }
+    ]
+   },
+   {
+    "title": "You'll see (signs)",
+    "kind": "phrases",
+    "items": [
+     {
+      "f": "Billetterie",
+      "e": "Tickets",
+      "r": "see"
+     },
+     {
+      "f": "Photos sans flash seulement",
+      "e": "Photos without flash only",
+      "r": "see"
+     },
+     {
+      "f": "Prière de ne pas toucher",
+      "e": "Please do not touch",
+      "r": "see"
+     },
+     {
+      "f": "Début de l'exposition",
+      "e": "Exhibition starts here",
+      "r": "see"
+     },
+     {
+      "f": "Entrée libre",
+      "e": "Free admission",
+      "r": "see"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "concert",
+  "title": "Going to a concert",
+  "sub": "« un spectacle » or simply « un show »",
+  "intro": "In Québec people say « un show » as often as « un spectacle ». Check « l'ouverture des portes » (doors) on your ticket, and whether you're « debout » (standing, usually « le parterre ») or « assis » (seated, with section / rangée / siège).",
+  "tips": [
+   "« La première partie » is the opening act, not the first half. « Le rappel » is the encore — shout « Une autre ! » for one more song.",
+   "Bars and venues check ID: legal drinking age in Québec is 18. « Une consommation » = a drink.",
+   "Your e-ticket's QR code is « le code QR » (said « ku-air »)."
+  ],
+  "blocks": [
+   {
+    "title": "Key words",
+    "kind": "words",
+    "items": [
+     {
+      "f": "le spectacle",
+      "e": "show, concert, performance"
+     },
+     {
+      "f": "le show",
+      "e": "show, gig",
+      "qc": true
+     },
+     {
+      "f": "la salle de spectacle",
+      "e": "concert hall, venue"
+     },
+     {
+      "f": "la billetterie",
+      "e": "box office"
+     },
+     {
+      "f": "le billet électronique",
+      "e": "e-ticket"
+     },
+     {
+      "f": "complet",
+      "e": "sold out"
+     },
+     {
+      "f": "l'ouverture des portes",
+      "e": "doors open (time)"
+     },
+     {
+      "f": "la première partie",
+      "e": "opening act",
+      "faux": true,
+      "n": "Not 'the first part' of the show."
+     },
+     {
+      "f": "l'entracte",
+      "e": "intermission"
+     },
+     {
+      "f": "le rappel",
+      "e": "encore"
+     },
+     {
+      "f": "le parterre",
+      "e": "floor, standing area"
+     },
+     {
+      "f": "le balcon",
+      "e": "balcony"
+     },
+     {
+      "f": "la rangée",
+      "e": "row"
+     },
+     {
+      "f": "le siège",
+      "e": "seat"
+     },
+     {
+      "f": "debout",
+      "e": "standing"
+     },
+     {
+      "f": "assis",
+      "e": "seated"
+     },
+     {
+      "f": "le vestiaire",
+      "e": "coat check"
+     },
+     {
+      "f": "la consommation",
+      "e": "a drink (at a bar)",
+      "n": "« Une conso »."
+     },
+     {
+      "f": "le bracelet",
+      "e": "wristband"
+     },
+     {
+      "f": "la sortie de secours",
+      "e": "emergency exit"
+     }
+    ]
+   },
+   {
+    "title": "You'll say",
+    "kind": "phrases",
+    "items": [
+     {
+      "f": "J'ai un billet électronique, voici le code QR.",
+      "e": "I have an e-ticket, here's the QR code.",
+      "r": "say"
+     },
+     {
+      "f": "Est-ce qu'il reste des billets pour ce soir ?",
+      "e": "Are there tickets left for tonight?",
+      "r": "say"
+     },
+     {
+      "f": "Le show commence à quelle heure ?",
+      "e": "What time does the show start?",
+      "r": "say"
+     },
+     {
+      "f": "Où est ma place ? Section B, rangée 12.",
+      "e": "Where's my seat? Section B, row 12.",
+      "r": "say"
+     },
+     {
+      "f": "Une bière, s'il vous plaît.",
+      "e": "A beer, please.",
+      "r": "say"
+     },
+     {
+      "f": "C'était malade !",
+      "e": "That was amazing! (colloquial)",
+      "r": "say",
+      "qc": true
+     }
+    ]
+   },
+   {
+    "title": "You'll hear",
+    "kind": "phrases",
+    "items": [
+     {
+      "f": "Votre billet, s'il vous plaît.",
+      "e": "Your ticket, please.",
+      "r": "hear"
+     },
+     {
+      "f": "Une pièce d'identité, s'il vous plaît.",
+      "e": "ID, please.",
+      "r": "hear"
+     },
+     {
+      "f": "Les sacs doivent être fouillés.",
+      "e": "Bags must be searched.",
+      "r": "hear"
+     },
+     {
+      "f": "Le spectacle commence dans cinq minutes.",
+      "e": "The show starts in five minutes.",
+      "r": "hear"
+     },
+     {
+      "f": "C'est complet pour ce soir.",
+      "e": "It's sold out tonight.",
+      "r": "hear"
+     },
+     {
+      "f": "Une autre ! Une autre !",
+      "e": "One more! (the crowd asking for an encore)",
+      "r": "hear"
+     }
+    ]
+   },
+   {
+    "title": "You'll see (signs)",
+    "kind": "phrases",
+    "items": [
+     {
+      "f": "Ouverture des portes : 19 h — Spectacle : 20 h",
+      "e": "Doors 7 pm — show 8 pm",
+      "r": "see"
+     },
+     {
+      "f": "Billetterie",
+      "e": "Box office",
+      "r": "see"
+     },
+     {
+      "f": "Parterre debout / Balcon",
+      "e": "Standing floor / Balcony",
+      "r": "see"
+     },
+     {
+      "f": "Interdit aux moins de 18 ans",
+      "e": "No one under 18",
+      "r": "see"
+     },
+     {
+      "f": "Sortie de secours",
+      "e": "Emergency exit",
+      "r": "see"
+     }
+    ]
+   }
+  ]
+ }
+]
